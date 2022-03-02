@@ -1,0 +1,270 @@
+{
+  "type": "Collection",
+  "id": "Land",
+  "stac_version": "1.0.0",
+  "description": "The carbon cycle is central to the Earth system, being inextricably coupled with climate, the water cycle, nutrient cycles and the production of biomass by photosynthesis on land and in the oceans. In the natural system the balance among carbon in the atmosphere, land and ocean is regulated through fluxes between these three main reservoirs. In addition to these natural components, there are the contributions to the atmosphere from human activities, namely, fossil fuel burning, cement production, and a range of land management practices. Over the past 250 years, the atmospheric carbon dioxide (CO2) concentration has increased by roughly 45% from its pre-industrial value of roughly 280 parts per million by volume (ppm). In the same timeframe, atmospheric methane (CH4), a greenhouse gas 28 times more powerful than CO2 has more than doubled due to human activities, responsible for approx. 60% of total emissions, and, after a hiatus, is rising faster than at any time in the last two decades. Understanding the patterns of exchanges of carbon between the atmosphere, ocean and land and the processes associated to them such as CO2 fertilization, ocean acidification, changes in surface runoff of sediments, changes to wetlands and peatlands, warming of permafrost, and changes to natural disturbance regimes, are critical to improving knowledge of the carbon cycle, its direct and indirect impacts on society and identifying approaches to mitigate and adapt for its consequences.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/2020/01/31/a-collaboration-on-carbon-science-just-kicked-off/"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-73.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-44.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-117.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-80.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-81.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-25.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-97.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-65.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-111.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-96.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-54.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-48.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-94.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-76.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-93.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-112.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-53.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-77.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-109.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-29.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-74.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-84.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-45.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-110.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-13.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-60.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "../projects/project-79.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/evaporation-from-land.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/geohazards.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/fraction-of-absorbed-photosynthetically-active-radiation-fapar.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/surface-reflectance.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/river-discharge.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/land-cover.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/leaf-area-index.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/groundwater.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/anthropogenic-water-use.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/lakes.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/climate-extremes.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/carbon-flux.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/fire.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/albedo.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/land-surface-temperature.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/soil-carbon.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/soil-moisture.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/above-ground-biomass.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "osc:type": "Theme",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        -180,
+        -90,
+        180,
+        90
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          null,
+          null
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

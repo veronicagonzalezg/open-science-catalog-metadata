@@ -1,0 +1,54 @@
+{
+  "type": "Catalog",
+  "id": "OSC-Catalog",
+  "stac_version": "1.0.0",
+  "description": "OSC-Catalog",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "alternate",
+      "href": "./metrics.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "alternate",
+      "href": "./codelists.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "child",
+      "href": "./themes/oceans.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./themes/land.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./themes/cryosphere.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./themes/atmosphere.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./themes/magnetosphere-ionosphere.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./themes/solid-earth.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": []
+}
