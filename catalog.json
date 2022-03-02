@@ -10,16 +10,6 @@
       "type": "application/json"
     },
     {
-      "rel": "alternate",
-      "href": "./metrics.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "alternate",
-      "href": "./codelists.xml",
-      "type": "application/xml"
-    },
-    {
       "rel": "child",
       "href": "./themes/oceans.json",
       "type": "application/json"
@@ -48,6 +38,16 @@
       "rel": "child",
       "href": "./themes/solid-earth.json",
       "type": "application/json"
+    },
+    {
+      "rel": "alternate",
+      "href": "./metrics.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "alternate",
+      "href": "./codelists.xml",
+      "type": "application/xml"
     }
   ],
   "stac_extensions": []
