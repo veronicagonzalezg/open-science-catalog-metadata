@@ -81,5 +81,14 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "assets": {
+    "image": {
+      "href": "./images/EO_Magnetosphere_Ionosphere.webp",
+      "title": "image",
+      "roles": [
+        "thumbnail"
+      ]
+    }
+  }
 }

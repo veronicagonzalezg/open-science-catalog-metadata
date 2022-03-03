@@ -86,5 +86,14 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "assets": {
+    "image": {
+      "href": "./images/EO_Solid_Earth.webp",
+      "title": "image",
+      "roles": [
+        "thumbnail"
+      ]
+    }
+  }
 }
