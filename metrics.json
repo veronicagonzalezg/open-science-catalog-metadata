@@ -1,7 +1,45 @@
 {
   "id": "OSC-Catalog",
   "summary": {
-    "years": [],
+    "years": [
+      1985,
+      1986,
+      1987,
+      1988,
+      1989,
+      1990,
+      1991,
+      1992,
+      1993,
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
     "numberOfProducts": 204,
     "numberOfProjects": 119,
     "numberOfVariables": 72,
@@ -14,7 +52,45 @@
       "image": "./images/EO_Oceans.webp",
       "website": "https://eo4society.esa.int/2019/11/11/collaboration-ocean-science/",
       "summary": {
-        "years": [],
+        "years": [
+          1985,
+          1986,
+          1987,
+          1988,
+          1989,
+          1990,
+          1991,
+          1992,
+          1993,
+          1994,
+          1995,
+          1996,
+          1997,
+          1998,
+          1999,
+          2000,
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021
+        ],
         "numberOfProducts": 0,
         "numberOfProjects": 0,
         "numberOfVariables": 27
@@ -84,8 +160,10 @@
           "name": "Wind stress",
           "description": "Wind Stress is the sheer force per unit area exerted by wind blowing over the sea surface. https://space.oscar.wmo.int/variables/view/wind_stress",
           "summary": {
-            "years": [],
-            "numberOfProducts": 0
+            "years": [
+              2019
+            ],
+            "numberOfProducts": 1
           }
         },
         {
@@ -117,9 +195,13 @@
               2014,
               2015,
               2016,
-              2017
+              2017,
+              2018,
+              2019,
+              2020,
+              2021
             ],
-            "numberOfProducts": 5
+            "numberOfProducts": 26
           }
         },
         {
@@ -235,13 +317,31 @@
           "description": "Ocean colour is the radiance emanating from the ocean normalized by the irradiance illuminating the ocean. Products derived from ocean colour remote sensing (OCRS) contain information on the ocean albedo and information on the constituents of the seawater, in particular, phytoplankton pigments such as chlorophyll-a. OCRS products are used to assess ocean ecosystem health and productivity, and the role of the oceans in the global carbon cycle, to manage living marine resources, and to quantify the impacts of climate variability and change. https://gcos.wmo.int/en/essential-climate-variables/ocean-colour",
           "summary": {
             "years": [
+              1997,
+              1998,
+              1999,
+              2000,
+              2001,
+              2002,
+              2003,
+              2004,
+              2005,
+              2006,
+              2007,
+              2008,
+              2009,
+              2010,
+              2011,
+              2012,
+              2013,
+              2014,
               2015,
               2016,
               2017,
               2018,
               2019
             ],
-            "numberOfProducts": 6
+            "numberOfProducts": 7
           }
         },
         {
@@ -290,9 +390,11 @@
               2015,
               2016,
               2017,
-              2018
+              2018,
+              2019,
+              2020
             ],
-            "numberOfProducts": 1
+            "numberOfProducts": 3
           }
         },
         {
@@ -338,7 +440,7 @@
               2018,
               2019
             ],
-            "numberOfProducts": 4
+            "numberOfProducts": 5
           }
         },
         {
@@ -357,7 +459,27 @@
       "image": "./images/EO_Land.webp",
       "website": "https://eo4society.esa.int/2020/01/31/a-collaboration-on-carbon-science-just-kicked-off/",
       "summary": {
-        "years": [],
+        "years": [
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021
+        ],
         "numberOfProducts": 0,
         "numberOfProjects": 0,
         "numberOfVariables": 18
@@ -445,8 +567,23 @@
           "name": "Lakes\u00a0",
           "description": "Information on changes in lake level and area is required on a monthly basis for climate assessment purposes. Approximately 95% of the volume of water held globally in approximately 4 000 000 lakes is contained in the world\u2019s 80 largest lakes. https://gcos.wmo.int/en/essential-climate-variables/lakes",
           "summary": {
-            "years": [],
-            "numberOfProducts": 0
+            "years": [
+              2008,
+              2009,
+              2010,
+              2011,
+              2012,
+              2013,
+              2014,
+              2015,
+              2016,
+              2017,
+              2018,
+              2019,
+              2020,
+              2021
+            ],
+            "numberOfProducts": 1
           }
         },
         {
@@ -527,8 +664,13 @@
           "name": "Soil moisture",
           "description": "Soil moisture is an important variable in land\u2013atmosphere feedbacks at both weather and climate timescales. It plays a major role in partitioning the incoming radiation flux onto the land into fluxes of latent and sensible heat from the land to the atmosphere, and in separating precipitation into runoff, subsurface flow, and infiltration. Soil moisture is intimately involved in the feedback between climate and vegetation, as both local climate and vegetation influence soil moisture through evapotranspiration, while soil moisture is a determinant of the type and condition of vegetation in a region. Changes in soil moisture can accordingly have substantial impacts on agricultural productivity, forestry and ecosystem health. https://gcos.wmo.int/en/essential-climate-variables/soil-moisture",
           "summary": {
-            "years": [],
-            "numberOfProducts": 0
+            "years": [
+              2015,
+              2016,
+              2017,
+              2018
+            ],
+            "numberOfProducts": 2
           }
         },
         {
@@ -547,7 +689,27 @@
       "image": "./images/EO_Cryosphere.webp",
       "website": "https://eo4society.esa.int/2019/10/11/a-collaboration-on-polar-science-just-kicked-off/",
       "summary": {
-        "years": [],
+        "years": [
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021
+        ],
         "numberOfProducts": 0,
         "numberOfProjects": 0,
         "numberOfVariables": 7
@@ -624,8 +786,28 @@
           "name": "Sea Ice thickness",
           "description": "Sea ice variability is a key indicator of climate variability and change in the polar regions. The primary parameters that define the state of sea ice include: concentration, area and extent, ice type, motion, deformation, age, thickness, and volume. The presence of sea ice strongly modifies surface waves and air-sea exchanges of heat, momentum, moisture and gases. Sea ice has a significant impact on the Earth\u2019s albedo and hence changes in Sea Ice impact the global energy budget. The properties of many water masses of the global ocean and strongly influenced determined freezing and melting processes in sea ice regions. https://gcos.wmo.int/en/essential-climate-variables/sea-ice",
           "summary": {
-            "years": [],
-            "numberOfProducts": 0
+            "years": [
+              2003,
+              2004,
+              2005,
+              2006,
+              2007,
+              2008,
+              2009,
+              2010,
+              2011,
+              2012,
+              2013,
+              2014,
+              2015,
+              2016,
+              2017,
+              2018,
+              2019,
+              2020,
+              2021
+            ],
+            "numberOfProducts": 8
           }
         },
         {
@@ -650,7 +832,26 @@
       "image": "./images/EO_Atmosphere.webp",
       "website": "https://eo4society.esa.int/communities/scientists/esa-atmosphere-science-cluster/",
       "summary": {
-        "years": [],
+        "years": [
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021
+        ],
         "numberOfProducts": 0,
         "numberOfProjects": 0,
         "numberOfVariables": 15
@@ -692,8 +893,25 @@
           "name": "Clouds\u00a0",
           "description": "The variable properties of clouds determines the clouds profound effects on radiation and precipitation. They are influenced by and in turn influence the motion of the atmosphere on many scales. They are affected by the presence of aerosols, and modify atmospheric composition in several ways, including the depletion of ozone when they form in the polar stratosphere. https://gcos.wmo.int/en/essential-climate-variables/clouds",
           "summary": {
-            "years": [],
-            "numberOfProducts": 0
+            "years": [
+              2006,
+              2007,
+              2008,
+              2009,
+              2010,
+              2011,
+              2012,
+              2013,
+              2014,
+              2015,
+              2016,
+              2017,
+              2018,
+              2019,
+              2020,
+              2021
+            ],
+            "numberOfProducts": 6
           }
         },
         {
@@ -716,8 +934,26 @@
           "name": "Ozone\u00a0",
           "description": "Ozone (O3) is a naturally occurring trace gas in the stratosphere that inhibits harmful UV radiation from reaching Earth\u2019s surface. Ozone in the troposphere is a pollutant, harmful to all living things. Ozone is strongly linked to climate by its influence on Earth\u2019s radiation budget. The amount of ozone in the global stratosphere began to decrease in 1980 due to catalytic reactions with chlorine and bromine from man-made CFCs and other halocarbons. Severe, seasonal depletions over Antarctica (\u201cozone hole\u201d) have occurred annually since 1985. Thanks to the Montreal Protocol, an international treaty enacted to curtail the production and consumption of ozone-depleting substances, stratospheric ozone levels are expected to return to pre-depletion values. https://gcos.wmo.int/en/essential-climate-variables/ozone",
           "summary": {
-            "years": [],
-            "numberOfProducts": 0
+            "years": [
+              2004,
+              2005,
+              2006,
+              2007,
+              2008,
+              2009,
+              2010,
+              2011,
+              2012,
+              2013,
+              2014,
+              2015,
+              2016,
+              2017,
+              2018,
+              2019,
+              2020
+            ],
+            "numberOfProducts": 8
           }
         },
         {
@@ -763,8 +999,25 @@
           "name": "Aerosols\u00a0",
           "description": "Atmospheric aerosols are minor constituents of the atmosphere by mass, but a critical component in terms of impacts on the climate and especially climate changes. Aerosols influence the global radiation balance by directly scattering solar radiation and indirectly through influencing cloud reflectivity, cloud cover and cloud lifetime. https://gcos.wmo.int/en/essential-climate-variables/aerosols",
           "summary": {
-            "years": [],
-            "numberOfProducts": 0
+            "years": [
+              2006,
+              2007,
+              2008,
+              2009,
+              2010,
+              2011,
+              2012,
+              2013,
+              2014,
+              2015,
+              2016,
+              2017,
+              2018,
+              2019,
+              2020,
+              2021
+            ],
+            "numberOfProducts": 15
           }
         },
         {
@@ -787,8 +1040,16 @@
           "name": "Lightning\u00a0",
           "description": "Lightning is one of the most dramatic weather phenomena, causing many fatalities as well as substantial loss and damage for example by forest fires, damage to electrical infrastructure and other sectors every year all over the world. On top, even more damage is caused by the storms which generate lightning. This direct link to convection makes lightning also a potentially valuable indicator to track and understand trends in storminess, particularly under climate variability and change. In addition, lightning itself impacts the global climate by producing nitrogen oxides (NOX), a strong greenhouse gas. https://gcos.wmo.int/en/essential-climate-variables/lightning",
           "summary": {
-            "years": [],
-            "numberOfProducts": 0
+            "years": [
+              2014,
+              2015,
+              2016,
+              2017,
+              2018,
+              2019,
+              2020
+            ],
+            "numberOfProducts": 1
           }
         }
       ]
@@ -799,7 +1060,27 @@
       "image": "./images/EO_Magnetosphere_Ionosphere.webp",
       "website": "https://eo4society.esa.int/search/magnetosphere",
       "summary": {
-        "years": [],
+        "years": [
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020
+        ],
         "numberOfProducts": 0,
         "numberOfProjects": 0,
         "numberOfVariables": 2
