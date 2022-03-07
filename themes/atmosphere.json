@@ -130,11 +130,6 @@
     },
     {
       "rel": "item",
-      "href": "../projects/project-99.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "../projects/project-58.json",
       "type": "application/json"
     },
