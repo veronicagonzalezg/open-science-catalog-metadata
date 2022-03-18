@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
@@ -16,292 +16,292 @@
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-10.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-10.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-66.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-66.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-116.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-116.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-75.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-75.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-25.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-25.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-92.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-92.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-63.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-63.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-28.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-28.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-6.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-6.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-61.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-61.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-95.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-95.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-85.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-85.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-49.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-49.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-8.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-8.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-21.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-21.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-26.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-26.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-118.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-118.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-24.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-24.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-23.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-23.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-17.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-17.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-27.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-27.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-47.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-47.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-59.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-59.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-62.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-62.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-42.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-42.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-34.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-34.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-98.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-98.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-7.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-7.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-22.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-22.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-currents.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-currents.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/marine-habitats.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/marine-habitats.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/high-resolution-coastal-zone-altimetry.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/high-resolution-coastal-zone-altimetry.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/subsurface-currents.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/subsurface-currents.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/transient-tracers.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/transient-tracers.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/oxygen.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/oxygen.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/wind-stress.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/wind-stress.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/sea-level.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sea-level.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/subsurface-salinity.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/subsurface-salinity.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/plankton.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/plankton.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/geophysical-correction-ionosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/geophysical-correction-ionosphere.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/high-resolution-polar-ocean-altimetry.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/high-resolution-polar-ocean-altimetry.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/nitrous-oxide.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/nitrous-oxide.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/sea-state.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sea-state.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/geophysical-correction-regional-tides.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/geophysical-correction-regional-tides.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/subsurface-temperature.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/subsurface-temperature.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/water-level.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/water-level.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/nutrients.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/nutrients.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/geophysical-correction-wet-troposphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/geophysical-correction-wet-troposphere.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/ocean-colour.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ocean-colour.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/ocean-surface-heat-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ocean-surface-heat-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/inorganic-carbon.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/inorganic-carbon.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-temperature.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-temperature.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/bathymetry.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/bathymetry.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/open-ocean-altimetry.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/open-ocean-altimetry.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-salinity.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-salinity.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-stress.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-stress.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     }
   ],

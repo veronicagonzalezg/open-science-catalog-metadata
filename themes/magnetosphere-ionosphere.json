@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
@@ -16,52 +16,52 @@
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-4.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-4.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-33.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-33.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-104.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-104.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-106.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-106.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-52.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-52.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-105.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-105.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/ionospheric-plasma-density.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ionospheric-plasma-density.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/geomagnetic-field.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/geomagnetic-field.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     }
   ],

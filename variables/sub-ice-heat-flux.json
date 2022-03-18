@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
@@ -16,27 +16,27 @@
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-1.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-1.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-74.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-74.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-2.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/sub-ice-heat-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sub-ice-heat-flux.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
       "type": "application/json"
     }
   ],

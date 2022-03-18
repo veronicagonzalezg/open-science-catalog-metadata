@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
@@ -16,67 +16,67 @@
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-114.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-114.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-118.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-118.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-115.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-115.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-116.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-116.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-109.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-109.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-112.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-112.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-111.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-111.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-113.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-113.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-119.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-119.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-117.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-117.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-110.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-110.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/water-level.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/water-level.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
       "type": "application/json"
     }
   ],

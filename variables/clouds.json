@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
@@ -16,42 +16,42 @@
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-88.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-88.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-80.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-80.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-81.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-81.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-87.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-87.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-91.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-91.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-92.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-92.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/clouds.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/clouds.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
       "type": "application/json"
     }
   ],

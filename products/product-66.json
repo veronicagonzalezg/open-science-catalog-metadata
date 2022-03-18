@@ -66,28 +66,28 @@
     },
     {
       "rel": "root",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/geophysical-correction-wet-troposphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/geophysical-correction-wet-troposphere.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-66.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-66.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/geophysical-correction-wet-troposphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/geophysical-correction-wet-troposphere.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-66.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iso/product-66.xml",
       "roles": [
         "metadata"
       ]

@@ -65,28 +65,28 @@
     },
     {
       "rel": "root",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/above-ground-biomass.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/above-ground-biomass.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-147.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-147.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/above-ground-biomass.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/above-ground-biomass.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-147.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iso/product-147.xml",
       "roles": [
         "metadata"
       ]
