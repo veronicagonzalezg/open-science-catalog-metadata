@@ -28,29 +28,43 @@
   "links": [
     {
       "rel": "via",
-      "href": "https://www.bathysent.org"
+      "href": "https://www.bathysent.org",
+      "title": "Website"
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/projects/an-innovative-method-to-retrieve-global-coastal-bathymetry-from-sentinel-2/"
+      "href": "https://eo4society.esa.int/projects/an-innovative-method-to-retrieve-global-coastal-bathymetry-from-sentinel-2/",
+      "title": "EO4Society Link"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../themes/oceans.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-27.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../themes/oceans.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-27.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ]

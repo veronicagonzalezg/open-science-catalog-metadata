@@ -32,29 +32,43 @@
   "links": [
     {
       "rel": "via",
-      "href": "http://www.3dearth.uni-kiel.de/en"
+      "href": "http://www.3dearth.uni-kiel.de/en",
+      "title": "Website"
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/projects/stse-3d-earth/"
+      "href": "https://eo4society.esa.int/projects/stse-3d-earth/",
+      "title": "EO4Society Link"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../themes/solid-earth.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/solid-earth.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-1.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../themes/solid-earth.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/solid-earth.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-1.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ]

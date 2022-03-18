@@ -28,29 +28,43 @@
   "links": [
     {
       "rel": "via",
-      "href": "https://www.gfz-potsdam.de/en/section/geomagnetism/projects/archive/vera-vertical-coupling-in-earths-atmosphere-at-mid-and-high-latitudes/#c65013"
+      "href": "https://www.gfz-potsdam.de/en/section/geomagnetism/projects/archive/vera-vertical-coupling-in-earths-atmosphere-at-mid-and-high-latitudes/#c65013",
+      "title": "Website"
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/projects/swarm-coupling-high-low-atmosphere-interactions-vertical-coupling-in-earths-atmosphere-at-mid-and-high-latitudes-vera/"
+      "href": "https://eo4society.esa.int/projects/swarm-coupling-high-low-atmosphere-interactions-vertical-coupling-in-earths-atmosphere-at-mid-and-high-latitudes-vera/",
+      "title": "EO4Society Link"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../themes/magnetosphere-ionosphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-105.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../themes/magnetosphere-ionosphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-105.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ]

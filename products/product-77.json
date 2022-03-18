@@ -60,25 +60,38 @@
     },
     {
       "rel": "via",
-      "href": ""
+      "href": "",
+      "title": "Access"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/surface-reflectance.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/surface-reflectance.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-77.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/surface-reflectance.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/surface-reflectance.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-77.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     -180.0,
     -90.0,

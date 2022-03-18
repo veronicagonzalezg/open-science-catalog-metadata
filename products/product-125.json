@@ -37,25 +37,38 @@
     },
     {
       "rel": "via",
-      "href": "http://hydrology.irpi.cnr.it/projects/ridesat/"
+      "href": "http://hydrology.irpi.cnr.it/projects/ridesat/",
+      "title": "Access"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/river-discharge.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/river-discharge.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-125.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/river-discharge.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/river-discharge.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-125.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     11.608,
     44.889,

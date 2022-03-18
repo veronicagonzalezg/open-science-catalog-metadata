@@ -6,16 +6,22 @@
   "links": [
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/2019/11/11/collaboration-ocean-science/"
+      "href": "https://eo4society.esa.int/2019/11/11/collaboration-ocean-science/",
+      "title": "Link"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/subsurface-temperature.json",
+      "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../themes/oceans.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
       "type": "application/json"
     }
   ],
@@ -27,10 +33,12 @@
   "extent": {
     "spatial": {
       "bbox": [
-        -180,
-        -90,
-        180,
-        90
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {

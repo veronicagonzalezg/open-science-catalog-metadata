@@ -58,29 +58,43 @@
     },
     {
       "rel": "via",
-      "href": "https://www.worldoceancirculation.org/Products"
+      "href": "https://www.worldoceancirculation.org/Products",
+      "title": "Access"
     },
     {
       "rel": "via",
-      "href": "https://drive.google.com/file/d/1trfgS_-2eWpvRaUggQnHt8lCVuS519_Q/view?usp=sharing"
+      "href": "https://drive.google.com/file/d/1trfgS_-2eWpvRaUggQnHt8lCVuS519_Q/view?usp=sharing",
+      "title": "Documentation"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/sea-surface-currents.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-currents.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-181.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/sea-surface-currents.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-currents.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-181.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     19.9931766896,
     -34.845355958,

@@ -60,25 +60,38 @@
     },
     {
       "rel": "via",
-      "href": "https://data.bas.ac.uk/full-record.php?id=GB/NERC/BAS/PDC/01287"
+      "href": "https://data.bas.ac.uk/full-record.php?id=GB/NERC/BAS/PDC/01287",
+      "title": "Access"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/ice-sheets-and-ice-shelves.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/ice-sheets-and-ice-shelves.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-152.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/ice-sheets-and-ice-shelves.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/ice-sheets-and-ice-shelves.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-152.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     -180.0,
     -80.0,

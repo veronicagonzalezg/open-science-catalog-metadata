@@ -27,29 +27,43 @@
   "links": [
     {
       "rel": "via",
-      "href": "http://newton.space.noa.gr/index.html"
+      "href": "http://newton.space.noa.gr/index.html",
+      "title": "Website"
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/projects/aeolus-innovation-expro-newton/"
+      "href": "https://eo4society.esa.int/projects/aeolus-innovation-expro-newton/",
+      "title": "EO4Society Link"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../themes/atmosphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-5.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../themes/atmosphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-5.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ]

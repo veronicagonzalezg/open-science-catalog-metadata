@@ -28,29 +28,43 @@
   "links": [
     {
       "rel": "via",
-      "href": "https://arctic-plus.inversion-lab.com/index.html"
+      "href": "https://arctic-plus.inversion-lab.com/index.html",
+      "title": "Website"
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/projects/stse-arctic-theme-5-contributions-to-the-year-of-polar-predictions-yopp/"
+      "href": "https://eo4society.esa.int/projects/stse-arctic-theme-5-contributions-to-the-year-of-polar-predictions-yopp/",
+      "title": "EO4Society Link"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../themes/cryosphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-102.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../themes/cryosphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-102.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ]

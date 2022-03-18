@@ -61,25 +61,38 @@
     },
     {
       "rel": "via",
-      "href": "http://meteolakes.ch/#!/data"
+      "href": "http://meteolakes.ch/#!/data",
+      "title": "Access"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/lakes.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/lakes.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-133.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/lakes.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/lakes.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-133.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     -10.8098181572,
     42.9418280224,

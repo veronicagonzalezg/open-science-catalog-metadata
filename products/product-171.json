@@ -66,25 +66,38 @@
     },
     {
       "rel": "via",
-      "href": "http://www.spacecenter.dk/files/magnetic-models/CHAOS-7/CHAOS-7.8_spline-coefficients.dat"
+      "href": "http://www.spacecenter.dk/files/magnetic-models/CHAOS-7/CHAOS-7.8_spline-coefficients.dat",
+      "title": "Access"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/geomagnetic-field.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/geomagnetic-field.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-171.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/geomagnetic-field.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/geomagnetic-field.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-171.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     -180.0,
     -90.0,

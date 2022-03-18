@@ -30,29 +30,43 @@
   "links": [
     {
       "rel": "via",
-      "href": "https://smb.eo4cryo.dk/"
+      "href": "https://smb.eo4cryo.dk/",
+      "title": "Website"
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/projects/eo4smb/"
+      "href": "https://eo4society.esa.int/projects/eo4smb/",
+      "title": "EO4Society Link"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../themes/cryosphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-43.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../themes/cryosphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-43.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ]

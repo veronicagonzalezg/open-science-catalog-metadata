@@ -26,29 +26,43 @@
   "links": [
     {
       "rel": "via",
-      "href": "https://www.vitrocisetbelgium.com/news/retrieval-total-ozone-over-antarctica-using-ocean-and-land-colour-instrument-board-sentinel"
+      "href": "https://www.vitrocisetbelgium.com/news/retrieval-total-ozone-over-antarctica-using-ocean-and-land-colour-instrument-board-sentinel",
+      "title": "Website"
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/2021/09/07/retrieval-of-total-ozone-at-300m-resolution-over-antarctica-using-s3-olci/"
+      "href": "https://eo4society.esa.int/2021/09/07/retrieval-of-total-ozone-at-300m-resolution-over-antarctica-using-s3-olci/",
+      "title": "EO4Society Link"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../themes/atmosphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-16.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../themes/atmosphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-16.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ]

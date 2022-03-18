@@ -6,46 +6,52 @@
   "links": [
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/communities/scientists/esa-atmosphere-science-cluster/"
+      "href": "https://eo4society.esa.int/communities/scientists/esa-atmosphere-science-cluster/",
+      "title": "Link"
     },
     {
       "rel": "item",
-      "href": "../products/product-88.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-88.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-80.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-80.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-81.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-81.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-87.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-87.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-91.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-91.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-92.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-92.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/clouds.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../themes/atmosphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
       "type": "application/json"
     }
   ],
@@ -57,10 +63,12 @@
   "extent": {
     "spatial": {
       "bbox": [
-        -180,
-        -90,
-        180,
-        90
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {

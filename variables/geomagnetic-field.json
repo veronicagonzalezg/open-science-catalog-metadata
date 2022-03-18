@@ -6,91 +6,97 @@
   "links": [
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/tag/solid-earth/"
+      "href": "https://eo4society.esa.int/tag/solid-earth/",
+      "title": "Link"
     },
     {
       "rel": "item",
-      "href": "../products/product-169.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-169.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-161.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-161.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-168.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-168.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-164.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-164.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-166.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-166.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-170.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-170.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-174.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-174.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-175.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-175.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-173.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-173.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-165.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-165.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-171.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-171.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-163.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-163.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-172.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-172.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-162.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-162.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-167.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-167.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/geomagnetic-field.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../themes/magnetosphere-ionosphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
       "type": "application/json"
     }
   ],
@@ -102,10 +108,12 @@
   "extent": {
     "spatial": {
       "bbox": [
-        -180,
-        -90,
-        180,
-        90
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {

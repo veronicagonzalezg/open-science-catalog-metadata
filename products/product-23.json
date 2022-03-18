@@ -60,29 +60,43 @@
     },
     {
       "rel": "via",
-      "href": "https://www.vitrocisetbelgium.com/news/retrieval-total-ozone-over-antarctica-using-ocean-and-land-colour-instrument-board-sentinel"
+      "href": "https://www.vitrocisetbelgium.com/news/retrieval-total-ozone-over-antarctica-using-ocean-and-land-colour-instrument-board-sentinel",
+      "title": "Access"
     },
     {
       "rel": "via",
-      "href": "https://www.sciencedirect.com/science/article/abs/pii/S0022407321003952?via%3Dihub; https://eo4society.esa.int/wp-content/uploads/2021/05/AnREO_Final-Report.pdf"
+      "href": "https://www.sciencedirect.com/science/article/abs/pii/S0022407321003952?via%3Dihub; https://eo4society.esa.int/wp-content/uploads/2021/05/AnREO_Final-Report.pdf",
+      "title": "Documentation"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/ozone.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/ozone.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-23.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/ozone.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/ozone.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-23.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     -180.0,
     -83.0,

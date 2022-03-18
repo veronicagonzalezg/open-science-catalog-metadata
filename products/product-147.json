@@ -60,25 +60,38 @@
     },
     {
       "rel": "via",
-      "href": "ftp://ext-catds-cecsm:catds2010@ftp.ifremer.fr/Land_products/L3_SMOS_IC_Vegetation_Optical_Depth/"
+      "href": "ftp://ext-catds-cecsm:catds2010@ftp.ifremer.fr/Land_products/L3_SMOS_IC_Vegetation_Optical_Depth/",
+      "title": "Access"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/above-ground-biomass.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/above-ground-biomass.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-147.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/above-ground-biomass.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/above-ground-biomass.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-147.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     -17.6437950701,
     -34.7956685989,

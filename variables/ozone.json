@@ -6,56 +6,62 @@
   "links": [
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/communities/scientists/esa-atmosphere-science-cluster/"
+      "href": "https://eo4society.esa.int/communities/scientists/esa-atmosphere-science-cluster/",
+      "title": "Link"
     },
     {
       "rel": "item",
-      "href": "../products/product-154.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-154.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-148.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-148.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-158.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-158.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-23.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-23.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-159.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-159.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-157.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-157.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-155.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-155.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-156.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-156.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/ozone.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../themes/atmosphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
       "type": "application/json"
     }
   ],
@@ -67,10 +73,12 @@
   "extent": {
     "spatial": {
       "bbox": [
-        -180,
-        -90,
-        180,
-        90
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {

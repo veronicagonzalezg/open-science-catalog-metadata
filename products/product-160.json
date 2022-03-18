@@ -28,25 +28,38 @@
     },
     {
       "rel": "via",
-      "href": "https://zenodo.org/record/3813146#.YaS7fi8w3fY"
+      "href": "https://zenodo.org/record/3813146#.YaS7fi8w3fY",
+      "title": "Access"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/ionospheric-plasma-density.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/ionospheric-plasma-density.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-160.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/ionospheric-plasma-density.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/ionospheric-plasma-density.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-160.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ]

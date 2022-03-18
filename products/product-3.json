@@ -69,25 +69,38 @@
     },
     {
       "rel": "via",
-      "href": "https://4d-antarctica.org/wp-content/uploads/2021/01/Malczyk_etal_2020_data_v2.tar"
+      "href": "https://4d-antarctica.org/wp-content/uploads/2021/01/Malczyk_etal_2020_data_v2.tar",
+      "title": "Access"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/ice-sheets-and-ice-shelves.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/ice-sheets-and-ice-shelves.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-3.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/ice-sheets-and-ice-shelves.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/ice-sheets-and-ice-shelves.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-3.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     -180.0,
     -80.0,

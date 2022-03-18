@@ -60,25 +60,38 @@
     },
     {
       "rel": "via",
-      "href": "https://ramadda.data.bas.ac.uk/repository/entry/show?entryid=0c3a6698-1078-4465-a2c0-ca17ca0a0c39"
+      "href": "https://ramadda.data.bas.ac.uk/repository/entry/show?entryid=0c3a6698-1078-4465-a2c0-ca17ca0a0c39",
+      "title": "Access"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/ice-sheets-and-ice-shelves.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/ice-sheets-and-ice-shelves.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-150.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/ice-sheets-and-ice-shelves.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/ice-sheets-and-ice-shelves.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-150.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     -73.709433726,
     60.2878324851,

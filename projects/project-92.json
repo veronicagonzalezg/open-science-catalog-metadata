@@ -29,29 +29,43 @@
   "links": [
     {
       "rel": "via",
-      "href": "https://www.awi.de/index.php?id=4087&no_cache=1&L=1"
+      "href": "https://www.awi.de/index.php?id=4087&no_cache=1&L=1",
+      "title": "Website"
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/projects/sentinel-5p-innovation-expro-theme-7-ocean-colour-s5p-i-oc/"
+      "href": "https://eo4society.esa.int/projects/sentinel-5p-innovation-expro-theme-7-ocean-colour-s5p-i-oc/",
+      "title": "EO4Society Link"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../themes/oceans.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-92.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../themes/oceans.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-92.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ]

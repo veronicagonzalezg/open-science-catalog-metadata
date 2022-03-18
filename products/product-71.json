@@ -60,25 +60,38 @@
     },
     {
       "rel": "via",
-      "href": "http://www.ifac.cnr.it/cryosmos/products/CRYOSMOS_shelf.tgz"
+      "href": "http://www.ifac.cnr.it/cryosmos/products/CRYOSMOS_shelf.tgz",
+      "title": "Access"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/ice-sheets-and-ice-shelves.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/ice-sheets-and-ice-shelves.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-71.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/ice-sheets-and-ice-shelves.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/ice-sheets-and-ice-shelves.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-71.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     -180.0,
     -83.0,

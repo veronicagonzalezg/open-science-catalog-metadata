@@ -61,25 +61,38 @@
     },
     {
       "rel": "via",
-      "href": "https://www.satoc.eu/projects/CP4O/data_p20.html"
+      "href": "https://www.satoc.eu/projects/CP4O/data_p20.html",
+      "title": "Access"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/bathymetry.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/bathymetry.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-65.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/bathymetry.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/bathymetry.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-65.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     94.0869566999,
     -48.3204367898,

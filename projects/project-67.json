@@ -31,29 +31,43 @@
   "links": [
     {
       "rel": "via",
-      "href": "https://polar-iceshelf.org"
+      "href": "https://polar-iceshelf.org",
+      "title": "Website"
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/projects/polar-ice-shelf/"
+      "href": "https://eo4society.esa.int/projects/polar-ice-shelf/",
+      "title": "EO4Society Link"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../themes/cryosphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-67.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../themes/cryosphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-67.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ]

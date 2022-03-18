@@ -60,25 +60,38 @@
     },
     {
       "rel": "via",
-      "href": "https://zenodo.org/record/1308857#.YaSSUS8w3fY"
+      "href": "https://zenodo.org/record/1308857#.YaSSUS8w3fY",
+      "title": "Access"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/sea-ice-thickness.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/sea-ice-thickness.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-153.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/sea-ice-thickness.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/sea-ice-thickness.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-153.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     -180.0,
     50.0,

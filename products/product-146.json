@@ -60,25 +60,38 @@
     },
     {
       "rel": "via",
-      "href": "ftp://ext-catds-cpdc:catds2010@ftp.ifremer.fr/Land_products/GRIDDED/"
+      "href": "ftp://ext-catds-cpdc:catds2010@ftp.ifremer.fr/Land_products/GRIDDED/",
+      "title": "Access"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/soil-moisture.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/soil-moisture.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-146.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/soil-moisture.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/soil-moisture.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-146.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     -17.6437950701,
     -34.7956685989,

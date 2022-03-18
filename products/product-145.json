@@ -61,25 +61,38 @@
     },
     {
       "rel": "via",
-      "href": "https://www.esasmosrainfall.org/#datasets"
+      "href": "https://www.esasmosrainfall.org/#datasets",
+      "title": "Access"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/precipitation.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/precipitation.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-145.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/precipitation.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/precipitation.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-145.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     -17.6437950701,
     -34.7956685989,

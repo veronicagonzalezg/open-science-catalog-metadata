@@ -6,91 +6,97 @@
   "links": [
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/communities/scientists/esa-atmosphere-science-cluster/"
+      "href": "https://eo4society.esa.int/communities/scientists/esa-atmosphere-science-cluster/",
+      "title": "Link"
     },
     {
       "rel": "item",
-      "href": "../products/product-84.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-84.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-55.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-55.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-79.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-79.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-93.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-93.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-89.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-89.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-86.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-86.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-94.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-94.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-85.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-85.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-82.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-82.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-95.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-95.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-83.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-83.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-90.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-90.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-96.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-96.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-11.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-11.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../products/product-78.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-78.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/aerosols.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../themes/atmosphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
       "type": "application/json"
     }
   ],
@@ -102,10 +108,12 @@
   "extent": {
     "spatial": {
       "bbox": [
-        -180,
-        -90,
-        180,
-        90
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {

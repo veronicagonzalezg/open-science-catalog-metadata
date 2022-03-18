@@ -29,34 +29,48 @@
   "links": [
     {
       "rel": "via",
-      "href": "https://ilgew.ipgp.fr"
+      "href": "https://ilgew.ipgp.fr",
+      "title": "Website"
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/projects/ilgew/"
+      "href": "https://eo4society.esa.int/projects/ilgew/",
+      "title": "EO4Society Link"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../themes/atmosphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../themes/magnetosphere-ionosphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-52.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../themes/magnetosphere-ionosphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-52.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ]

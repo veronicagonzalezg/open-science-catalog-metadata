@@ -63,25 +63,38 @@
     },
     {
       "rel": "via",
-      "href": "https://www.asg.ed.tum.de/fileadmin/w00cip/iapg/Baltic/GNSS-POS.zip"
+      "href": "https://www.asg.ed.tum.de/fileadmin/w00cip/iapg/Baltic/GNSS-POS.zip",
+      "title": "Access"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/sea-level.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/sea-level.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-34.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/sea-level.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/sea-level.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-34.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     9.0405918788,
     53.8666553578,

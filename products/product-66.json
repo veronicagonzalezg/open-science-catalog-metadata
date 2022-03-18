@@ -61,25 +61,38 @@
     },
     {
       "rel": "via",
-      "href": "https://www.satoc.eu/projects/CP4O/data_p23.html"
+      "href": "https://www.satoc.eu/projects/CP4O/data_p23.html",
+      "title": "Access"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/geophysical-correction-wet-troposphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/geophysical-correction-wet-troposphere.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-66.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/geophysical-correction-wet-troposphere.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/geophysical-correction-wet-troposphere.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-66.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     -180.0,
     -90.0,

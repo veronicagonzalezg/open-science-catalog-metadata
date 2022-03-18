@@ -62,29 +62,43 @@
     },
     {
       "rel": "via",
-      "href": "https://digital.csic.es/handle/10261/219679"
+      "href": "https://digital.csic.es/handle/10261/219679",
+      "title": "Access"
     },
     {
       "rel": "via",
-      "href": "https://arcticsalinity.argans.co.uk/documentation/"
+      "href": "https://arcticsalinity.argans.co.uk/documentation/",
+      "title": "Documentation"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/sea-surface-salinity.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-salinity.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-24.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/sea-surface-salinity.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-salinity.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-24.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     -178.4105321808,
     60.6134006095,

@@ -6,61 +6,67 @@
   "links": [
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/tag/solid-earth/"
+      "href": "https://eo4society.esa.int/tag/solid-earth/",
+      "title": "Link"
     },
     {
       "rel": "item",
-      "href": "../projects/project-46.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-46.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../projects/project-111.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-111.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../projects/project-33.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-33.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../projects/project-1.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-1.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../projects/project-106.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-106.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "../projects/project-110.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-110.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "../variables/earth-s-core.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/earth-s-core.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "../variables/upper-mantle.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/upper-mantle.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "../variables/lower-mantle.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/lower-mantle.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/solid-earth.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     }
   ],
@@ -71,10 +77,12 @@
   "extent": {
     "spatial": {
       "bbox": [
-        -180,
-        -90,
-        180,
-        90
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {

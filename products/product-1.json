@@ -61,25 +61,38 @@
     },
     {
       "rel": "via",
-      "href": "https://dataverse01.geus.dk/dataset.xhtml?persistentId=doi:10.22008/FK2/F9P03L"
+      "href": "https://dataverse01.geus.dk/dataset.xhtml?persistentId=doi:10.22008/FK2/F9P03L",
+      "title": "Access"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/sub-ice-heat-flux.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/sub-ice-heat-flux.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-1.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/sub-ice-heat-flux.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/sub-ice-heat-flux.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-1.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     -178.4105321808,
     60.6134006095,

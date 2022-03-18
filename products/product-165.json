@@ -62,29 +62,43 @@
     },
     {
       "rel": "via",
-      "href": "https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/webgeodyn"
+      "href": "https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/webgeodyn",
+      "title": "Access"
     },
     {
       "rel": "via",
-      "href": "https://geodynamo.gricad-pages.univ-grenoble-alpes.fr/webgeodyn/index.html"
+      "href": "https://geodynamo.gricad-pages.univ-grenoble-alpes.fr/webgeodyn/index.html",
+      "title": "Documentation"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/geomagnetic-field.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/geomagnetic-field.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-165.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/geomagnetic-field.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/geomagnetic-field.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-165.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     -180.0,
     -90.0,

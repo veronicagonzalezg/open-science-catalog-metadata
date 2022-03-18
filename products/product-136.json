@@ -62,25 +62,38 @@
     },
     {
       "rel": "via",
-      "href": "https://doi.org/10.25921/m5wx-ja34"
+      "href": "https://doi.org/10.25921/m5wx-ja34",
+      "title": "Access"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/inorganic-carbon.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/inorganic-carbon.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-136.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/inorganic-carbon.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/inorganic-carbon.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-136.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     -180.0,
     -90.0,

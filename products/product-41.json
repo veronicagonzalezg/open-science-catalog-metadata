@@ -62,25 +62,38 @@
     },
     {
       "rel": "via",
-      "href": "https://digital.csic.es/handle/10261/239770"
+      "href": "https://digital.csic.es/handle/10261/239770",
+      "title": "Access"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/sea-surface-salinity.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-salinity.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-41.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/sea-surface-salinity.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-salinity.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-41.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     9.0405918788,
     53.8666553578,

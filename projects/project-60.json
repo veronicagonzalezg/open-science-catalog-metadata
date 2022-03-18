@@ -26,29 +26,43 @@
   "links": [
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/projects/multi-flex-towards-a-strategy-for-fluorescence-monitoring-at-multiple-scales-within-the-context-of-the-flex-s-3-tandem-mission/"
+      "href": "https://eo4society.esa.int/projects/multi-flex-towards-a-strategy-for-fluorescence-monitoring-at-multiple-scales-within-the-context-of-the-flex-s-3-tandem-mission/",
+      "title": "Website"
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/projects/multi-flex-towards-a-strategy-for-fluorescence-monitoring-at-multiple-scales-within-the-context-of-the-flex-s-3-tandem-mission/"
+      "href": "https://eo4society.esa.int/projects/multi-flex-towards-a-strategy-for-fluorescence-monitoring-at-multiple-scales-within-the-context-of-the-flex-s-3-tandem-mission/",
+      "title": "EO4Society Link"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../themes/land.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-60.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../themes/land.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-60.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ]

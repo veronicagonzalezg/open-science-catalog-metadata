@@ -29,29 +29,43 @@
   "links": [
     {
       "rel": "via",
-      "href": "http://project.gisat.cz/s14scienceAmazonas/"
+      "href": "http://project.gisat.cz/s14scienceAmazonas/",
+      "title": "Website"
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/projects/s14science-amazonas/"
+      "href": "https://eo4society.esa.int/projects/s14science-amazonas/",
+      "title": "EO4Society Link"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../themes/land.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/project-79.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../themes/land.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-79.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ]

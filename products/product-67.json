@@ -61,25 +61,38 @@
     },
     {
       "rel": "via",
-      "href": "https://www.sciencedirect.com/science/article/abs/pii/S0273117718300309?via%3Dihub"
+      "href": "https://www.sciencedirect.com/science/article/abs/pii/S0273117718300309?via%3Dihub",
+      "title": "Access"
     },
     {
       "rel": "root",
-      "href": "../catalog.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "../variables/geophysical-correction-regional-tides.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/geophysical-correction-regional-tides.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/product-67.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../variables/geophysical-correction-regional-tides.json",
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/variables/geophysical-correction-regional-tides.json",
       "type": "application/json"
     }
   ],
-  "assets": {},
+  "assets": {
+    "iso-metadata": {
+      "href": "http://eoepca.github.io/open-science-catalog-metadata/products/iso/product-67.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "bbox": [
     -127.3210847509,
     60.0440393138,
