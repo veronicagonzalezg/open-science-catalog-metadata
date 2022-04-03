@@ -39,6 +39,24 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-138.json",
+      "type": "application/json",
+      "title": "Broadband albedo_Greenland_S3"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-139.json",
+      "type": "application/json",
+      "title": "Spectral albedo_Greenland_S3"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-140.json",
+      "type": "application/json",
+      "title": "Snow grain diameter_Greenland_S3"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"

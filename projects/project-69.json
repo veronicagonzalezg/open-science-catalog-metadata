@@ -35,6 +35,12 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-104.json",
+      "type": "application/json",
+      "title": "Sea ice thickness_monthly_Oct 2010-July 2020Arctic_CryoSat-2 Baseline-D observations"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
@@ -57,7 +63,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-69.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-41.xml",
       "roles": [
         "metadata"
       ]

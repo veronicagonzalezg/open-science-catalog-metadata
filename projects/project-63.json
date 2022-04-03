@@ -35,6 +35,18 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-102.json",
+      "type": "application/json",
+      "title": "Atmospherically-forced and chaotic interannual variability of the sea level and its components over 1993-2015 from the OCCIPUT ensemble simulations"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-101.json",
+      "type": "application/json",
+      "title": "Sea level trends over 1993-2015 and 2005-2015 from the OCCIPUT ensemble simulation"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
@@ -57,7 +69,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-63.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-116.xml",
       "roles": [
         "metadata"
       ]

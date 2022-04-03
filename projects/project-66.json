@@ -36,6 +36,12 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-103.json",
+      "type": "application/json",
+      "title": "Secchi Disk depth_Global Oceans_Multimission"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"

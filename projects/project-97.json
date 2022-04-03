@@ -37,6 +37,18 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-146.json",
+      "type": "application/json",
+      "title": "Gridded_Africa_SMOS level 3 products CATDS"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-147.json",
+      "type": "application/json",
+      "title": "VOD_Africa_SMOS IC products CATDS"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
@@ -59,7 +71,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-97.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-101.xml",
       "roles": [
         "metadata"
       ]

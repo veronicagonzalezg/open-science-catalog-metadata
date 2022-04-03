@@ -40,6 +40,24 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-43.json",
+      "type": "application/json",
+      "title": "Model based Colored Dissolved Organic Matter (CDOM) _Baltics_Model"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-45.json",
+      "type": "application/json",
+      "title": "EO based Color Disolved Organic Matter_Baltics_S3"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-44.json",
+      "type": "application/json",
+      "title": "In-situ measurements_Baltics"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"

@@ -37,6 +37,12 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-153.json",
+      "type": "application/json",
+      "title": "Sea ice volume and snow volume_Prior and posterior uncertainties_North Sea_Cryosat-2"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"

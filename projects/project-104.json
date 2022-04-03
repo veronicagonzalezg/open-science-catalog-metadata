@@ -35,6 +35,30 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-161.json",
+      "type": "application/json",
+      "title": "Swarm-EISCAT conjunction list (2013-2019)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-160.json",
+      "type": "application/json",
+      "title": "CHAMP and Swarm solar activity- and height-scaled polar cap plasma density measurements"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-163.json",
+      "type": "application/json",
+      "title": "Cluster/Swarm B conjunctions"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-162.json",
+      "type": "application/json",
+      "title": "Cluster/Swarm A and C conjunctions"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
@@ -57,7 +81,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-104.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-113.xml",
       "roles": [
         "metadata"
       ]

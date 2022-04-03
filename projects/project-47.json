@@ -37,6 +37,12 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-75.json",
+      "type": "application/json",
+      "title": "Sea Surface Salinity Bias_Global_SMOS"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
@@ -59,7 +65,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-47.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-27.xml",
       "roles": [
         "metadata"
       ]

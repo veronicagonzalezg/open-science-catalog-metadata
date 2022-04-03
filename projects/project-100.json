@@ -39,6 +39,30 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-151.json",
+      "type": "application/json",
+      "title": "Swath elevation_Antarctic ice Sheet_2011-2016_CryoSat-2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-150.json",
+      "type": "application/json",
+      "title": "Ice Sheet_gridded topography_rates of surface elevation change_Greenland_Cryosat-2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-149.json",
+      "type": "application/json",
+      "title": "Swath elevation_Greenland Ice Sheet_2011-2016_CryoSat-2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-152.json",
+      "type": "application/json",
+      "title": "Swath-derived elevation and elevation change_Antarctic ice Sheet_2011-2016_CryoSat-2"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
@@ -61,7 +85,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-100.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-22.xml",
       "roles": [
         "metadata"
       ]

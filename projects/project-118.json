@@ -41,6 +41,60 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-183.json",
+      "type": "application/json",
+      "title": "Daily 3D ocean currents_North Atlantic"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-186.json",
+      "type": "application/json",
+      "title": "Total surface current_North-Atlantic"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-182.json",
+      "type": "application/json",
+      "title": "Doppler derived surface current_Agulhas_S1"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-184.json",
+      "type": "application/json",
+      "title": "Daily 2D ocean surface currents_North Atlantic"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-180.json",
+      "type": "application/json",
+      "title": "Wind stress vector (& anomalies)_Hourly_ERA5"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-181.json",
+      "type": "application/json",
+      "title": "Gridded Surface Current_Oceans_Agulhas"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-188.json",
+      "type": "application/json",
+      "title": "Stokes drift estimation_Atlantic Ocean"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-187.json",
+      "type": "application/json",
+      "title": "Total surface current_Tropical Atlantic"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-185.json",
+      "type": "application/json",
+      "title": "Oceanic/current fronts_Gibraltar"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
@@ -63,7 +117,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-118.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-26.xml",
       "roles": [
         "metadata"
       ]

@@ -35,6 +35,18 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": null,
+      "type": "application/json",
+      "title": "HDO/H2O non-scattering product_S5p-TROPOMI"
+    },
+    {
+      "rel": "item",
+      "href": null,
+      "type": "application/json",
+      "title": "HDO/H2O scattering product_S5p-TROPOMI"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
@@ -57,7 +69,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-115.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-109.xml",
       "roles": [
         "metadata"
       ]

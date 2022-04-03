@@ -35,6 +35,12 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-26.json",
+      "type": "application/json",
+      "title": "Sea ice and physical oceanography_Arctic_CryoSat-2 Baseline-C Level 1b waveform observations"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
@@ -57,7 +63,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-20.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-38.xml",
       "roles": [
         "metadata"
       ]

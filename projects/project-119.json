@@ -36,6 +36,24 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-55.json",
+      "type": "application/json",
+      "title": "Cloud and aerosol products_Regional_S3A/SLSTR"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-56.json",
+      "type": "application/json",
+      "title": "Albedo_Regional_S3A/SLSTR"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-57.json",
+      "type": "application/json",
+      "title": "Radiation budget_Regional_S3"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
@@ -58,7 +76,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-119.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-14.xml",
       "roles": [
         "metadata"
       ]

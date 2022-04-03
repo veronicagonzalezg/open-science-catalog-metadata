@@ -35,6 +35,30 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": null,
+      "type": "application/json",
+      "title": "Digital Elevation Model Antarctic Peninsula <70\u00b0S 2017_Antarctica_TanDEM-X"
+    },
+    {
+      "rel": "item",
+      "href": null,
+      "type": "application/json",
+      "title": "Geodetic glacier mass balances Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
+    },
+    {
+      "rel": "item",
+      "href": null,
+      "type": "application/json",
+      "title": "Surface elevation changes Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
+    },
+    {
+      "rel": "item",
+      "href": null,
+      "type": "application/json",
+      "title": "Digital Elevation Model Antarctic Peninsula <70\u00b0S 2013_Antarctica_TanDEM-X"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
@@ -57,7 +81,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-56.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-85.xml",
       "roles": [
         "metadata"
       ]

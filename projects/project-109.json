@@ -35,6 +35,12 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-176.json",
+      "type": "application/json",
+      "title": "Gross and net Carbon Flux Estimates_Fluxcom2.0 Carbon"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
@@ -57,7 +63,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-109.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-68.xml",
       "roles": [
         "metadata"
       ]

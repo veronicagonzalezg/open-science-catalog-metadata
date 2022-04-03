@@ -81,6 +81,11 @@
       "type": "application/json"
     },
     {
+      "rel": "collection",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-17.json",
+      "type": "application/json"
+    },
+    {
       "rel": "self",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-24.json",
       "type": "application/json"

@@ -26,7 +26,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-116.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-63.json",
       "type": "application/json"
     },
     {
@@ -42,11 +42,6 @@
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-92.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-63.json",
       "type": "application/json"
     },
     {

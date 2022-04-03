@@ -38,6 +38,12 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": null,
+      "type": "application/json",
+      "title": "Semi-empiric model of ionosphere processes_SWARM"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"

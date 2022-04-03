@@ -35,6 +35,12 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-148.json",
+      "type": "application/json",
+      "title": "IUP-OMPS L2 and L3 limb ozone data sets_Global_S2/3"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
@@ -57,7 +63,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-99.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-106.xml",
       "roles": [
         "metadata"
       ]

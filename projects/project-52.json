@@ -38,6 +38,12 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-76.json",
+      "type": "application/json",
+      "title": "Lightning-generated whistler events_Global_SWARM"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
@@ -65,7 +71,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-52.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-15.xml",
       "roles": [
         "metadata"
       ]

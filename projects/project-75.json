@@ -39,6 +39,24 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-135.json",
+      "type": "application/json",
+      "title": "Total Alkalinity_Dissolved inorganic carbon_Global Oceans_SMOS_S3"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-136.json",
+      "type": "application/json",
+      "title": "Gridded dataset_surface ocean carbonate system_Global Oceans_SMOS_S3"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-134.json",
+      "type": "application/json",
+      "title": "Surface-ocean pCO2_Global_S3"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"

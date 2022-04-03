@@ -41,6 +41,30 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-15.json",
+      "type": "application/json",
+      "title": "Dynamics of glacier lakes_SwissAlps_S1/2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-13.json",
+      "type": "application/json",
+      "title": "Snow cover on glaciers_SwissAlps_S1/2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-14.json",
+      "type": "application/json",
+      "title": "Glacier surface flow velocity_SwissAlps_S1/2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-16.json",
+      "type": "application/json",
+      "title": "Slope instabilities in glacier forefields_SwissAlps_S1/2"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
@@ -63,7 +87,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-14.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-45.xml",
       "roles": [
         "metadata"
       ]

@@ -35,6 +35,12 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": null,
+      "type": "application/json",
+      "title": "GOSAT PBL XH2O and Stable Water Water Vapour Isotopologues_Global"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
@@ -57,7 +63,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-113.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-47.xml",
       "roles": [
         "metadata"
       ]

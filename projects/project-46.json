@@ -39,6 +39,12 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-74.json",
+      "type": "application/json",
+      "title": "Density, Temperature, and Viscosity Structure of the Antarctic Lithosphere_Antarctica_GOCE"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"

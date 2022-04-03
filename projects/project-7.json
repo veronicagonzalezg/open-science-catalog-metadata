@@ -36,6 +36,12 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-11.json",
+      "type": "application/json",
+      "title": "Lidar Aerosol Retrieval based on Information from Surface Signal of Aeolus_Global Oceans_AEOLUS"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
@@ -63,7 +69,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-7.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-18.xml",
       "roles": [
         "metadata"
       ]

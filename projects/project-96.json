@@ -38,6 +38,18 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-145.json",
+      "type": "application/json",
+      "title": "Rainfall product_PrISM v4.0_Africa_SMOS"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-144.json",
+      "type": "application/json",
+      "title": "Rainfall_GPM+SM2RAIN v1.0_Global_Multimission"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
@@ -60,7 +72,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-96.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-88.xml",
       "roles": [
         "metadata"
       ]
