@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-04-03T17:57:26.032513</gco:DateTime>
+    <gco:DateTime>2022-04-27T14:40:46.495858</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -131,7 +131,7 @@
         <gco:CharacterString>The dataset consists of a time series of the Sentinel-1 (S-1) surface soil moisture (SSM) product at 1 km spatial resolution validated in Balenzano et al. (2021 a) over the Southern Italy. The specifications of the S-1 SSM product are provided in Balenzano et al. (2021 b). The SSM time series was obtained in correspondence of the ascending (RON A146) S-1 Interferometric Wide swath (IW) acquisition dates from January 2015 to December 2018 with a temporal gap between consecutive of 6 days (when both S-1A and S-1B data are available) or 12 days. On each date (183 in total), two co-registered layers are provided: mean SSM [m3/m3] and its standard deviation [m3/m3], which provides the SSM uncertainty. The retrieval algorithm is a time series short term change detection (STCD) that is implemented in the “Soil MOisture retrieval from multi-temporal SAR data (SMOSAR) code (Balenzano et al. 2013). Product details: https://www.sciencedirect.com/science/article/pii/S2352340921006296?via%3Dihub</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
-        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>
+        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="onGoing">onGoing</gmd:MD_ProgressCode>
       </gmd:status>
       <gmd:resourceMaintenance>
         <gmd:MD_MaintenanceInformation>
@@ -143,7 +143,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Soil Moisture</gco:CharacterString>
+            <gco:CharacterString>Soil moisture at surface</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -207,7 +207,7 @@
               <gmd:extent>
                 <gml:TimePeriod gml:id="T001">
                   <gml:beginPosition>2015-01-01</gml:beginPosition>
-                  <gml:endPosition>2018-01-01</gml:endPosition>
+                  <gml:endPosition>2018-12-31</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>

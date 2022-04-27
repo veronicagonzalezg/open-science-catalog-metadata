@@ -11,8 +11,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Jerome Benveniste",
+      "e-mail": "jerome.benveniste@esa.int"
     },
     "osc:consortium": [
       "TECHNICAL UNIVERSITY OF MUNICH (DE)",
@@ -46,12 +46,6 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-49.json",
-      "type": "application/json",
-      "title": "Earth Energy Imballance (EEI)_GRACE/GRACE-FO"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-47.json",
       "type": "application/json",
       "title": "Hydrodynamic model data (deviation from Sea Level Mean)_Multimission"
@@ -61,6 +55,12 @@
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-46.json",
       "type": "application/json",
       "title": "Baltic Sea Level_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-49.json",
+      "type": "application/json",
+      "title": "Earth Energy Imballance (EEI)_GRACE/GRACE-FO"
     },
     {
       "rel": "root",
@@ -85,7 +85,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-12.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-27.xml",
       "roles": [
         "metadata"
       ]

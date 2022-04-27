@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "Wind stress",
   "stac_version": "1.0.0",
-  "description": "Wind Stress is the sheer force per unit area exerted by wind blowing over the sea surface. https://space.oscar.wmo.int/variables/view/wind_stress",
+  "description": "The shear force per unit area exerted by wind blowing over the sea surface -",
   "links": [
     {
       "rel": "root",
@@ -11,7 +11,7 @@
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/tag/solid-earth/",
+      "href": "",
       "title": "Link"
     },
     {
@@ -33,7 +33,7 @@
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ],
-  "osc:theme": "oceans",
+  "osc:theme": "Oceans",
   "osc:type": "Variable",
   "extent": {
     "spatial": {

@@ -11,8 +11,8 @@
     ],
     "osc:status": "ONGOING",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Stephen Plummer",
+      "e-mail": "stephen.plummer@esa.int"
     },
     "osc:consortium": [
       "UNIVERSITY OF LEICESTER (GB)"
@@ -36,7 +36,7 @@
     },
     {
       "rel": "item",
-      "href": null,
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-177.json",
       "type": "application/json",
       "title": "GOSAT PBL XH2O and Stable Water Water Vapour Isotopologues_Global"
     },
@@ -63,7 +63,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-47.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-113.xml",
       "roles": [
         "metadata"
       ]

@@ -11,8 +11,8 @@
     ],
     "osc:status": "ONGOING",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "",
+      "e-mail": ""
     },
     "osc:consortium": [
       "University of Bristo (UK)"
@@ -33,12 +33,6 @@
       "rel": "via",
       "href": "",
       "title": "EO4Society Link"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-104.json",
-      "type": "application/json",
-      "title": "Sea ice thickness_monthly_Oct 2010-July 2020Arctic_CryoSat-2 Baseline-D observations"
     },
     {
       "rel": "root",
@@ -63,7 +57,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-41.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-99.xml",
       "roles": [
         "metadata"
       ]

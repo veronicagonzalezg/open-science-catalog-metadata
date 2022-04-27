@@ -5,14 +5,14 @@
   "properties": {
     "title": "BICEP",
     "description": "Better characterisation of the different components of the ocean biological carbon pump, its pools and fluxes, its variability in space and time and the understanding of its processes and interactions with the earth system, based on a synergetic use of space data, in-situ measurements and model outputs",
-    "osc:name": "BICEP (Biological Pump and Carbon Exchange Processes)",
+    "osc:name": "Biological Pump and Carbon Exchange Processes",
     "osc:themes": [
       "Oceans"
     ],
-    "osc:status": "COMPLETED",
+    "osc:status": "ONGOING",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Marie-Helene Rio",
+      "e-mail": "marie-helene.rio@esa.int"
     },
     "osc:consortium": [
       "PLYMOUTH MARINE LABORATORY (GB)",
@@ -41,6 +41,48 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-230.json",
+      "type": "application/json",
+      "title": "Export Production"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-228.json",
+      "type": "application/json",
+      "title": "Monthly global Phytoplankton Carbon dataset"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-231.json",
+      "type": "application/json",
+      "title": "Particulate Inorganic Carbon"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-229.json",
+      "type": "application/json",
+      "title": "Dissolved Organic Carbon"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-227.json",
+      "type": "application/json",
+      "title": "Monthly global Marine Phytoplankton Primary Production dataset"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-233.json",
+      "type": "application/json",
+      "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v5)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-226.json",
+      "type": "application/json",
+      "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v4.2)"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
@@ -63,7 +105,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-63.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-26.xml",
       "roles": [
         "metadata"
       ]

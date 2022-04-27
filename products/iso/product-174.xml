@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-04-03T17:57:25.549976</gco:DateTime>
+    <gco:DateTime>2022-04-27T14:40:36.181524</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -131,7 +131,7 @@
         <gco:CharacterString>Updated versions of ascii files containing the selected vector and scalar satellite data (from the Swarm, CHAMP, Oersted and Cryosat-2 satellites) used in building the CHAOS-7.8 field model. Estimates of the crustal and external fields from CHAOS-7.8 are also provide for each datum, so users interested in the core field can subtract these if wished. File headers specify the exact content.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
-        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>
+        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="onGoing">onGoing</gmd:MD_ProgressCode>
       </gmd:status>
       <gmd:resourceMaintenance>
         <gmd:MD_MaintenanceInformation>
@@ -143,7 +143,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Geomagnetic Field</gco:CharacterString>
+            <gco:CharacterString>Geomagnetic field</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>

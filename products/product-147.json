@@ -14,8 +14,8 @@
     "osc:themes": [
       "Land"
     ],
-    "osc:variable": "Above-ground biomass",
-    "osc:status": "COMPLETED",
+    "osc:variable": "Biomass",
+    "osc:status": "ONGOING",
     "osc:region": "Africa",
     "osc:type": "Product",
     "datetime": null
@@ -70,7 +70,7 @@
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/above-ground-biomass.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/biomass.json",
       "type": "application/json"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/above-ground-biomass.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/biomass.json",
       "type": "application/json"
     }
   ],

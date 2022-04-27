@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-04-03T17:57:32.908832</gco:DateTime>
+    <gco:DateTime>2022-04-27T14:40:45.439458</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -131,7 +131,7 @@
         <gco:CharacterString>Simulated river discharge estimated from the combination of multispectral and altimetry datasets</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
-        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>
+        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="onGoing">onGoing</gmd:MD_ProgressCode>
       </gmd:status>
       <gmd:resourceMaintenance>
         <gmd:MD_MaintenanceInformation>
@@ -207,13 +207,16 @@
               <gmd:extent>
                 <gml:TimePeriod gml:id="T001">
                   <gml:beginPosition>2018-01-01</gml:beginPosition>
-                  <gml:endPosition>2020-01-01</gml:endPosition>
+                  <gml:endPosition>2020-12-31</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>
           </gmd:temporalElement>
         </gmd:EX_Extent>
       </gmd:extent>
+      <gmd:supplementalInformation>
+        <gco:CharacterString>http://hydrology.irpi.cnr.it/projects/ridesat/</gco:CharacterString>
+      </gmd:supplementalInformation>
     </gmd:MD_DataIdentification>
   </gmd:identificationInfo>
   <gmd:contentInfo>
@@ -303,7 +306,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>http://hydrology.irpi.cnr.it/projects/ridesat/</gmd:URL>
+                <gmd:URL>https://www.dropbox.com/s/uldrkykvzrqisl2/River_Discharge_Product.rar?dl=0</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>

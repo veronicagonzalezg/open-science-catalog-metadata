@@ -11,8 +11,8 @@
     ],
     "osc:status": "ONGOING",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Diego Fernandez",
+      "e-mail": "diego.fernandez@esa.int"
     },
     "osc:consortium": [
       "UNIVERSITY OF EDINBURGH (GB)",
@@ -75,7 +75,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-96.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-57.xml",
       "roles": [
         "metadata"
       ]

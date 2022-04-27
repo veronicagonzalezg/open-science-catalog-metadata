@@ -11,8 +11,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Stephen Plummer",
+      "e-mail": "stephen.plummer@esa.int"
     },
     "osc:consortium": [
       "UNIVERSITY OF ZURICH (CH)",
@@ -42,18 +42,6 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-15.json",
-      "type": "application/json",
-      "title": "Dynamics of glacier lakes_SwissAlps_S1/2"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-13.json",
-      "type": "application/json",
-      "title": "Snow cover on glaciers_SwissAlps_S1/2"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-14.json",
       "type": "application/json",
       "title": "Glacier surface flow velocity_SwissAlps_S1/2"
@@ -63,6 +51,18 @@
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-16.json",
       "type": "application/json",
       "title": "Slope instabilities in glacier forefields_SwissAlps_S1/2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-13.json",
+      "type": "application/json",
+      "title": "Snow cover on glaciers_SwissAlps_S1/2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-15.json",
+      "type": "application/json",
+      "title": "Dynamics of glacier lakes_SwissAlps_S1/2"
     },
     {
       "rel": "root",
@@ -87,7 +87,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-45.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-100.xml",
       "roles": [
         "metadata"
       ]

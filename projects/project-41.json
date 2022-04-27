@@ -11,8 +11,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Simon Pinnock",
+      "e-mail": "simon.pinnock@esa.int"
     },
     "osc:consortium": [
       "Environmental Earth Observation IT GmbH (ENVEO IT GmbH)",
@@ -39,6 +39,12 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-232.json",
+      "type": "application/json",
+      "title": "Binary wet snow extent products"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
@@ -61,7 +67,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-43.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-88.xml",
       "roles": [
         "metadata"
       ]

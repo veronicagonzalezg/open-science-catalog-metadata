@@ -15,7 +15,7 @@
   <gmd:contact>
     <gmd:CI_ResponsibleParty id="contact-pointOfContact">
       <gmd:individualName>
-        <gco:CharacterString>Technical Officer</gco:CharacterString>
+        <gco:CharacterString>Jerome Bouffard</gco:CharacterString>
       </gmd:individualName>
       <gmd:organisationName>
         <gco:CharacterString>UNIVERSITY OF OSLO (NO), GMV INNOVATING SOLUTIONS SP. Z O.O. (PL), ISTITUTO NAZIONALE DI GEOFISICA E VULCANOLOGIA (IT), NOTTINGHAM TRENT UNIVERSITY (GB)</gco:CharacterString>
@@ -34,7 +34,7 @@
                 <gco:CharacterString/>
               </gmd:postalCode>
               <gmd:electronicMailAddress>
-                <gco:CharacterString>technical.officer@osc.org</gco:CharacterString>
+                <gco:CharacterString>jerome.bouffard@esa.int</gco:CharacterString>
               </gmd:electronicMailAddress>
             </gmd:CI_Address>
           </gmd:address>
@@ -59,7 +59,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-04-03T17:57:00.184611</gco:DateTime>
+    <gco:DateTime>2022-04-27T14:40:25.207631</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -137,7 +137,7 @@
         <gco:CharacterString>In the project Swarm satellite data and other datasets are used to determine determine the dominant scales in the ionosphere at different geomagnetic conditions and create a semi-empiric dynamic model of the ionosphere.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
-        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="onGoing">onGoing</gmd:MD_ProgressCode>
+        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>
       </gmd:status>
       <gmd:resourceMaintenance>
         <gmd:MD_MaintenanceInformation>

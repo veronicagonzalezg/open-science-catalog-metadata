@@ -11,8 +11,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Stephen Plummer",
+      "e-mail": "stephen.plummer@esa.int"
     },
     "osc:consortium": [
       "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS) (FR)"
@@ -57,7 +57,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-20.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-76.xml",
       "roles": [
         "metadata"
       ]

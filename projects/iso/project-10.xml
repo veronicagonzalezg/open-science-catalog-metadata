@@ -15,7 +15,7 @@
   <gmd:contact>
     <gmd:CI_ResponsibleParty id="contact-pointOfContact">
       <gmd:individualName>
-        <gco:CharacterString>Technical Officer</gco:CharacterString>
+        <gco:CharacterString>Christian Retscher</gco:CharacterString>
       </gmd:individualName>
       <gmd:organisationName>
         <gco:CharacterString>Verisk Analytics GmbH (DE), INFORMUS GMBH (DE)</gco:CharacterString>
@@ -34,7 +34,7 @@
                 <gco:CharacterString/>
               </gmd:postalCode>
               <gmd:electronicMailAddress>
-                <gco:CharacterString>technical.officer@osc.org</gco:CharacterString>
+                <gco:CharacterString>christian.retscher@esa.int</gco:CharacterString>
               </gmd:electronicMailAddress>
             </gmd:CI_Address>
           </gmd:address>
@@ -59,7 +59,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-04-03T17:57:00.424394</gco:DateTime>
+    <gco:DateTime>2022-04-27T14:40:27.368231</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -134,7 +134,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>Demonstrate the potential of the Aeolus observations for monitoring of sea surface winds.</gco:CharacterString>
+        <gco:CharacterString>The Sea-Flect study objective is to define, calibrate and validate an ocean surface wind speed retrieval method and retrieval method conditions using Aeolus measurements. These retrievals are used to develop a demonstrational Aeolus surface wind product. In this study, strong emphasis is put on the retrieval method and conditions as it is expected that under specific conditions a good wind speed retrieval may be hampered or may be even impossible. Characterization of these conditions is a main outcome of the project.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>

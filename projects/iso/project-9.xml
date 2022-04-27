@@ -15,7 +15,7 @@
   <gmd:contact>
     <gmd:CI_ResponsibleParty id="contact-pointOfContact">
       <gmd:individualName>
-        <gco:CharacterString>Technical Officer</gco:CharacterString>
+        <gco:CharacterString>Christian Retscher</gco:CharacterString>
       </gmd:individualName>
       <gmd:organisationName>
         <gco:CharacterString>DLR - GERMAN AEROSPACE CENTER (DE), INSTITUTE OF ATMOSPHERIC PHYSICS (CZ)</gco:CharacterString>
@@ -34,7 +34,7 @@
                 <gco:CharacterString/>
               </gmd:postalCode>
               <gmd:electronicMailAddress>
-                <gco:CharacterString>technical.officer@osc.org</gco:CharacterString>
+                <gco:CharacterString>christian.retscher@esa.int</gco:CharacterString>
               </gmd:electronicMailAddress>
             </gmd:CI_Address>
           </gmd:address>
@@ -59,7 +59,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-04-03T17:57:09.745675</gco:DateTime>
+    <gco:DateTime>2022-04-27T14:40:21.740050</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -202,7 +202,7 @@
             <gmd:EX_TemporalExtent>
               <gmd:extent>
                 <gml:TimePeriod gml:id="T001">
-                  <gml:beginPosition>2020-12-15</gml:beginPosition>
+                  <gml:beginPosition>2020-11-30</gml:beginPosition>
                   <gml:endPosition>2021-07-02</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>

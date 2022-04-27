@@ -11,8 +11,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Craig James Donlon",
+      "e-mail": "craig.donlon@esa.int"
     },
     "osc:consortium": [
       "ACRI-ST S.A.S. (FR)",
@@ -63,7 +63,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-95.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-9.xml",
       "roles": [
         "metadata"
       ]

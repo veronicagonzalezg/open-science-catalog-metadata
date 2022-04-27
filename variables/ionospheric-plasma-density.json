@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "Ionospheric plasma density",
   "stac_version": "1.0.0",
-  "description": "Total number of ionized particles in a volume unit of ionospheric plasma. https://space.oscar.wmo.int/variables/view/ionospheric_plasma_density",
+  "description": "Total number of ionized particles in a volume unit of ionospheric plasma",
   "links": [
     {
       "rel": "root",
@@ -11,12 +11,27 @@
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/tag/solid-earth/",
+      "href": "",
       "title": "Link"
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-7.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-58.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-160.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-76.json",
       "type": "application/json"
     },
     {

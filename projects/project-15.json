@@ -4,15 +4,15 @@
   "id": "project-15",
   "properties": {
     "title": "AlpSnow",
-    "description": "Develop improved products for a number of snow parameters (area extent, albedo, grain size, depth, snow water equivalent, snow melt area and wetness). ",
+    "description": "Develop improved products for a number of snow parameters (area extent, albedo, grain size, depth, snow water equivalent, snow melt area and wetness).",
     "osc:name": "AlpSnow",
     "osc:themes": [
       "Cryosphere"
     ],
     "osc:status": "ONGOING",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Espen Volden",
+      "e-mail": "espen.volden@esa.int"
     },
     "osc:consortium": [
       "ENVEO \u201a ENVIRONMENTAL EARTH OBSERVATION GMBH (AT)",
@@ -56,15 +56,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-17.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-22.json",
       "type": "application/json",
-      "title": "Snow area extent for European Alps_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-20.json",
-      "type": "application/json",
-      "title": "Snow depth for European Alps_Multimission"
+      "title": "Snow liquid water content (wet snow) for European Alps_Multimission"
     },
     {
       "rel": "item",
@@ -74,9 +68,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-22.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-20.json",
       "type": "application/json",
-      "title": "Snow liquid water content (wet snow) for European Alps_Multimission"
+      "title": "Snow depth for European Alps_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-17.json",
+      "type": "application/json",
+      "title": "Snow area extent for European Alps_Multimission"
     },
     {
       "rel": "root",
@@ -101,7 +101,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-119.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-15.xml",
       "roles": [
         "metadata"
       ]

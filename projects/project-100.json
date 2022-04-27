@@ -11,8 +11,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Mark Drinkwater",
+      "e-mail": "mark.drinkwater@esa.int"
     },
     "osc:consortium": [
       "UNIVERSITY OF EDINBURGH (GB)",
@@ -40,27 +40,27 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-151.json",
-      "type": "application/json",
-      "title": "Swath elevation_Antarctic ice Sheet_2011-2016_CryoSat-2"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-150.json",
       "type": "application/json",
       "title": "Ice Sheet_gridded topography_rates of surface elevation change_Greenland_Cryosat-2"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-149.json",
-      "type": "application/json",
-      "title": "Swath elevation_Greenland Ice Sheet_2011-2016_CryoSat-2"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-152.json",
       "type": "application/json",
       "title": "Swath-derived elevation and elevation change_Antarctic ice Sheet_2011-2016_CryoSat-2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-151.json",
+      "type": "application/json",
+      "title": "Swath elevation_Antarctic ice Sheet_2011-2016_CryoSat-2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-149.json",
+      "type": "application/json",
+      "title": "Swath elevation_Greenland Ice Sheet_2011-2016_CryoSat-2"
     },
     {
       "rel": "root",
@@ -85,7 +85,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-22.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-7.xml",
       "roles": [
         "metadata"
       ]

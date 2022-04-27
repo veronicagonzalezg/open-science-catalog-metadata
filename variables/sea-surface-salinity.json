@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "Sea surface salinity",
   "stac_version": "1.0.0",
-  "description": "Sea surface salinity observations contribute to monitoring the global water cycle (evaporation, precipitation and glacier and river runoff). On large scales, surface salinity can be used to infer long-term changes of the global hydrological cycle. Surface salinity, together with surface temperature, is indicative of the surface expression of ocean frontal features and eddies. https://gcos.wmo.int/en/essential-climate-variables/surface-salinity",
+  "description": "Salinity of sea water in the surface layer (upper ~ 1 m if observed in MW).  In the open ocean the correct term should be  \u201chalinity\u201d with reference of the diversity of salts involved.",
   "links": [
     {
       "rel": "root",
@@ -11,17 +11,12 @@
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/2019/11/11/collaboration-ocean-science/",
+      "href": "",
       "title": "Link"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-42.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-143.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-75.json",
       "type": "application/json"
     },
     {
@@ -31,12 +26,37 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-75.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-143.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-224.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-222.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-223.json",
       "type": "application/json"
     },
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-41.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-225.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-42.json",
       "type": "application/json"
     },
     {
@@ -53,7 +73,7 @@
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ],
-  "osc:theme": "oceans",
+  "osc:theme": "Oceans",
   "osc:type": "Variable",
   "extent": {
     "spatial": {

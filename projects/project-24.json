@@ -11,8 +11,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Diego Fernandez",
+      "e-mail": "diego.fernandez@esa.int"
     },
     "osc:consortium": [
       "ARGANS FRANCE (FR)",
@@ -38,15 +38,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-42.json",
-      "type": "application/json",
-      "title": "Baltic Sea Surface Salinity L3 maps (V.2.0)_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-41.json",
       "type": "application/json",
       "title": "Baltic Sea Surface Salinity L4 maps (V.2.0)_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-42.json",
+      "type": "application/json",
+      "title": "Baltic Sea Surface Salinity L3 maps (V.2.0)_Baltics_Multimission"
     },
     {
       "rel": "root",
@@ -71,7 +71,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-1.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-24.xml",
       "roles": [
         "metadata"
       ]

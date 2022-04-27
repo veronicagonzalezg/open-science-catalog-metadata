@@ -3,7 +3,7 @@
   "stac_version": "1.0.0",
   "id": "project-20",
   "properties": {
-    "title": "Arctic Summer Ice Thickness",
+    "title": "(LPF) ArcticSummIT",
     "description": "Using new techniques to measure pan-Arctic sea ice thickness from the satellite radar altimeter Cryosat-2 during summer months",
     "osc:name": "ArcticSummIT: Arctic Summer Ice Thickness",
     "osc:themes": [
@@ -11,8 +11,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Anca Anghelea",
+      "e-mail": "anca.anghelea@esa.int"
     },
     "osc:consortium": [
       "UNIVERSITY OF BRISTOL (GB)"
@@ -33,6 +33,12 @@
       "rel": "via",
       "href": "https://eo4society.esa.int/projects/arcticsummit-arctic-summer-ice-thickness/",
       "title": "EO4Society Link"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-104.json",
+      "type": "application/json",
+      "title": "Sea ice thickness_monthly_Oct 2010-July 2020Arctic_CryoSat-2 Baseline-D observations"
     },
     {
       "rel": "item",
@@ -63,7 +69,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-38.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-118.xml",
       "roles": [
         "metadata"
       ]

@@ -3,16 +3,16 @@
   "stac_version": "1.0.0",
   "id": "project-4",
   "properties": {
-    "title": " Swarm Space Weather \u2013 Variability of Ionospheric Plasma (Swarm VIP)",
+    "title": "Swarm Space Weather \u2013 Variability of Ionospheric Plasma (Swarm VIP)",
     "description": "In the project Swarm satellite data and other datasets are used to determine determine the dominant scales in the ionosphere at different geomagnetic conditions and create a semi-empiric dynamic model of the ionosphere.",
     "osc:name": "4DIONOSPHERE (SWARM VIP)",
     "osc:themes": [
       "Magnetosphere_Ionosphere"
     ],
-    "osc:status": "ONGOING",
+    "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Jerome Bouffard",
+      "e-mail": "jerome.bouffard@esa.int"
     },
     "osc:consortium": [
       "UNIVERSITY OF OSLO (NO)",
@@ -39,7 +39,7 @@
     },
     {
       "rel": "item",
-      "href": null,
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-7.json",
       "type": "application/json",
       "title": "Semi-empiric model of ionosphere processes_SWARM"
     },
@@ -66,7 +66,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-4.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-18.xml",
       "roles": [
         "metadata"
       ]

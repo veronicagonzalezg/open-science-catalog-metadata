@@ -10,10 +10,10 @@
       "Atmosphere",
       "Oceans"
     ],
-    "osc:status": "COMPLETED",
+    "osc:status": "ONGOING",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Marie-Helene Rio",
+      "e-mail": "marie-helene.rio@esa.int"
     },
     "osc:consortium": [
       "NOVELTIS SAS (FR)",
@@ -58,13 +58,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-89.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-6.xml",
       "roles": [
         "metadata"
       ]

@@ -11,8 +11,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Diego Fernandez",
+      "e-mail": "diego.fernandez@esa.int"
     },
     "osc:consortium": [
       "UNIVERSITY OF EXETER (GB)",
@@ -40,21 +40,33 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-135.json",
+      "href": null,
       "type": "application/json",
-      "title": "Total Alkalinity_Dissolved inorganic carbon_Global Oceans_SMOS_S3"
+      "title": "Surface-ocean_TA_Global_v2021"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-136.json",
+      "href": null,
       "type": "application/json",
-      "title": "Gridded dataset_surface ocean carbonate system_Global Oceans_SMOS_S3"
+      "title": "Surface-ocean_pH_Global_v2021"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-134.json",
+      "href": null,
       "type": "application/json",
-      "title": "Surface-ocean pCO2_Global_S3"
+      "title": "Surface-ocean_Omega_Global_v2021"
+    },
+    {
+      "rel": "item",
+      "href": null,
+      "type": "application/json",
+      "title": "Surface-ocean_DIC_Global_v2021"
+    },
+    {
+      "rel": "item",
+      "href": null,
+      "type": "application/json",
+      "title": "Surface-ocean_pCO2_Global_v2021"
     },
     {
       "rel": "root",

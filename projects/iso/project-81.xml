@@ -15,7 +15,7 @@
   <gmd:contact>
     <gmd:CI_ResponsibleParty id="contact-pointOfContact">
       <gmd:individualName>
-        <gco:CharacterString>Technical Officer</gco:CharacterString>
+        <gco:CharacterString>Michael Kern</gco:CharacterString>
       </gmd:individualName>
       <gmd:organisationName>
         <gco:CharacterString>GEOLOGICAL SURVEY OF DENMARK AND GREENLAND (DK), BROCKMANN CONSULT GMBH (DE), CNRS, DELEGATION NORMANDIE (FR)</gco:CharacterString>
@@ -34,7 +34,7 @@
                 <gco:CharacterString/>
               </gmd:postalCode>
               <gmd:electronicMailAddress>
-                <gco:CharacterString>technical.officer@osc.org</gco:CharacterString>
+                <gco:CharacterString>michael.kern@esa.int</gco:CharacterString>
               </gmd:electronicMailAddress>
             </gmd:CI_Address>
           </gmd:address>
@@ -59,7 +59,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-04-03T17:57:01.778521</gco:DateTime>
+    <gco:DateTime>2022-04-27T14:40:26.532258</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>

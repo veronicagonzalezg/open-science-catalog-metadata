@@ -11,8 +11,8 @@
     ],
     "osc:status": "ONGOING",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Matthias Drusch",
+      "e-mail": "matthias.drusch@esa.int"
     },
     "osc:consortium": [
       "Lund University (SE)",
@@ -69,7 +69,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-61.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-79.xml",
       "roles": [
         "metadata"
       ]

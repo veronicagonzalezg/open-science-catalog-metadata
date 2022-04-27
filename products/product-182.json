@@ -4,18 +4,16 @@
   "id": "product-182",
   "properties": {
     "start_datetime": "2019-01-01",
-    "end_datetime": "2019-01-01",
+    "end_datetime": "2019-12-31",
     "title": "Doppler derived surface current_Agulhas_S1",
     "description": "Sentinel-1 IW Ocean Surface Current Radial Velocity product in Agulhas current",
-    "osc:missions": [
-      "Sentinel-1"
-    ],
+    "osc:missions": [],
     "osc:project": "World Ocean circulation",
     "osc:themes": [
       "Oceans"
     ],
-    "osc:variable": "Sea surface currents",
-    "osc:status": "COMPLETED",
+    "osc:variable": "Ocean surface currents (vector)",
+    "osc:status": "ONGOING",
     "osc:region": "Agulhas",
     "osc:type": "Product",
     "datetime": "2019-01-01T00:00:00Z"
@@ -75,7 +73,7 @@
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-currents.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ocean-surface-currents-vector.json",
       "type": "application/json"
     },
     {
@@ -90,7 +88,7 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-currents.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ocean-surface-currents-vector.json",
       "type": "application/json"
     }
   ],

@@ -11,8 +11,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Jerome Benveniste",
+      "e-mail": "jerome.benveniste@esa.int"
     },
     "osc:consortium": [
       "UNIVERSITY OF LEEDS",
@@ -39,15 +39,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-142.json",
-      "type": "application/json",
-      "title": "Ice Sheets_Antarctica_Sentinel-2 Performance Improvement_Level 3"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-141.json",
       "type": "application/json",
       "title": "Ice Sheets_Antarctica_Sentinel-2 Performance Improvement_Level 1B"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-142.json",
+      "type": "application/json",
+      "title": "Ice Sheets_Antarctica_Sentinel-2 Performance Improvement_Level 3"
     },
     {
       "rel": "root",
@@ -72,7 +72,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-77.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-53.xml",
       "roles": [
         "metadata"
       ]

@@ -4,7 +4,7 @@
   "id": "project-93",
   "properties": {
     "title": "S5p Innovation - SIF",
-    "description": "Development of satellite Solar induced chlorophyll fluorescence (SIF) products ",
+    "description": "Development of satellite Solar induced chlorophyll fluorescence (SIF) products",
     "osc:name": "SENTINEL-5P+ INNOVATION SOLAR INDUCED CHLOROPHYLL FLUORESCENCE (SIF)",
     "osc:themes": [
       "Atmosphere",
@@ -12,16 +12,16 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Christian Retscher",
+      "e-mail": "christian.retscher@esa.int"
     },
     "osc:consortium": [
       "NOVELTIS SAS (FR)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2019-05-23",
-    "end_datetime": "2021-06-30",
-    "datetime": "2019-05-23T00:00:00Z"
+    "start_datetime": "2019-07-03",
+    "end_datetime": "2021-11-09",
+    "datetime": "2019-07-03T00:00:00Z"
   },
   "geometry": null,
   "links": [
@@ -57,13 +57,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-51.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-93.xml",
       "roles": [
         "metadata"
       ]

@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "River discharge",
   "stac_version": "1.0.0",
-  "description": "River-discharge measurements have essential direct applications for water management and related services, including flood protection. They are needed in the longer term to help identify and adapt to some of the most significant potential effects of climate change. The flow of freshwater from rivers into the oceans also needs to be monitored because it reduces ocean salinity, and changes in flow may thereby influence the thermohaline circulation. https://gcos.wmo.int/en/essential-climate-variables/rivers",
+  "description": "Volume of water flowing through a river per unit of time",
   "links": [
     {
       "rel": "root",
@@ -11,27 +11,12 @@
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/2020/01/31/a-collaboration-on-carbon-science-just-kicked-off/",
+      "href": "",
       "title": "Link"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-124.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-122.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-130.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-127.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-118.json",
       "type": "application/json"
     },
     {
@@ -41,12 +26,57 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-119.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-110.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-123.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-127.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-128.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-116.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-120.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-129.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-117.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-113.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-112.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-130.json",
       "type": "application/json"
     },
     {
@@ -61,12 +91,42 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-123.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-115.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-128.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-129.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-111.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-124.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-122.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-109.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-25.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-114.json",
       "type": "application/json"
     },
     {
@@ -83,7 +143,7 @@
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ],
-  "osc:theme": "land",
+  "osc:theme": "Land",
   "osc:type": "Variable",
   "extent": {
     "spatial": {

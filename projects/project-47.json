@@ -11,8 +11,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Craig James Donlon",
+      "e-mail": "craig.donlon@esa.int"
     },
     "osc:consortium": [
       "CLS COLLECTE LOCALISATION SATELLITES (FR)",
@@ -65,7 +65,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-27.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-47.xml",
       "roles": [
         "metadata"
       ]

@@ -14,7 +14,7 @@
     "osc:themes": [
       "Land"
     ],
-    "osc:variable": "Surface reflectance",
+    "osc:variable": "Earth surface short-wave bidirectional reflectance",
     "osc:status": "ONGOING",
     "osc:region": "Global",
     "osc:type": "Product",
@@ -70,7 +70,7 @@
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/surface-reflectance.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/earth-surface-short-wave-bidirectional-reflectance.json",
       "type": "application/json"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/surface-reflectance.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/earth-surface-short-wave-bidirectional-reflectance.json",
       "type": "application/json"
     }
   ],

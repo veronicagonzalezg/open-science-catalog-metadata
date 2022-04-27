@@ -11,8 +11,8 @@
     ],
     "osc:status": "ONGOING",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Marcus Engdahl",
+      "e-mail": "marcus.engdahl@esa.int"
     },
     "osc:consortium": [
       "University of Leeds (GB)",
@@ -62,7 +62,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-69.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-67.xml",
       "roles": [
         "metadata"
       ]

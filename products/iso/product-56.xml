@@ -9,9 +9,6 @@
   <gmd:characterSet>
     <gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeSpace="ISOTC211/19115" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
   </gmd:characterSet>
-  <gmd:parentIdentifier>
-    <gco:CharacterString>project-119</gco:CharacterString>
-  </gmd:parentIdentifier>
   <gmd:hierarchyLevel>
     <gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeSpace="ISOTC211/19115" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
   </gmd:hierarchyLevel>
@@ -53,7 +50,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-04-03T17:57:20.301841</gco:DateTime>
+    <gco:DateTime>2022-04-27T14:40:29.553488</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -128,7 +125,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>Surface (albedo) products derived from S3A/SLSTR observations retrieved using the same radiative transfer physics and assumptions. The retrieval is based on the CISAR (Combined Inversion of Surface and Atmosphere pRoperties) algorithm.</gco:CharacterString>
+        <gco:CharacterString>Surface (albedo) products derived from S3A/SLSTR observations retrieved using the same radiative transfer physics and assumptions. The retrieval is based on the CISAR (Combined Inversion of Surface and Atmosphere pRoperties) algorithm. The spatial resolution of the CIRCAS user products is 5km. The CIRCAS products are delivered in NetCDF-4 format. The NetCDF files specification follows the CF conventions [NetCDF, 2010].</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="onGoing">onGoing</gmd:MD_ProgressCode>
@@ -143,7 +140,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Albedo</gco:CharacterString>
+            <gco:CharacterString>Earth surface albedo</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -207,7 +204,7 @@
               <gmd:extent>
                 <gml:TimePeriod gml:id="T001">
                   <gml:beginPosition>2019-01-01</gml:beginPosition>
-                  <gml:endPosition>2019-01-01</gml:endPosition>
+                  <gml:endPosition>2019-12-31</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>
@@ -306,7 +303,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>http://www.circas.eu/index.php#results</gmd:URL>
+                <gmd:URL>ftp.brockmann-consult.de</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>

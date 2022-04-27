@@ -19,8 +19,8 @@
       "Solid Earth",
       "Magnetosphere_Ionosphere"
     ],
-    "osc:variable": "Geomagnetic Field",
-    "osc:status": "COMPLETED",
+    "osc:variable": "Geomagnetic field",
+    "osc:status": "ONGOING",
     "osc:region": "Global",
     "osc:type": "Product",
     "datetime": null
@@ -65,7 +65,7 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://4d-earth-swarm.univ-grenoble-alpes.fr/data",
       "title": "Access"
     },
     {

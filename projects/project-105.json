@@ -11,8 +11,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Roger Haagmans",
+      "e-mail": "roger.haagmans@esa.int"
     },
     "osc:consortium": [
       "HELMHOLTZ-ZENTRUM POTSDAM \u2013 DEUTSCHES GEOFORSCHUNGZENTRUM (GFZ) (DE)",
@@ -65,7 +65,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-107.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-121.xml",
       "roles": [
         "metadata"
       ]

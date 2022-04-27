@@ -11,8 +11,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Michael Kern",
+      "e-mail": "michael.kern@esa.int"
     },
     "osc:consortium": [
       "GEOLOGICAL SURVEY OF DENMARK AND GREENLAND (DK)",
@@ -37,27 +37,27 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-107.json",
-      "type": "application/json",
-      "title": "Snow grain diameter_Arctic_S3"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-106.json",
       "type": "application/json",
       "title": "Spectral albedo_Arctic_S3"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-105.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-107.json",
       "type": "application/json",
-      "title": "Broadband albedo_Arctic_S3"
+      "title": "Snow grain diameter_Arctic_S3"
     },
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-108.json",
       "type": "application/json",
       "title": "NRT SICE rasters for Greenland_Arctic_S3"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-105.json",
+      "type": "application/json",
+      "title": "Broadband albedo_Arctic_S3"
     },
     {
       "rel": "root",
@@ -82,7 +82,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-110.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-70.xml",
       "roles": [
         "metadata"
       ]

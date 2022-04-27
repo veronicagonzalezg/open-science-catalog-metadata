@@ -12,8 +12,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Diego Fernandez",
+      "e-mail": "diego.fernandez@esa.int"
     },
     "osc:consortium": [
       "FINNISH ENVIRONMENT INSTITUTE (SYKE) (FI)",
@@ -41,9 +41,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-43.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-44.json",
       "type": "application/json",
-      "title": "Model based Colored Dissolved Organic Matter (CDOM) _Baltics_Model"
+      "title": "In-situ measurements_Baltics"
     },
     {
       "rel": "item",
@@ -53,9 +53,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-44.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-43.json",
       "type": "application/json",
-      "title": "In-situ measurements_Baltics"
+      "title": "Model based Colored Dissolved Organic Matter (CDOM) _Baltics_Model"
     },
     {
       "rel": "root",
@@ -79,13 +79,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-25.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-80.xml",
       "roles": [
         "metadata"
       ]

@@ -11,8 +11,8 @@
     ],
     "osc:status": "ONGOING",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Anca Anghelea",
+      "e-mail": "anca.anghelea@esa.int"
     },
     "osc:consortium": [
       "GISAT S.R.O. (CZ)",
@@ -60,7 +60,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-87.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-10.xml",
       "roles": [
         "metadata"
       ]

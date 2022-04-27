@@ -15,8 +15,8 @@
     "osc:themes": [
       "Solid Earth"
     ],
-    "osc:variable": "Sub-ice heat-flux",
-    "osc:status": "COMPLETED",
+    "osc:variable": "Gravity field",
+    "osc:status": "ONGOING",
     "osc:region": "Arctic",
     "osc:type": "Product",
     "datetime": null
@@ -71,7 +71,7 @@
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sub-ice-heat-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/gravity-field.json",
       "type": "application/json"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sub-ice-heat-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/gravity-field.json",
       "type": "application/json"
     }
   ],

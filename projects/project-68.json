@@ -11,8 +11,8 @@
     ],
     "osc:status": "ONGOING",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Jerome Bouffard",
+      "e-mail": "jerome.bouffard@esa.int"
     },
     "osc:consortium": [
       "MULLARD SPACE SCIENCE LABORATORY \u201a UNIVERSITY COLLEGE LONDON (GB)",
@@ -63,7 +63,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-59.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-68.xml",
       "roles": [
         "metadata"
       ]

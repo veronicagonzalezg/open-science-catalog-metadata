@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "Land surface temperature",
   "stac_version": "1.0.0",
-  "description": "The Land Surface Temperature (LST) is the skin temperature of ground. It is mainly a product of albedo, the vegetation cover and the soil moisture. From a climate perspective, LST is important for evaluating land surface and land-atmosphere exchange processes, constraining surface energy budgets and model parameters, and providing observations of surface temperature change both globally and in key regions. https://gcos.wmo.int/en/essential-climate-variables/land-temperature",
+  "description": "Temperature of the apparent surface of land (bare soil or vegetation) - Physical unit: [ K ] - Accuracy unit: [ K ].",
   "links": [
     {
       "rel": "root",
@@ -11,7 +11,7 @@
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/2020/01/31/a-collaboration-on-carbon-science-just-kicked-off/",
+      "href": "",
       "title": "Link"
     },
     {
@@ -28,7 +28,7 @@
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ],
-  "osc:theme": "land",
+  "osc:theme": "Land",
   "osc:type": "Variable",
   "extent": {
     "spatial": {

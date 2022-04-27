@@ -11,8 +11,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Christian Retscher",
+      "e-mail": "christian.retscher@esa.int"
     },
     "osc:consortium": [
       "DLR - GERMAN AEROSPACE CENTER (DE)",
@@ -20,9 +20,9 @@
       "UNIVERSITY OF OXFORD (GB)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2019-06-07",
-    "end_datetime": "2021-06-30",
-    "datetime": "2019-06-07T00:00:00Z"
+    "start_datetime": "2019-07-03",
+    "end_datetime": "2021-12-30",
+    "datetime": "2019-07-03T00:00:00Z"
   },
   "geometry": null,
   "links": [
@@ -59,7 +59,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-28.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-1.xml",
       "roles": [
         "metadata"
       ]

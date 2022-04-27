@@ -4,7 +4,7 @@
   "id": "product-26",
   "properties": {
     "start_datetime": "2021-01-01",
-    "end_datetime": "2021-01-01",
+    "end_datetime": "2021-12-31",
     "title": "Sea ice and physical oceanography_Arctic_CryoSat-2 Baseline-C Level 1b waveform observations",
     "description": "This dataset presents monthly gridded sea ice and ocean parameters for the Arctic derived from the European Space Agency's satellite CryoSat-2. Parameters include sea ice freeboard, sea ice thickness, sea ice surface roughness, mean sea surface height, sea level anomaly, and geostrophic circulation.",
     "osc:missions": [
@@ -14,8 +14,8 @@
     "osc:themes": [
       "Cryosphere"
     ],
-    "osc:variable": "Sea ice thickness",
-    "osc:status": "COMPLETED",
+    "osc:variable": "Sea-ice thickness",
+    "osc:status": "ONGOING",
     "osc:region": "Arctic",
     "osc:type": "Product",
     "datetime": "2021-01-01T00:00:00Z"
@@ -62,6 +62,11 @@
       "rel": "via",
       "href": "https://data.bas.ac.uk/full-record.php?id=GB/NERC/BAS/PDC/01257",
       "title": "Access"
+    },
+    {
+      "rel": "via",
+      "href": "https://data.bas.ac.uk/metadata.php?id=GB/NERC/BAS/PDC/01257",
+      "title": "Documentation"
     },
     {
       "rel": "root",

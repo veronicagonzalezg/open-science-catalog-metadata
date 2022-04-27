@@ -16,12 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-46.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-106.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-111.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-46.json",
       "type": "application/json"
     },
     {
@@ -31,12 +31,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-1.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-106.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-111.json",
       "type": "application/json"
     },
     {
@@ -45,18 +40,18 @@
       "type": "application/json"
     },
     {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/earth-s-core.json",
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-1.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/upper-mantle.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/gravity-field.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/lower-mantle.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/gravity-gradients.json",
       "type": "application/json"
     },
     {

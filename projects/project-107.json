@@ -11,8 +11,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Jerome Benveniste",
+      "e-mail": "jerome.benveniste@esa.int"
     },
     "osc:consortium": [
       "H2O GEOMATICS INC. (CA)",
@@ -59,7 +59,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-98.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-77.xml",
       "roles": [
         "metadata"
       ]

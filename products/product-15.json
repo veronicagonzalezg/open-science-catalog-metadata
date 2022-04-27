@@ -4,7 +4,7 @@
   "id": "product-15",
   "properties": {
     "start_datetime": "2016-01-01",
-    "end_datetime": "2016-01-01",
+    "end_datetime": "2016-12-31",
     "title": "Dynamics of glacier lakes_SwissAlps_S1/2",
     "description": "Dynamics of glacier lakes. Most of the database has been submitted to Pangaea, where the submission is being processed. Some parts of the database fall under the copyright of the Swiss national institute for topography and were therefore only provided as point shapefiles instead of polygons. All the necessary information to reconstruct the study are provided.",
     "osc:missions": [
@@ -15,7 +15,7 @@
     "osc:themes": [
       "Cryosphere"
     ],
-    "osc:variable": "Glaciers",
+    "osc:variable": "Glacier motion",
     "osc:status": "PLANNED",
     "osc:region": "Switzerland",
     "osc:type": "Product",
@@ -61,7 +61,7 @@
     },
     {
       "rel": "via",
-      "href": "https://alpglacier.geo.uzh.ch/index.html",
+      "href": "",
       "title": "Access"
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/glaciers.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/glacier-motion.json",
       "type": "application/json"
     },
     {
@@ -91,7 +91,7 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/glaciers.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/glacier-motion.json",
       "type": "application/json"
     }
   ],

@@ -11,17 +11,17 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Christian Retscher",
+      "e-mail": "christian.retscher@esa.int"
     },
     "osc:consortium": [
       "GRASP-SAS (FR)CATALYSTS GMBH (AT)",
       "KNMI (NL)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2019-06-07",
-    "end_datetime": "2021-06-30",
-    "datetime": "2019-06-07T00:00:00Z"
+    "start_datetime": "2019-07-01",
+    "end_datetime": "2021-12-30",
+    "datetime": "2019-07-01T00:00:00Z"
   },
   "geometry": null,
   "links": [
@@ -58,7 +58,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-60.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-83.xml",
       "roles": [
         "metadata"
       ]

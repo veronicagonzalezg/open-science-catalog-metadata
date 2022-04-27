@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-04-03T17:57:22.544048</gco:DateTime>
+    <gco:DateTime>2022-04-27T14:40:37.561715</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -131,7 +131,7 @@
         <gco:CharacterString>The product provides an estimate of the Ice Thickness in an area of East Antarctica where the BEDMAP2 data has an uncertainty of 1000 m. The product consists of a NETCDF file containing data in SMOS L3 format. The spatial coverage is provided as an index map in SMOS L3 coordinates. Both ice thickness estimate as well as ice thickness estimate merged onto the surrounding BEDMAP2 ice thickness data, are proved as maps. For user convenience the latitude and longitude coordinate values are also provided. The filename is “SMOS_IceThickness_YYYY_vvv.nc”, where YYYY is the year and vvv is the version number. File size is approximately 7 Mbyte. Only year 2015 version 300 is currently provided. Product details are available at: http://www.ifac.cnr.it/cryosmos/products/CryoSMOS_D8_EDUM_V2.0.pdf. The data are freely disseminated, however the use of this data set must be cited as: Macelloni G., M. Brogioni, G. Picard and M. Leduc-Leballeur. 2019. SMOS Internal ice-sheet temperature, Version 2. [Indicate subset used]. “Cryosmos. STSE SMOS+Cryosphere”. ESA contract No.4000112262/14/I-NB.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
-        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>
+        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="onGoing">onGoing</gmd:MD_ProgressCode>
       </gmd:status>
       <gmd:resourceMaintenance>
         <gmd:MD_MaintenanceInformation>
@@ -143,7 +143,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Ice sheets and ice shelves</gco:CharacterString>
+            <gco:CharacterString>Ice sheet topography</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -207,7 +207,7 @@
               <gmd:extent>
                 <gml:TimePeriod gml:id="T001">
                   <gml:beginPosition>2013-01-01</gml:beginPosition>
-                  <gml:endPosition>2014-01-01</gml:endPosition>
+                  <gml:endPosition>2014-12-31</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>

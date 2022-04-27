@@ -4,7 +4,7 @@
   "id": "project-7",
   "properties": {
     "title": "AEOLUS+INNOVATION - SWAILS+",
-    "description": "Aeolus lidar surface returns are used in combination with collocated wind speed observations to retrieve the aerosol optical depth. The retrieval algorithm under development, LARISSA (Lidar Aerosol Retrieval based on Information from Surface Signal of Aeolus), will complement the standard Aeolus (L2) aerosol profile products. ",
+    "description": "Aeolus lidar surface returns are used in combination with collocated wind speed observations to retrieve the aerosol optical depth. The retrieval algorithm under development, LARISSA (Lidar Aerosol Retrieval based on Information from Surface Signal of Aeolus), will complement the standard Aeolus (L2) aerosol profile products.",
     "osc:name": "AEOLUS+ INNOVATION - STUDIES ON WIND AND AEROSOL INFORMATION FROM LIDAR SURFACE RETURNS (SWAILS+)",
     "osc:themes": [
       "Atmosphere",
@@ -12,8 +12,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Christian Retscher",
+      "e-mail": "christian.retscher@esa.int"
     },
     "osc:consortium": [
       "KNMI (NL)"
@@ -63,13 +63,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-18.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-28.xml",
       "roles": [
         "metadata"
       ]

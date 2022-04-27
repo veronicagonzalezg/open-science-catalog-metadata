@@ -4,18 +4,16 @@
   "id": "product-185",
   "properties": {
     "start_datetime": "2010-01-01",
-    "end_datetime": "2020-01-01",
+    "end_datetime": "2020-12-31",
     "title": "Oceanic/current fronts_Gibraltar",
     "description": "Fronts derived from remote sensing SST observations by SEVIRI L3C from OSISAF and microwave  OI L4 SST from REMSS, over Agulhas region, (Western only for SEVIRI) North Atlantic.",
-    "osc:missions": [
-      "MSG-SEVIRI"
-    ],
+    "osc:missions": [],
     "osc:project": "World Ocean circulation",
     "osc:themes": [
       "Oceans"
     ],
-    "osc:variable": "Sea surface currents",
-    "osc:status": "COMPLETED",
+    "osc:variable": "Ocean surface currents (vector)",
+    "osc:status": "ONGOING",
     "osc:region": "Gibraltar",
     "osc:type": "Product",
     "datetime": "2010-01-01T00:00:00Z"
@@ -75,7 +73,7 @@
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-currents.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ocean-surface-currents-vector.json",
       "type": "application/json"
     },
     {
@@ -90,7 +88,7 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-currents.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ocean-surface-currents-vector.json",
       "type": "application/json"
     }
   ],

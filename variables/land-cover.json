@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "Land cover",
   "stac_version": "1.0.0",
-  "description": "Land cover is the observed (bio)-physical cover on the Earth\u2019s surface. It influences climate by modifying water and energy exchanges with the atmosphere and by changing greenhouse gas and aerosol sources and sinks. Land-cover conditions are inherently dynamic (i.e. seasonality) and distributions are linked to regional climatic conditions, so changes in cover can be due to climate change on a regional scale as well as directly due to human activities. https://gcos.wmo.int/en/essential-climate-variables/land-cover",
+  "description": "Processed from land surface imagery by assigning identified cluster(s) within a given area to specific classes of objects - Accuracy expressed as number of classes. Actually [ classes-1 ] is used, so that smaller figure corresponds to better performance, as usual.",
   "links": [
     {
       "rel": "root",
@@ -11,8 +11,18 @@
     },
     {
       "rel": "via",
-      "href": "https://eo4society.esa.int/2020/01/31/a-collaboration-on-carbon-science-just-kicked-off/",
+      "href": "",
       "title": "Link"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-131.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-132.json",
+      "type": "application/json"
     },
     {
       "rel": "self",
@@ -28,7 +38,7 @@
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ],
-  "osc:theme": "land",
+  "osc:theme": "Land",
   "osc:type": "Variable",
   "extent": {
     "spatial": {

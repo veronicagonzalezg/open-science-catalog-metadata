@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-04-03T17:57:33.668147</gco:DateTime>
+    <gco:DateTime>2022-04-27T14:40:48.360196</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -131,7 +131,7 @@
         <gco:CharacterString>Solar activity- and height-adjusted plasma density measurements in the polar cap (i.e., above 80° latitude in Modified Apex110 coordinates) from the Swarm and CHAMP satellites. covering the entire CHAMP mission period (2002–2009) and the Swarm mission period from launch through February 2020.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
-        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>
+        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="onGoing">onGoing</gmd:MD_ProgressCode>
       </gmd:status>
       <gmd:resourceMaintenance>
         <gmd:MD_MaintenanceInformation>
@@ -197,7 +197,7 @@
               <gmd:extent>
                 <gml:TimePeriod gml:id="T001">
                   <gml:beginPosition>2002-01-01</gml:beginPosition>
-                  <gml:endPosition>2020-01-01</gml:endPosition>
+                  <gml:endPosition>2020-12-31</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>

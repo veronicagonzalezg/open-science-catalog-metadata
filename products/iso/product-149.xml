@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-04-03T17:57:17.039621</gco:DateTime>
+    <gco:DateTime>2022-04-27T14:40:41.236326</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -131,7 +131,7 @@
         <gco:CharacterString>These files are surface elevation determined from swath processing of data acquired by the interferometric radar altimeter CryoSat-2. The data have been collected and processed over the Greenland Ice Sheet between 2011 and 2016. These data have been processed by the University of Edinburgh and are made publicly available as part of the European Space Agency funded CryoSat+ CryoTop Evolution STSE Study (ESA Contract 4000116874) involving the University of Edinburgh, isardSat UK, University of Leeds-CPOM, ENVEO. DOI: https://doi.org/10.5285/d762710b-562b-41a6-b9b4-adb26bfad4c6</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
-        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>
+        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="onGoing">onGoing</gmd:MD_ProgressCode>
       </gmd:status>
       <gmd:resourceMaintenance>
         <gmd:MD_MaintenanceInformation>
@@ -143,7 +143,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Ice sheets and ice shelves</gco:CharacterString>
+            <gco:CharacterString>Ice sheet topography</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -207,7 +207,7 @@
               <gmd:extent>
                 <gml:TimePeriod gml:id="T001">
                   <gml:beginPosition>2011-01-01</gml:beginPosition>
-                  <gml:endPosition>2016-01-01</gml:endPosition>
+                  <gml:endPosition>2016-12-31</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>

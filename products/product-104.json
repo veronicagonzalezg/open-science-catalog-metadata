@@ -4,17 +4,17 @@
   "id": "product-104",
   "properties": {
     "start_datetime": "2021-01-01",
-    "end_datetime": "2020-01-01",
+    "end_datetime": "2020-12-31",
     "title": "Sea ice thickness_monthly_Oct 2010-July 2020Arctic_CryoSat-2 Baseline-D observations",
     "description": "This datset will present biweekly gridded snow and sea ice parameters for the Arctic derived from the European Space Agency's satellite CryoSat-2. Parameters will include sea ice freeboard, sea ice thickness, snow depth, snow density, and uncertainties.",
     "osc:missions": [
       "CryoSat-2"
     ],
-    "osc:project": "PRE-MELT: Preconditioning the trigger for rapid Arctic ice melt",
+    "osc:project": "ArcticSummIT: Arctic Summer Ice Thickness",
     "osc:themes": [
       "Cryosphere"
     ],
-    "osc:variable": "Sea ice thickness",
+    "osc:variable": "Sea-ice thickness",
     "osc:status": "ONGOING",
     "osc:region": "Arctic",
     "osc:type": "Product",
@@ -60,8 +60,13 @@
     },
     {
       "rel": "via",
-      "href": "https://data.bas.ac.uk",
+      "href": "https://data.bas.ac.uk/full-record.php?id=GB/NERC/BAS/PDC/01613",
       "title": "Access"
+    },
+    {
+      "rel": "via",
+      "href": "https://data.bas.ac.uk/metadata.php?id=GB/NERC/BAS/PDC/01613",
+      "title": "Documentation"
     },
     {
       "rel": "root",
@@ -75,7 +80,7 @@
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-69.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/project-20.json",
       "type": "application/json"
     },
     {

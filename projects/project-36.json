@@ -11,8 +11,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Stephen Plummer",
+      "e-mail": "stephen.plummer@esa.int"
     },
     "osc:consortium": [
       "University of Edinburgh (UoE)",
@@ -67,7 +67,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-36.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-87.xml",
       "roles": [
         "metadata"
       ]

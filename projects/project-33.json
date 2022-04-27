@@ -12,8 +12,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Roger Haagmans",
+      "e-mail": "roger.haagmans@esa.int"
     },
     "osc:consortium": [
       "UNIVERSITY OF WARMIA AND MAZURY IN (PL)",
@@ -40,7 +40,7 @@
     },
     {
       "rel": "item",
-      "href": null,
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-58.json",
       "type": "application/json",
       "title": "ADDTID: An Alternative Tool for Studying Earthquake/Tsunami Signatures in the Ionosphere_Japan_SWARM"
     },
@@ -72,7 +72,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-90.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-33.xml",
       "roles": [
         "metadata"
       ]

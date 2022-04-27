@@ -12,8 +12,8 @@
     ],
     "osc:status": "ONGOING",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Roger Haagmans",
+      "e-mail": "roger.haagmans@esa.int"
     },
     "osc:consortium": [
       "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS) (FR)",
@@ -42,27 +42,27 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-169.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-165.json",
       "type": "application/json",
-      "title": "Ground Virtual Observatory Data OERSTED"
+      "title": "Webgeodyn Python package"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-168.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-172.json",
       "type": "application/json",
-      "title": "Ground Virtual Observatory Data CRYOSAT-2"
+      "title": "CHAOS field model_SplineCoefficients"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-166.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-173.json",
       "type": "application/json",
-      "title": "Ground Virtual Observatory Data SWARM"
+      "title": "CHAOS field model"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-170.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-171.json",
       "type": "application/json",
-      "title": "Ground Observatory data"
+      "title": "CHAOS field model_Core"
     },
     {
       "rel": "item",
@@ -78,33 +78,33 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-173.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-168.json",
       "type": "application/json",
-      "title": "CHAOS field model"
+      "title": "Ground Virtual Observatory Data CRYOSAT-2"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-165.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-170.json",
       "type": "application/json",
-      "title": "Webgeodyn Python package"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-171.json",
-      "type": "application/json",
-      "title": "CHAOS field model_Core"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-172.json",
-      "type": "application/json",
-      "title": "CHAOS field model_SplineCoefficients"
+      "title": "Ground Observatory data"
     },
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-167.json",
       "type": "application/json",
       "title": "Ground Virtual Observatory Data CHAMP"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-166.json",
+      "type": "application/json",
+      "title": "Ground Virtual Observatory Data SWARM"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-169.json",
+      "type": "application/json",
+      "title": "Ground Virtual Observatory Data OERSTED"
     },
     {
       "rel": "root",
@@ -134,7 +134,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-84.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-106.xml",
       "roles": [
         "metadata"
       ]

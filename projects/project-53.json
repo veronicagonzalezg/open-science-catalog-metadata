@@ -11,8 +11,8 @@
     ],
     "osc:status": "ONGOING",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Stephen Plummer",
+      "e-mail": "stephen.plummer@esa.int"
     },
     "osc:consortium": [
       "UNIVERSITAT POLITECNICA DE VALENCIA (ES)"
@@ -63,7 +63,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-112.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-21.xml",
       "roles": [
         "metadata"
       ]

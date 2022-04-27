@@ -11,8 +11,8 @@
     ],
     "osc:status": "ONGOING",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Stephen Plummer",
+      "e-mail": "stephen.plummer@esa.int"
     },
     "osc:consortium": [
       "Friedrich-Alexander-University Erl (DE)"
@@ -36,25 +36,25 @@
     },
     {
       "rel": "item",
-      "href": null,
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-98.json",
       "type": "application/json",
       "title": "Digital Elevation Model Antarctic Peninsula <70\u00b0S 2017_Antarctica_TanDEM-X"
     },
     {
       "rel": "item",
-      "href": null,
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-100.json",
       "type": "application/json",
       "title": "Geodetic glacier mass balances Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
     },
     {
       "rel": "item",
-      "href": null,
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-99.json",
       "type": "application/json",
       "title": "Surface elevation changes Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
     },
     {
       "rel": "item",
-      "href": null,
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-97.json",
       "type": "application/json",
       "title": "Digital Elevation Model Antarctic Peninsula <70\u00b0S 2013_Antarctica_TanDEM-X"
     },
@@ -81,7 +81,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-85.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-117.xml",
       "roles": [
         "metadata"
       ]

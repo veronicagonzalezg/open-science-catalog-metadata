@@ -4,7 +4,7 @@
   "id": "product-153",
   "properties": {
     "start_datetime": "2015-01-01",
-    "end_datetime": "2015-01-01",
+    "end_datetime": "2015-12-31",
     "title": "Sea ice volume and snow volume_Prior and posterior uncertainties_North Sea_Cryosat-2",
     "description": "Prior and posterior uncertainties of sea ice volume (SIV, columns 4-6) and snow volume (SNV, columns 7-9) respectively for three regions in km3. Column 1 indicates observation, column 2 indicates uncertainty range (\"product\" refers to uncertainty specification provided with product), column 3 indicates uncertainty range of additional hypothetical snow product (\"\u2013\" means no snow product is used). In each of columns 4-9 the lowest uncertainty range is highlighted in bold face font. The two bottom rows give estimates for the uncertainty due to model error, i.e. the residual uncertainty with optimal control vector.",
     "osc:missions": [
@@ -14,8 +14,8 @@
     "osc:themes": [
       "Cryosphere"
     ],
-    "osc:variable": "Sea ice thickness",
-    "osc:status": "COMPLETED",
+    "osc:variable": "Sea-ice thickness",
+    "osc:status": "ONGOING",
     "osc:region": "North Sea",
     "osc:type": "Product",
     "datetime": "2015-01-01T00:00:00Z"
@@ -24,7 +24,7 @@
     "type": "Polygon",
     "bbox": [
       -180.0,
-      50.0,
+      -90.0,
       180.0,
       90.0
     ],
@@ -32,7 +32,11 @@
       [
         [
           -180.0,
-          90.0
+          -90.0
+        ],
+        [
+          180.0,
+          -90.0
         ],
         [
           180.0,
@@ -40,15 +44,11 @@
         ],
         [
           -180.0,
-          50.0
-        ],
-        [
-          180.0,
-          50.0
+          90.0
         ],
         [
           -180.0,
-          90.0
+          -90.0
         ]
       ]
     ]
@@ -99,7 +99,7 @@
   },
   "bbox": [
     -180.0,
-    50.0,
+    -90.0,
     180.0,
     90.0
   ],

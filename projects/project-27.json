@@ -11,8 +11,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Espen Volden",
+      "e-mail": "espen.volden@esa.int"
     },
     "osc:consortium": [
       "BUREAU DE RECHERCHES GEOLOGIQUES ET MINIERES (BRGM) (FR",
@@ -59,7 +59,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-78.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-60.xml",
       "roles": [
         "metadata"
       ]

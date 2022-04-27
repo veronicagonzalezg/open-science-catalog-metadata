@@ -11,8 +11,8 @@
     ],
     "osc:status": "COMPLETED",
     "osc:technical_officer": {
-      "name": "Technical Officer",
-      "e-mail": "technical.officer@osc.org"
+      "name": "Ola Grabak",
+      "e-mail": "ola.grabak@esa.int"
     },
     "osc:consortium": [
       "FAC-CNR ISTITUTO DI FISICA APPLICATA \u201d NELLO CARRARA\u201d (IT)",
@@ -47,9 +47,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-72.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-73.json",
       "type": "application/json",
-      "title": "Occurrence of Surface Melting_Antarctica_SMOS"
+      "title": "Bedrock topography and/or geothermal heat flux_Antarctica_GOCE"
     },
     {
       "rel": "item",
@@ -59,9 +59,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-73.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-72.json",
       "type": "application/json",
-      "title": "Bedrock topography and/or geothermal heat flux_Antarctica_GOCE"
+      "title": "Occurrence of Surface Melting_Antarctica_SMOS"
     },
     {
       "rel": "root",
@@ -86,7 +86,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-65.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-105.xml",
       "roles": [
         "metadata"
       ]
