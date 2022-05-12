@@ -16,12 +16,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-92.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-91.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-87.json",
       "type": "application/json"
     },
     {
@@ -31,7 +26,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-87.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-91.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-92.json",
       "type": "application/json"
     },
     {

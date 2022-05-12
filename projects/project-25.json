@@ -41,15 +41,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-44.json",
-      "type": "application/json",
-      "title": "In-situ measurements_Baltics"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-45.json",
       "type": "application/json",
       "title": "EO based Color Disolved Organic Matter_Baltics_S3"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-44.json",
+      "type": "application/json",
+      "title": "In-situ measurements_Baltics"
     },
     {
       "rel": "item",
@@ -79,13 +79,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-80.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-25.xml",
       "roles": [
         "metadata"
       ]

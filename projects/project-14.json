@@ -48,9 +48,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-16.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-15.json",
       "type": "application/json",
-      "title": "Slope instabilities in glacier forefields_SwissAlps_S1/2"
+      "title": "Dynamics of glacier lakes_SwissAlps_S1/2"
     },
     {
       "rel": "item",
@@ -60,9 +60,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-15.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-16.json",
       "type": "application/json",
-      "title": "Dynamics of glacier lakes_SwissAlps_S1/2"
+      "title": "Slope instabilities in glacier forefields_SwissAlps_S1/2"
     },
     {
       "rel": "root",
@@ -87,7 +87,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-100.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-14.xml",
       "roles": [
         "metadata"
       ]

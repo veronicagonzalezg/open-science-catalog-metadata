@@ -40,6 +40,12 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-139.json",
+      "type": "application/json",
+      "title": "Spectral albedo_Greenland_S3"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-140.json",
       "type": "application/json",
       "title": "Snow grain diameter_Greenland_S3"
@@ -49,12 +55,6 @@
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-138.json",
       "type": "application/json",
       "title": "Broadband albedo_Greenland_S3"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-139.json",
-      "type": "application/json",
-      "title": "Spectral albedo_Greenland_S3"
     },
     {
       "rel": "root",
@@ -78,13 +78,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-126.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-94.xml",
       "roles": [
         "metadata"
       ]

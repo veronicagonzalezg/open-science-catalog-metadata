@@ -42,9 +42,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-185.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-182.json",
       "type": "application/json",
-      "title": "Oceanic/current fronts_Gibraltar"
+      "title": "Doppler derived surface current_Agulhas_S1"
     },
     {
       "rel": "item",
@@ -54,9 +54,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-180.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-183.json",
       "type": "application/json",
-      "title": "Wind stress vector (& anomalies)_Hourly_ERA5"
+      "title": "Daily 3D ocean currents_North Atlantic"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-181.json",
+      "type": "application/json",
+      "title": "Gridded Surface Current_Oceans_Agulhas"
     },
     {
       "rel": "item",
@@ -72,27 +78,21 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-182.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-180.json",
       "type": "application/json",
-      "title": "Doppler derived surface current_Agulhas_S1"
+      "title": "Wind stress vector (& anomalies)_Hourly_ERA5"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-185.json",
+      "type": "application/json",
+      "title": "Oceanic/current fronts_Gibraltar"
     },
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-184.json",
       "type": "application/json",
       "title": "Daily 2D ocean surface currents_North Atlantic"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-181.json",
-      "type": "application/json",
-      "title": "Gridded Surface Current_Oceans_Agulhas"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-183.json",
-      "type": "application/json",
-      "title": "Daily 3D ocean currents_North Atlantic"
     },
     {
       "rel": "root",
@@ -117,7 +117,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-25.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-118.xml",
       "roles": [
         "metadata"
       ]

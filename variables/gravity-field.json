@@ -16,17 +16,17 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-1.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-74.json",
       "type": "application/json"
     },
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-1.json",
       "type": "application/json"
     },
     {

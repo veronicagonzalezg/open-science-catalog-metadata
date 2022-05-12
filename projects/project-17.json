@@ -65,13 +65,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-17.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-24.xml",
       "roles": [
         "metadata"
       ]

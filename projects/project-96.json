@@ -39,12 +39,6 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-145.json",
-      "type": "application/json",
-      "title": "PrISM SMOS Rainfall product_v4.0_3h_0.25_Africa"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-238.json",
       "type": "application/json",
       "title": "PrISM SMOS Rainfall product v2.0_3h_0.1_Africa"
@@ -54,6 +48,12 @@
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-239.json",
       "type": "application/json",
       "title": "PrISM SMOS Rainfall product_v2.0_3h_0.25_Africa"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-145.json",
+      "type": "application/json",
+      "title": "PrISM SMOS Rainfall product_v4.0_3h_0.25_Africa"
     },
     {
       "rel": "item",

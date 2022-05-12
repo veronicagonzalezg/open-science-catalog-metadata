@@ -48,51 +48,21 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-172.json",
-      "type": "application/json",
-      "title": "CHAOS field model_SplineCoefficients"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-173.json",
-      "type": "application/json",
-      "title": "CHAOS field model"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-171.json",
       "type": "application/json",
       "title": "CHAOS field model_Core"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-174.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-172.json",
       "type": "application/json",
-      "title": "Vector and scalar satellite data files as used in the CHAOS field model"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-175.json",
-      "type": "application/json",
-      "title": "Geodynamo simulation data_Earth core"
+      "title": "CHAOS field model_SplineCoefficients"
     },
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-168.json",
       "type": "application/json",
       "title": "Ground Virtual Observatory Data CRYOSAT-2"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-170.json",
-      "type": "application/json",
-      "title": "Ground Observatory data"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-167.json",
-      "type": "application/json",
-      "title": "Ground Virtual Observatory Data CHAMP"
     },
     {
       "rel": "item",
@@ -105,6 +75,36 @@
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-169.json",
       "type": "application/json",
       "title": "Ground Virtual Observatory Data OERSTED"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-170.json",
+      "type": "application/json",
+      "title": "Ground Observatory data"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-173.json",
+      "type": "application/json",
+      "title": "CHAOS field model"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-167.json",
+      "type": "application/json",
+      "title": "Ground Virtual Observatory Data CHAMP"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-174.json",
+      "type": "application/json",
+      "title": "Vector and scalar satellite data files as used in the CHAOS field model"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-175.json",
+      "type": "application/json",
+      "title": "Geodynamo simulation data_Earth core"
     },
     {
       "rel": "root",

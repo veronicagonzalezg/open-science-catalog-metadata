@@ -44,15 +44,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-4.json",
-      "type": "application/json",
-      "title": "Ice Sheet Surface Melt_Greenland_S-1/2"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-6.json",
       "type": "application/json",
       "title": "Ice Sheet subglacial hydrology_Greenland_S1/2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-4.json",
+      "type": "application/json",
+      "title": "Ice Sheet Surface Melt_Greenland_S-1/2"
     },
     {
       "rel": "item",

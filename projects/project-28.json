@@ -42,21 +42,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-230.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-226.json",
       "type": "application/json",
-      "title": "Export Production"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-228.json",
-      "type": "application/json",
-      "title": "Monthly global Phytoplankton Carbon dataset"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-231.json",
-      "type": "application/json",
-      "title": "Particulate Inorganic Carbon"
+      "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v4.2)"
     },
     {
       "rel": "item",
@@ -72,15 +60,27 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-228.json",
+      "type": "application/json",
+      "title": "Monthly global Phytoplankton Carbon dataset"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-230.json",
+      "type": "application/json",
+      "title": "Export Production"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-233.json",
       "type": "application/json",
       "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v5)"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-226.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-231.json",
       "type": "application/json",
-      "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v4.2)"
+      "title": "Particulate Inorganic Carbon"
     },
     {
       "rel": "root",
@@ -105,7 +105,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-26.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-15.xml",
       "roles": [
         "metadata"
       ]

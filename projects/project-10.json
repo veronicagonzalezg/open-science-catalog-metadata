@@ -58,13 +58,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-119.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-105.xml",
       "roles": [
         "metadata"
       ]

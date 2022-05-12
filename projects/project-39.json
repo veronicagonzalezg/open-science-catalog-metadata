@@ -39,21 +39,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-190.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-196.json",
       "type": "application/json",
-      "title": "Land Ice Elevation Thematic Point Product(EOLIS POINTS)_Antarctica_Cryosat"
+      "title": "Land Ice Elevation Thematic Point Product(EOLIS POINTS)_Southern Andes_Cryosat"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-197.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-193.json",
       "type": "application/json",
-      "title": "Land Ice Elevation Thematic Gridded Product_Greenland_Cryosat"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-202.json",
-      "type": "application/json",
-      "title": "Land Ice Elevation Thematic Gridded Product_Antarctica_Cryosat"
+      "title": "Land Ice Elevation Thematic Point Product(EOLIS POINTS)_Russian Arctic_Cryosat"
     },
     {
       "rel": "item",
@@ -63,13 +57,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-195.json",
-      "type": "application/json",
-      "title": "Land Ice Elevation Thematic Point Product(EOLIS POINTS)_Arctic Canada South_Cryosat"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-199.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-203.json",
       "type": "application/json",
       "title": "Land Ice Elevation Thematic Gridded Product_Antarctica_Cryosat"
     },
@@ -81,39 +69,33 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-201.json",
-      "type": "application/json",
-      "title": "Land Ice Elevation Thematic Gridded Product_Antarctica_Cryosat"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-192.json",
-      "type": "application/json",
-      "title": "Land Ice Elevation Thematic Point Product(EOLIS POINTS)_Svalbard_Cryosat"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-196.json",
-      "type": "application/json",
-      "title": "Land Ice Elevation Thematic Point Product(EOLIS POINTS)_Southern Andes_Cryosat"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-204.json",
-      "type": "application/json",
-      "title": "Land Ice Elevation Thematic Gridded Product_Antarctica_Cryosat"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-200.json",
       "type": "application/json",
       "title": "Land Ice Elevation Thematic Gridded Product_Antarctica_Cryosat"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-189.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-195.json",
       "type": "application/json",
-      "title": "Land Ice Elevation Thematic Point Product(EOLIS POINTS)_Greenland_Cryosat"
+      "title": "Land Ice Elevation Thematic Point Product(EOLIS POINTS)_Arctic Canada South_Cryosat"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-201.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Gridded Product_Antarctica_Cryosat"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-190.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Point Product(EOLIS POINTS)_Antarctica_Cryosat"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-202.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Gridded Product_Antarctica_Cryosat"
     },
     {
       "rel": "item",
@@ -123,15 +105,33 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-203.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-197.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Gridded Product_Greenland_Cryosat"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-189.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Point Product(EOLIS POINTS)_Greenland_Cryosat"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-192.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Point Product(EOLIS POINTS)_Svalbard_Cryosat"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-199.json",
       "type": "application/json",
       "title": "Land Ice Elevation Thematic Gridded Product_Antarctica_Cryosat"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-193.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-204.json",
       "type": "application/json",
-      "title": "Land Ice Elevation Thematic Point Product(EOLIS POINTS)_Russian Arctic_Cryosat"
+      "title": "Land Ice Elevation Thematic Gridded Product_Antarctica_Cryosat"
     },
     {
       "rel": "root",
@@ -156,7 +156,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-36.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-101.xml",
       "roles": [
         "metadata"
       ]

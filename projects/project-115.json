@@ -36,9 +36,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-234.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-179.json",
       "type": "application/json",
-      "title": "Extended scientific HDO/H2O total column_TROPOMI"
+      "title": "HDO/H2O scattering product_S5p-TROPOMI"
     },
     {
       "rel": "item",
@@ -48,9 +48,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-179.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-234.json",
       "type": "application/json",
-      "title": "HDO/H2O scattering product_S5p-TROPOMI"
+      "title": "Extended scientific HDO/H2O total column_TROPOMI"
     },
     {
       "rel": "item",

@@ -41,27 +41,27 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-71.json",
-      "type": "application/json",
-      "title": "Ice shelf product_Antarctica_SMOS"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-73.json",
       "type": "application/json",
       "title": "Bedrock topography and/or geothermal heat flux_Antarctica_GOCE"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-70.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-71.json",
       "type": "application/json",
-      "title": "Internal ice-sheet temperature_Antarctica_SMOS"
+      "title": "Ice shelf product_Antarctica_SMOS"
     },
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-72.json",
       "type": "application/json",
       "title": "Occurrence of Surface Melting_Antarctica_SMOS"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-70.json",
+      "type": "application/json",
+      "title": "Internal ice-sheet temperature_Antarctica_SMOS"
     },
     {
       "rel": "root",
@@ -86,7 +86,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-105.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-37.xml",
       "roles": [
         "metadata"
       ]

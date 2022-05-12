@@ -42,15 +42,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-1.json",
-      "type": "application/json",
-      "title": "Geothermal Heat Flow Database and Map_Greenland_GOCE_SWARM"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-2.json",
       "type": "application/json",
       "title": "Global Model of Crust and Upper Mantle_WINTERC-G_GOCE"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-1.json",
+      "type": "application/json",
+      "title": "Geothermal Heat Flow Database and Map_Greenland_GOCE_SWARM"
     },
     {
       "rel": "root",
@@ -75,7 +75,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-43.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-66.xml",
       "roles": [
         "metadata"
       ]

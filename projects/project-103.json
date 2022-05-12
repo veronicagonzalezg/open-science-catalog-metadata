@@ -36,21 +36,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-155.json",
-      "type": "application/json",
-      "title": "Tropospheric ozone column(TrOC)_Global_S5p-TROPOMI and limb satellites"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-157.json",
       "type": "application/json",
       "title": "Tropospheric ozone column (TrOC)_Global_OMI and limb satellites"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-158.json",
-      "type": "application/json",
-      "title": "Stratospheric ozone column from limb satellites_Global"
     },
     {
       "rel": "item",
@@ -60,15 +48,27 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-156.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-155.json",
       "type": "application/json",
-      "title": "Tropospheric ozone column (TrOC)_Global_OMI and limb satellites"
+      "title": "Tropospheric ozone column(TrOC)_Global_S5p-TROPOMI and limb satellites"
     },
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-154.json",
       "type": "application/json",
       "title": "Tropospheric ozone column(TrOC)_Global_S5p-TROPOMI and limb satellites"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-158.json",
+      "type": "application/json",
+      "title": "Stratospheric ozone column from limb satellites_Global"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-156.json",
+      "type": "application/json",
+      "title": "Tropospheric ozone column (TrOC)_Global_OMI and limb satellites"
     },
     {
       "rel": "root",
@@ -93,7 +93,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-103.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-54.xml",
       "roles": [
         "metadata"
       ]
