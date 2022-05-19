@@ -16,147 +16,147 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-32.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/rdsar-satellite-sar-altimeter-product-open-ocean-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-34.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tg-ssh-corrected-sea-surface-height-at-tide-gauge-stations-baltics-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-219.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/pta-obs-sar-raw-measurements-baltics-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-216.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geo-hgt-geoid-heights-baltics-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-209.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sl-abs-absolute-sea-level-heights-baltics-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-40.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/earth-energy-imballance-eei-grace-grace-fo.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-38.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cor-gc-geodynamic-corrections-baltics-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-217.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/low-resolution-mode-satellite-altimeter-product-open-ocean-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-63.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/satellite-sarin-altimeter-product-coastal-ocean-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-36.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/arctide2017-high-resolution-tidal-atlas-arctic-ocean-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-29.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/pta-res-extracted-target-locations-baltics-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-48.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cor-ec2-ecr-electronic-delay-correction-baltics-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-61.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cor-sc-sentinel-1-systematic-effects-corrections-baltics-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-60.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/satellite-lrm-sar-sarin-polar-altimeter-product-polar-ocean-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-28.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tg-hgt-tide-gauge-heights-baltics-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-66.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-ocean-heat-content-gohc-grace-grace-fo.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-30.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/level-3-sentinel-3a-mid-2016-2018-along-track-5hz-product-sea-level-anomaly-1km-resolution.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-31.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/level-3-cryosat-2-2011-2019-along-track-5hz-product-sea-level-anomaly-1km-resolution.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-210.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gnss-pos-gnss-positioning-solution-baltics-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-49.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/satellite-sar-altimeter-product-open-ocean-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-59.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/level-3-sentinel-3a-mid-2016-2018-along-track-5hz-product-sea-level-anomaly-1km-resolution.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-67.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/level-4-sea-level-anomaly-multi-mission-gridded-merged-products-for-a-period-of-1-year-0-0625deg-0-0625deg-daily.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-27.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/wet-troposphere-correction-for-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-64.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/level-3-cryosat-2-2011-2019-along-track-5hz-product-sea-level-anomaly-1km-resolution.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-33.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cor-td-tropospheric-delays-baltics-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-35.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sar-pos-sar-positioning-solution-baltics-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-39.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sar-obs-sar-observation-solution-baltics-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-62.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cor-id-ionospheric-delays-baltics-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-37.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/satellite-sar-altimeter-product-coastal-ocean-cryosat.json",
       "type": "application/json"
     },
     {

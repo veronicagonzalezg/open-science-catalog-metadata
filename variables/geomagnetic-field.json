@@ -16,77 +16,77 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-165.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sudden-stratospheric-warming-ssw.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-161.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/vector-and-scalar-satellite-data-files-as-used-in-the-chaos-field-model.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-171.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ground-virtual-observatory-data-champ.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-172.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ground-observatory-data.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-164.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ground-virtual-observatory-data-swarm.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-168.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ground-virtual-observatory-data-oersted.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-166.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ground-virtual-observatory-data-cryosat-2.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-169.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/chaos-field-model-core.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-170.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geodynamo-simulation-data-earth-core.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-162.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/chaos-field-model.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-173.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cluster-swarm-b-conjunctions.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-167.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/webgeodyn-python-package.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-163.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/swarm-eiscat-conjunction-list-2013-2019.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-174.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cluster-swarm-a-and-c-conjunctions.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-175.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/chaos-field-model-splinecoefficients.json",
       "type": "application/json"
     },
     {

@@ -16,12 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-65.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/satellite-sar-altimeter-product-sea-floor-mapping-oceania-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-68.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/bathymetry-arctic-cryosat.json",
       "type": "application/json"
     },
     {

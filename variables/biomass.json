@@ -16,12 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-12.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/vod-africa-smos-ic-products-catds.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-147.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/prototype-biomass-product-using-sentinel-3-altimetry-africa-s3.json",
       "type": "application/json"
     },
     {

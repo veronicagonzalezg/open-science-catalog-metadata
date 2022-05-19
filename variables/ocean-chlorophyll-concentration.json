@@ -16,32 +16,32 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-212.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/level-4-ocean-colour-products-chl-a-300m-daily.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-103.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/level-3-chl-a-300m-daily-and-monthly.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-208.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/level-3-chl-a-300m-daily-and-monthly.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-205.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/particulate-backscatter-bbp-global-aeolus.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-215.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/secchi-disk-depth-global-oceans-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/product-9.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/level-4-ocean-colour-products-chl-a-300m-daily.json",
       "type": "application/json"
     },
     {
