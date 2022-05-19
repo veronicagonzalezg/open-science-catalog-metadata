@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-05-19T11:37:28.643528</gco:DateTime>
+    <gco:DateTime>2022-05-19T15:07:42.887800</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -306,6 +306,25 @@
               </gmd:name>
               <gmd:description>
                 <gco:CharacterString>access</gco:CharacterString>
+              </gmd:description>
+              <gmd:function>
+                <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeSpace="ISOTC211/19115" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+              </gmd:function>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage>
+                <gmd:URL>https://eoepca.github.io/open-science-catalog-metadata/products/cluster-swarm-a-and-c-conjunctions.json</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:LINK</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:name>
+                <gco:CharacterString>self</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>self</gco:CharacterString>
               </gmd:description>
               <gmd:function>
                 <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeSpace="ISOTC211/19115" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
