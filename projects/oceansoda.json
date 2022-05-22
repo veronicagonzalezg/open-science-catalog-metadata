@@ -70,28 +70,28 @@
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/themes/oceans.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/oceansoda.json",
+      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/projects/oceansoda.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/themes/oceans.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-75.xml",
+      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/projects/iso/project-75.xml",
       "roles": [
         "metadata"
       ]

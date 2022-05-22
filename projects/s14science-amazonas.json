@@ -39,28 +39,28 @@
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
+      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/themes/land.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/s14science-amazonas.json",
+      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/projects/s14science-amazonas.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
+      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/themes/land.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-19.xml",
+      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/projects/iso/project-19.xml",
       "roles": [
         "metadata"
       ]

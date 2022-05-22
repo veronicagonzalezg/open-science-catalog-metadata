@@ -38,34 +38,34 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/prototype-biomass-product-using-sentinel-3-altimetry-africa-s3.json",
+      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/products/prototype-biomass-product-using-sentinel-3-altimetry-africa-s3.json",
       "type": "application/json",
       "title": "Prototype biomass product using Sentinel-3 altimetry_Africa_S3"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
+      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/themes/land.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/albiom.json",
+      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/projects/albiom.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
+      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/themes/land.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-31.xml",
+      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/projects/iso/project-31.xml",
       "roles": [
         "metadata"
       ]
