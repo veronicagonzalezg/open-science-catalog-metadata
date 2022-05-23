@@ -65,33 +65,33 @@
     },
     {
       "rel": "root",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/variables/sea-ice-thickness.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sea-ice-thickness.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/projects/arctic-earth-observation-impact-assessment.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/arctic-earth-observation-impact-assessment.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/products/sea-ice-volume-and-snow-volume-prior-and-posterior-uncertainties-north-sea-cryosat-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-ice-volume-and-snow-volume-prior-and-posterior-uncertainties-north-sea-cryosat-2.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/variables/sea-ice-thickness.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sea-ice-thickness.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/products/iso/product-153.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iso/product-153.xml",
       "roles": [
         "metadata"
       ]

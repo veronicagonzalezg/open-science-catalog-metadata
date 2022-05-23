@@ -37,28 +37,28 @@
     },
     {
       "rel": "root",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/projects/cryosurf.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/cryosurf.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/projects/iso/project-99.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-99.xml",
       "roles": [
         "metadata"
       ]

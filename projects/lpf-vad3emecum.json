@@ -36,34 +36,34 @@
     },
     {
       "rel": "item",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/products/gross-and-net-carbon-flux-estimates-fluxcom2-0-carbon.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gross-and-net-carbon-flux-estimates-fluxcom2-0-carbon.json",
       "type": "application/json",
       "title": "Gross and net Carbon Flux Estimates_Fluxcom2.0 Carbon"
     },
     {
       "rel": "root",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/themes/land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/projects/lpf-vad3emecum.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/lpf-vad3emecum.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/themes/land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/projects/iso/project-10.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-10.xml",
       "roles": [
         "metadata"
       ]

@@ -75,33 +75,33 @@
     },
     {
       "rel": "root",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/variables/geomagnetic-field.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/geomagnetic-field.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/projects/4d-earth-swarm.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/4d-earth-swarm.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/products/geodynamo-simulation-data-earth-core.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geodynamo-simulation-data-earth-core.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/variables/geomagnetic-field.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/geomagnetic-field.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/products/iso/product-175.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iso/product-175.xml",
       "roles": [
         "metadata"
       ]

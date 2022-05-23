@@ -40,51 +40,51 @@
     },
     {
       "rel": "item",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/products/snow-grain-diameter-greenland-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-grain-diameter-greenland-s3.json",
       "type": "application/json",
       "title": "Snow grain diameter_Greenland_S3"
     },
     {
       "rel": "item",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/products/broadband-albedo-greenland-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/broadband-albedo-greenland-s3.json",
       "type": "application/json",
       "title": "Broadband albedo_Greenland_S3"
     },
     {
       "rel": "item",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/products/spectral-albedo-greenland-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/spectral-albedo-greenland-s3.json",
       "type": "application/json",
       "title": "Spectral albedo_Greenland_S3"
     },
     {
       "rel": "root",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/themes/land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/projects/sentinel-3-for-science-snow.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/sentinel-3-for-science-snow.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/projects/iso/project-64.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-64.xml",
       "roles": [
         "metadata"
       ]

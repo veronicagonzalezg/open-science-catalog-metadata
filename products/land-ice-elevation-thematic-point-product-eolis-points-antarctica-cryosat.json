@@ -70,33 +70,33 @@
     },
     {
       "rel": "root",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/variables/ice-sheet-topography.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ice-sheet-topography.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/projects/cryotop-evolution.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/cryotop-evolution.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/products/land-ice-elevation-thematic-point-product-eolis-points-antarctica-cryosat.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-thematic-point-product-eolis-points-antarctica-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/variables/ice-sheet-topography.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ice-sheet-topography.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/products/iso/product-190.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iso/product-190.xml",
       "roles": [
         "metadata"
       ]

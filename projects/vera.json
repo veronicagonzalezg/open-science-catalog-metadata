@@ -38,34 +38,34 @@
     },
     {
       "rel": "item",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/products/sudden-stratospheric-warming-ssw.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sudden-stratospheric-warming-ssw.json",
       "type": "application/json",
       "title": "Sudden Stratospheric Warming (SSW)"
     },
     {
       "rel": "root",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/projects/vera.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/vera.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/projects/iso/project-108.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-108.xml",
       "roles": [
         "metadata"
       ]

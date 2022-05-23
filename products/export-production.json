@@ -70,33 +70,33 @@
     },
     {
       "rel": "root",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/variables/colour-dissolved-organic-matter-cdom.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/colour-dissolved-organic-matter-cdom.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/projects/bicep.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/bicep.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/products/export-production.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/export-production.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/variables/colour-dissolved-organic-matter-cdom.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/colour-dissolved-organic-matter-cdom.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata/products/iso/product-230.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iso/product-230.xml",
       "roles": [
         "metadata"
       ]
