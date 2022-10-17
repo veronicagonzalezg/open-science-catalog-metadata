@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-3",
+  "id": "4d-greenland",
   "properties": {
     "title": "4D-Greenland",
     "description": "Advancing the current state of knowledge on the hydrology of the Greenland Ice Sheet, by capitalising on the latest advances in Earth Observation data. In 4DGreenland, an integrated assessment of the Greenland hydrology will be performed, with a focus on maximizing the use of Earth Observation data in determining each of the three major components and their interconnections: surface melt processes, supraglacial storage and drainage, and subglacial melt, drainage and lakes.",
@@ -26,8 +26,9 @@
       "Shepherd SPACE lth"
     ],
     "osc:type": "Project",
-    "start_datetime": "2020-08-26",
-    "end_datetime": "2022-09-01",
+    "start_datetime": "2020-08-26T00:00:00Z",
+    "end_datetime": "2022-09-01T23:59:59Z",
+    "updated": "2022-10-17T17:18:12Z",
     "datetime": "2020-08-26T00:00:00Z"
   },
   "geometry": null,
@@ -44,21 +45,21 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-surface-melt-greenland-s-1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-subglacial-hydrology-4dgreenland.json",
       "type": "application/json",
-      "title": "Ice Sheet Surface Melt_Greenland_S-1/2"
+      "title": "Ice Sheet subglacial hydrology_Greenland_S1/2"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/extent-and-volume-of-hydrological-surface-features-greenland-s1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hydrological-surface-features-4dgreenland.json",
       "type": "application/json",
       "title": "Extent and volume of hydrological surface features_Greenland_S1/2"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-subglacial-hydrology-greenland-s1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-surface-melt-4dgreenland.json",
       "type": "application/json",
-      "title": "Ice Sheet subglacial hydrology_Greenland_S1/2"
+      "title": "Ice Sheet Surface Melt_Greenland_S-1/2"
     },
     {
       "rel": "root",
@@ -83,7 +84,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-1.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/4d-greenland.xml",
       "roles": [
         "metadata"
       ]
@@ -91,5 +92,6 @@
   },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
-  ]
+  ],
+  "collection": "Cryosphere"
 }

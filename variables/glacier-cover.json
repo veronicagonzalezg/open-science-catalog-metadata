@@ -11,8 +11,43 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/glacier_cover",
       "title": "Link"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-melt-ascat-4dantarctica.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-temperature-smos-4dantarctica.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/melt-indicator-4dantarctica.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/subglacial-lake-drainage-4dantarctica.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-melt-s1-4dantarctica.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/supraglacial-lakes-west-4dantarctica.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/radar-brightness-s1-4dantarctica.json",
+      "type": "application/json"
     },
     {
       "rel": "self",

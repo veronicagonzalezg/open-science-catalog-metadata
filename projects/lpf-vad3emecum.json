@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-109",
+  "id": "lpf-vad3emecum",
   "properties": {
     "title": "(LPF) VAD3EMECUM",
     "description": "Integration of data streams of the sun-induced chlorophyll fluorescence, land surface temperature and vegetation optical depth into data-driven flux models for a better diagnosis of vegetative stress reactions as well as completementary information on soil moisture.",
@@ -9,7 +9,7 @@
     "osc:themes": [
       "Land"
     ],
-    "osc:status": "ONGOING",
+    "osc:status": "COMPLETED",
     "osc:technical_officer": {
       "name": "Stephen Plummer",
       "e-mail": "stephen.plummer@esa.int"
@@ -18,8 +18,9 @@
       "MAX PLANCK INSTITUTE FOR BIOGEOCHEMISTRY (DE)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2020-04-29",
-    "end_datetime": "2022-06-01",
+    "start_datetime": "2020-04-29T00:00:00Z",
+    "end_datetime": "2022-06-01T23:59:59Z",
+    "updated": "2022-10-17T17:18:12Z",
     "datetime": "2020-04-29T00:00:00Z"
   },
   "geometry": null,
@@ -36,7 +37,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gross-and-net-carbon-flux-estimates-fluxcom2-0-carbon.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gross-net-carbon-flux-lpf-vad3emecum.json",
       "type": "application/json",
       "title": "Gross and net Carbon Flux Estimates_Fluxcom2.0 Carbon"
     },
@@ -63,7 +64,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-10.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/lpf-vad3emecum.xml",
       "roles": [
         "metadata"
       ]
@@ -71,5 +72,6 @@
   },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
-  ]
+  ],
+  "collection": "Land"
 }

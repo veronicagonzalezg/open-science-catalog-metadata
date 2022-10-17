@@ -11,8 +11,13 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/ocean_suspended_sediments_concentration",
       "title": "Link"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l3-spm-daily-eo4sibs.json",
+      "type": "application/json"
     },
     {
       "rel": "self",

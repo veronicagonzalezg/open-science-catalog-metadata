@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-114",
+  "id": "wifos",
   "properties": {
     "title": "WIFOS",
     "description": "Development of a novel instrument to measure profiles of water vapour isotopologues from ground to the upper troposphere on a small (<20kg payload) balloon-borne platform",
@@ -20,8 +20,9 @@
       "UNIVERSITY OF BERGEN (NO)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2021-03-03",
-    "end_datetime": "2022-03-03",
+    "start_datetime": "2021-03-03T00:00:00Z",
+    "end_datetime": "2022-03-03T23:59:59Z",
+    "updated": "2022-10-17T17:18:12Z",
     "datetime": "2021-03-03T00:00:00Z"
   },
   "geometry": null,
@@ -59,7 +60,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-114.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/wifos.xml",
       "roles": [
         "metadata"
       ]
@@ -67,5 +68,6 @@
   },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
-  ]
+  ],
+  "collection": "Atmosphere"
 }

@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-67",
+  "id": "polar-ice-shelf",
   "properties": {
     "title": "Polar+ Ice Shelf",
     "description": "Exploiting the 25-year record of ESA satellite observations, including SMOS, S-1, S-2, and swath mode processed CryoSat-2 data, to produce a comprehensive record of ice shelf change that extends the temporal coverage and improves the spatial resolution with which we can study Antarctic Ice Shelves",
@@ -23,8 +23,9 @@
       "University of Edinburgh (GB)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2020-09-03",
-    "end_datetime": "2022-08-31",
+    "start_datetime": "2020-09-03T00:00:00Z",
+    "end_datetime": "2022-08-31T23:59:59Z",
+    "updated": "2022-10-17T17:18:12Z",
     "datetime": "2020-09-03T00:00:00Z"
   },
   "geometry": null,
@@ -62,7 +63,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-91.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/polar-ice-shelf.xml",
       "roles": [
         "metadata"
       ]
@@ -70,5 +71,6 @@
   },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
-  ]
+  ],
+  "collection": "Cryosphere"
 }

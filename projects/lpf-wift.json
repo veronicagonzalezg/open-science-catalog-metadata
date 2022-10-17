@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-115",
+  "id": "lpf-wift",
   "properties": {
     "title": "(LPF) WIFT",
     "description": "The subject of this project is to exploit these measurements to retrieve the water vapour isotopologues H216O, HDO and, if possible, H218O.",
@@ -18,8 +18,9 @@
       "Netherlands Institute for Space Research (NWO-I) (NL)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2018-10-17",
-    "end_datetime": "2020-10-31",
+    "start_datetime": "2018-10-17T00:00:00Z",
+    "end_datetime": "2020-10-31T23:59:59Z",
+    "updated": "2022-10-17T17:18:12Z",
     "datetime": "2018-10-17T00:00:00Z"
   },
   "geometry": null,
@@ -36,27 +37,27 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/extended-scientific-hdo-h2o-total-column-tropomi.json",
-      "type": "application/json",
-      "title": "Extended scientific HDO/H2O total column_TROPOMI"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hdo-h2o-non-scattering-product-s5p-tropomi.json",
-      "type": "application/json",
-      "title": "HDO/H2O non-scattering product_S5p-TROPOMI"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/clear-sky-hdo-h2o-total-column-tropomi.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hdo-total-column-tropomi-clear-sky-wift.json",
       "type": "application/json",
       "title": "Clear-sky HDO/H2O total column_TROPOMI"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hdo-h2o-scattering-product-s5p-tropomi.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/total-column-h2o-hdo-cloudy-lpf-wift.json",
       "type": "application/json",
       "title": "HDO/H2O scattering product_S5p-TROPOMI"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hdo-total-column-tropomi-extended-wift.json",
+      "type": "application/json",
+      "title": "Extended scientific HDO/H2O total column_TROPOMI"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/total-column-h2o-hdo-clear-sky-lpf-wift.json",
+      "type": "application/json",
+      "title": "HDO/H2O non-scattering product_S5p-TROPOMI"
     },
     {
       "rel": "root",
@@ -81,7 +82,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-7.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/lpf-wift.xml",
       "roles": [
         "metadata"
       ]
@@ -89,5 +90,6 @@
   },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
-  ]
+  ],
+  "collection": "Atmosphere"
 }

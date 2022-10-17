@@ -11,22 +11,27 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/glacier_motion",
       "title": "Link"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/slope-instabilities-in-glacier-forefields-swissalps-s1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/dynamics-of-glacier-lakes-alpglacier.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/dynamics-of-glacier-lakes-swissalps-s1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-subglacial-hydrology-4dgreenland.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/glacier-surface-flow-velocity-swissalps-s1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/glacier-surface-flow-velocity-alpglacier.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/slope-instabilities-glacier-forefields-alpglacier.json",
       "type": "application/json"
     },
     {

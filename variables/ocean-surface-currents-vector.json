@@ -11,57 +11,57 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/ocean_surface_currents_vector",
       "title": "Link"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/doppler-derived-surface-current-agulhas-s1.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/daily-3d-ocean-currents-world-ocean-circulation.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gridded-surface-current-oceans-agulhas.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l4-geostrophic-currents-eo4sibs.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/daily-3d-ocean-currents-north-atlantic.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/oceanic-current-fronts-world-ocean-circulation.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/daily-2d-ocean-surface-currents-north-atlantic.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/stokes-drift-atlantic-world-ocean-circulation.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/total-surface-current-north-atlantic.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/daily-2d-ocean-currents-world-ocean-circulation.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/oceanic-current-fronts-gibraltar.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/eddy-census-eo4sibs.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/total-surface-current-tropical-atlantic.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/doppler-derived-surface-current-world-ocean-circulation.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/eddy-census.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/total-surface-current-north-atlantic-world-ocean-circulation.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/stokes-drift-estimation-atlantic-ocean.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/total-surface-current-tropical-atlantic-world-ocean-circulation.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/level-4-geostrophic-currents-multi-mission-gridded-merged-products-for-a-period-of-1-year-0-0625deg-0-0625deg-daily.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gridded-surface-current-world-ocean-circulation.json",
       "type": "application/json"
     },
     {

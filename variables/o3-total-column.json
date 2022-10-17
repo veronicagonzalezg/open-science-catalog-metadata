@@ -11,12 +11,12 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/o3_total_column",
       "title": "Link"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/total-ozone-product-from-olci-s-3-antarctica-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/total-ozone-anreo.json",
       "type": "application/json"
     },
     {

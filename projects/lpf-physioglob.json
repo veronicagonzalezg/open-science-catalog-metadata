@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-66",
+  "id": "lpf-physioglob",
   "properties": {
     "title": "(LPF) PHYSIOGLOB",
     "description": "Assessing the inter-annual physiological response of phytoplankton to global warming using long-term satellite observations",
@@ -19,8 +19,9 @@
       "ENERGY AND SUSTAINABLE ECONOMIC DEVELOPMENT (ENEA) (IT)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2018-10-01",
-    "end_datetime": "2020-10-31",
+    "start_datetime": "2018-10-01T00:00:00Z",
+    "end_datetime": "2020-10-31T23:59:59Z",
+    "updated": "2022-10-17T17:18:12Z",
     "datetime": "2018-10-01T00:00:00Z"
   },
   "geometry": null,
@@ -37,7 +38,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/secchi-disk-depth-global-oceans-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/secchi-disk-depth-lpf-physioglob.json",
       "type": "application/json",
       "title": "Secchi Disk depth_Global Oceans_Multimission"
     },
@@ -64,7 +65,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-4.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/lpf-physioglob.xml",
       "roles": [
         "metadata"
       ]
@@ -72,5 +73,6 @@
   },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
-  ]
+  ],
+  "collection": "Oceans"
 }

@@ -11,12 +11,22 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/lake_area",
       "title": "Link"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hydrodynamic-models-of-alpine-lakes-western-europe-s2-3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/subglacial-catchements-4dantarctica.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hydrodynamic-model-alpine-lakes-s24land.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/subglacial-lakes-4dantarctica.json",
       "type": "application/json"
     },
     {

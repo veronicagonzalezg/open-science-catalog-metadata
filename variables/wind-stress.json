@@ -11,12 +11,12 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/wind_stress",
       "title": "Link"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/wind-stress-vector-anomalies-hourly-era5.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/wind-stress-vector-world-ocean-circulation.json",
       "type": "application/json"
     },
     {

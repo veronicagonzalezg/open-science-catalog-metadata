@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-19",
+  "id": "arctic-snow-on-sea-ice",
   "properties": {
     "title": "Arctic+Snow on Sea Ice",
     "description": "The study aimed at exploring, developing and validating different approaches to retrieve snow thickness over sea ice; to develop a new prototype processor; and to produce and validate an experimental dataset of snow thickness over the Arctic.",
@@ -22,8 +22,9 @@
       "CENTRE FOR RESEARCH IN EARTH AND SPACE SCIENCE (CA)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2016-07-12",
-    "end_datetime": "2018-09-30",
+    "start_datetime": "2016-07-12T00:00:00Z",
+    "end_datetime": "2018-09-30T23:59:59Z",
+    "updated": "2022-10-17T17:18:12Z",
     "datetime": "2016-07-12T00:00:00Z"
   },
   "geometry": null,
@@ -61,7 +62,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-16.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/arctic-snow-on-sea-ice.xml",
       "roles": [
         "metadata"
       ]
@@ -69,5 +70,6 @@
   },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
-  ]
+  ],
+  "collection": "Cryosphere"
 }

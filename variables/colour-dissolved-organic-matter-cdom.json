@@ -11,57 +11,57 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/colour_dissolved_organic_matter_cdom",
       "title": "Link"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/export-production.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/dissolved-organic-carbon-bicep.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-particulate-organic-carbon-dataset-4-km-oc-cci-v4-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/export-production-bicep.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-marine-phytoplankton-primary-production-dataset.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cdom-aeolus-innovation-color.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-particulate-organic-carbon-dataset-4-km-oc-cci-v5.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/eo-based-cdom-baltic-sealabio.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/model-based-colored-dissolved-organic-matter-cdom-baltics-model.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-particulate-organic-carbon-v4-bicep.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/in-situ-measurements-baltics.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/in-situ-sealabio.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/eo-based-color-disolved-organic-matter-baltics-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-marine-phytoplankton-carbon-bicep.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/chromophoric-dissolved-organic-matter-cdom-absorption-global-aeolus.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/model-based-cdom-baltic-sealabio.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/dissolved-organic-carbon.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-marine-phytoplankton-primary-production-bicep.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-phytoplankton-carbon-dataset.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-particulate-organic-carbon-v5-bicep.json",
       "type": "application/json"
     },
     {

@@ -11,12 +11,12 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/snow_status_wet_dry",
       "title": "Link"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/binary-wet-snow-extent-products.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/binary-wet-snow-s14science-snow.json",
       "type": "application/json"
     },
     {

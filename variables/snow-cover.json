@@ -11,57 +11,57 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/snow_cover",
       "title": "Link"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/nrt-sice-rasters-for-greenland-arctic-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-grain-diameter-arctic-sice.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-cover-on-glaciers-swissalps-s1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-grain-diameter-greenland-s34science-snow.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/broadband-albedo-arctic-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/spectral-albedo-arctic-sice.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-area-extent-for-european-alps-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-area-europe-alps-alpsnow.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/spectral-albedo-arctic-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/nrt-sice-rasters-greenland-arctic-sice.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-grain-diameter-arctic-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-cover-alpglacier.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-grain-size-for-european-alps-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/spectral-albedo-greenland-s34science-snow.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-grain-diameter-greenland-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/broadband-albedo-arctic-sice.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/broadband-albedo-greenland-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/broadband-albedo-greenland-s34science-snow.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/spectral-albedo-greenland-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-grain-europe-alps-alpsnow.json",
       "type": "application/json"
     },
     {

@@ -11,32 +11,32 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/hdo",
       "title": "Link"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/extended-scientific-hdo-h2o-total-column-tropomi.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hdo-total-column-tropomi-clear-sky-wift.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hdo-h2o-non-scattering-product-s5p-tropomi.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/water-vapour-isotopologues-lpf-weather.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gosat-pbl-xh2o-and-stable-water-water-vapour-isotopologues-global.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/total-column-h2o-hdo-cloudy-lpf-wift.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/clear-sky-hdo-h2o-total-column-tropomi.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hdo-total-column-tropomi-extended-wift.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hdo-h2o-scattering-product-s5p-tropomi.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/total-column-h2o-hdo-clear-sky-lpf-wift.json",
       "type": "application/json"
     },
     {

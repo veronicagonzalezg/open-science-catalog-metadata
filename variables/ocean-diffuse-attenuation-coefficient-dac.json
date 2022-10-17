@@ -11,32 +11,17 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/ocean_diffuse_attenuation_coefficient_dac",
       "title": "Link"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/level-3-suspended-particulate-matter-300m-daily-and-monthly.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/diffuse-attenuation-aeolus-innovation-color.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/level-3-suspended-particulate-matter-300m-daily-and-monthly.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/diffuse-attenuation-kd-global-aeolus.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/level-3-turbidity-300m-daily-and-monthly.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/level-3-turbidity-300m-daily-and-monthly.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l3-turbidity-daily-monthly-eo4sibs.json",
       "type": "application/json"
     },
     {

@@ -11,17 +11,22 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/land_cover",
       "title": "Link"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/multitemporal-crop-map-phenological-parameters-and-phenological-parameters-italy-2017-2018-s2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/crop-map-multitemporal-s24land.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-cover-map-italy-2018-s2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-cover-map-italy-s24land.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/regional-esdl-south-america-esdl.json",
       "type": "application/json"
     },
     {

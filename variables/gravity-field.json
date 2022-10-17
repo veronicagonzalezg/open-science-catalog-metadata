@@ -11,22 +11,22 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/gravity_field",
       "title": "Link"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-model-of-crust-and-upper-mantle-winterc-g-goce.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/crust-and-upper-mantle-model-3d-earth.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geothermal-heat-flow-database-and-map-greenland-goce-swarm.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/lithosphere-density-temperature-viscosity-goce-antarctica.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/density-temperature-and-viscosity-structure-of-the-antarctic-lithosphere-antarctica-goce.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gravity-anomalies-goce-airborne-4dantarctica.json",
       "type": "application/json"
     },
     {

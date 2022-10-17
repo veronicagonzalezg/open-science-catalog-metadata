@@ -11,8 +11,13 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/total_alkalinity_at",
       "title": "Link"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-ocean-total-alcalinity-oceansoda.json",
+      "type": "application/json"
     },
     {
       "rel": "self",

@@ -11,12 +11,12 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/radiation_profile",
       "title": "Link"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/radiation-budget-regional-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/radiation-budget-circas.json",
       "type": "application/json"
     },
     {

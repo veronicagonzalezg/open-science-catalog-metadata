@@ -11,27 +11,17 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/o3_tropospheric_column",
       "title": "Link"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tropospheric-ozone-column-troc-global-omi-and-limb-satellites.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tropospheric-ozone-column-tropomi-sunlit.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tropospheric-ozone-column-troc-global-omi-and-limb-satellites.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tropospheric-ozone-column-troc-global-s5p-tropomi-and-limb-satellites.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tropospheric-ozone-column-troc-global-s5p-tropomi-and-limb-satellites.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tropospheric-ozone-column-omi-sunlit.json",
       "type": "application/json"
     },
     {
