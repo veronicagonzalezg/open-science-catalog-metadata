@@ -43,12 +43,6 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cluster-swarm-ac-conjunctions-ion-outflow.json",
-      "type": "application/json",
-      "title": "Cluster/Swarm A and C conjunctions"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/solar-activity-polar-cap-plasma-density-ion-outflow.json",
       "type": "application/json",
       "title": "CHAMP and Swarm solar activity- and height-scaled polar cap plasma density measurements"
@@ -58,6 +52,12 @@
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cluster-swarm-b-conjunctions-ion-outflow.json",
       "type": "application/json",
       "title": "Cluster/Swarm B conjunctions"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cluster-swarm-ac-conjunctions-ion-outflow.json",
+      "type": "application/json",
+      "title": "Cluster/Swarm A and C conjunctions"
     },
     {
       "rel": "root",

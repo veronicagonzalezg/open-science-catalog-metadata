@@ -16,7 +16,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-level-lpf-ovalie.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-level-variability-lpf-ovalie.json",
       "type": "application/json"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-level-variability-lpf-ovalie.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-level-lpf-ovalie.json",
       "type": "application/json"
     },
     {

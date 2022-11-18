@@ -16,12 +16,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/rainfall-prism-0-1-v2-africa-smos-rainfall.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/rainfall-prism-0-25-v2-africa-smos-rainfall.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/rainfall-prism-0-25-v4-africa-smos-rainfall.json",
       "type": "application/json"
     },
     {
@@ -31,7 +26,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/rainfall-prism-0-25-v4-africa-smos-rainfall.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/rainfall-prism-0-25-v2-africa-smos-rainfall.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/rainfall-prism-0-1-v2-africa-smos-rainfall.json",
       "type": "application/json"
     },
     {

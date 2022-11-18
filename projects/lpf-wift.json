@@ -43,15 +43,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/total-column-h2o-hdo-cloudy-lpf-wift.json",
-      "type": "application/json",
-      "title": "HDO/H2O scattering product_S5p-TROPOMI"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hdo-total-column-tropomi-extended-wift.json",
       "type": "application/json",
       "title": "Extended scientific HDO/H2O total column_TROPOMI"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/total-column-h2o-hdo-cloudy-lpf-wift.json",
+      "type": "application/json",
+      "title": "HDO/H2O scattering product_S5p-TROPOMI"
     },
     {
       "rel": "item",

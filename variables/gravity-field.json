@@ -16,12 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/crust-and-upper-mantle-model-3d-earth.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/lithosphere-density-temperature-viscosity-goce-antarctica.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/lithosphere-density-temperature-viscosity-goce-antarctica.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/crust-and-upper-mantle-model-3d-earth.json",
       "type": "application/json"
     },
     {

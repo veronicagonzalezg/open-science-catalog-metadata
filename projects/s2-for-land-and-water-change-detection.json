@@ -38,15 +38,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/crop-map-multitemporal-s24land.json",
-      "type": "application/json",
-      "title": "Multitemporal crop map - phenological parameters and phenological parameters_Italy_2017/2018_S2"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-cover-map-italy-s24land.json",
       "type": "application/json",
       "title": "Land cover map_Italy_2018_S2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/crop-map-multitemporal-s24land.json",
+      "type": "application/json",
+      "title": "Multitemporal crop map - phenological parameters and phenological parameters_Italy_2017/2018_S2"
     },
     {
       "rel": "root",

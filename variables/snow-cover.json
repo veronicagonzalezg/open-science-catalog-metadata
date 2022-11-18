@@ -16,12 +16,17 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/broadband-albedo-arctic-sice.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-grain-diameter-arctic-sice.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-grain-diameter-greenland-s34science-snow.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-grain-europe-alps-alpsnow.json",
       "type": "application/json"
     },
     {
@@ -31,12 +36,17 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-area-europe-alps-alpsnow.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/nrt-sice-rasters-greenland-arctic-sice.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/nrt-sice-rasters-greenland-arctic-sice.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-grain-diameter-greenland-s34science-snow.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/broadband-albedo-greenland-s34science-snow.json",
       "type": "application/json"
     },
     {
@@ -51,17 +61,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/broadband-albedo-arctic-sice.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/broadband-albedo-greenland-s34science-snow.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-grain-europe-alps-alpsnow.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-area-europe-alps-alpsnow.json",
       "type": "application/json"
     },
     {

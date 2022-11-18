@@ -48,15 +48,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/in-situ-sealabio.json",
-      "type": "application/json",
-      "title": "In-situ measurements_Baltics"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/model-based-cdom-baltic-sealabio.json",
       "type": "application/json",
       "title": "Model based Colored Dissolved Organic Matter (CDOM) _Baltics_Model"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/in-situ-sealabio.json",
+      "type": "application/json",
+      "title": "In-situ measurements_Baltics"
     },
     {
       "rel": "root",

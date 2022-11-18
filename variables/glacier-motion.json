@@ -21,12 +21,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-subglacial-hydrology-4dgreenland.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/glacier-surface-flow-velocity-alpglacier.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/glacier-surface-flow-velocity-alpglacier.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-subglacial-hydrology-4dgreenland.json",
       "type": "application/json"
     },
     {

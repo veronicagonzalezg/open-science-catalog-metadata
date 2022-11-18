@@ -47,15 +47,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/spectral-albedo-greenland-s34science-snow.json",
-      "type": "application/json",
-      "title": "Spectral albedo_Greenland_S3"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/broadband-albedo-greenland-s34science-snow.json",
       "type": "application/json",
       "title": "Broadband albedo_Greenland_S3"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/spectral-albedo-greenland-s34science-snow.json",
+      "type": "application/json",
+      "title": "Spectral albedo_Greenland_S3"
     },
     {
       "rel": "root",
@@ -74,7 +74,7 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
       "type": "application/json"
     }
   ],
