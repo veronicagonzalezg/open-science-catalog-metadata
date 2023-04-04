@@ -43,7 +43,7 @@
     ],
     "numberOfProducts": 244,
     "numberOfProjects": 124,
-    "numberOfVariables": 330,
+    "numberOfVariables": 331,
     "numberOfThemes": 6
   },
   "themes": [
@@ -2945,7 +2945,7 @@
         ],
         "numberOfProducts": 0,
         "numberOfProjects": 0,
-        "numberOfVariables": 31
+        "numberOfVariables": 32
       },
       "variables": [
         {
@@ -3199,6 +3199,14 @@
               2021
             ],
             "numberOfProducts": 27
+          }
+        },
+        {
+          "name": "Nanophytoplankton Carbon",
+          "description": "Mass concentration of nanophytoplankton expressed as carbon in sea water [mg C m-3] ",
+          "summary": {
+            "years": [],
+            "numberOfProducts": 0
           }
         },
         {
