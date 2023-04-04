@@ -157,6 +157,13 @@
       </gmx:CodeDefinition>
     </gmx:codeEntry>
     <gmx:codeEntry>
+      <gmx:CodeDefinition gml:id="OSC_Variable_Chlorophyll-a">
+        <gml:identifier codeSpace="OSC">OSC_Variable_Chlorophyll-a</gml:identifier>
+        <gml:description>Mass  concentration of chlorophyll a in sea water [mg C m-3]</gml:description>
+        <gml:descriptionReference xlink:type="simple" xlink:href="https://catalogue.ceda.ac.uk/uuid/6a6ccbb8ef2645308a60dc47e9b8b5fb"/>
+      </gmx:CodeDefinition>
+    </gmx:codeEntry>
+    <gmx:codeEntry>
       <gmx:CodeDefinition gml:id="OSC_Variable_C4H10">
         <gml:identifier codeSpace="OSC">OSC_Variable_C4H10</gml:identifier>
         <gml:description>3D field of dry air mole fraction of C4H10 (Methylpropane, expressed in moles) divided by the total amount of all constituents in dry air (also expressed in moles)</gml:description>

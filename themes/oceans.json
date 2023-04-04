@@ -191,6 +191,11 @@
     },
     {
       "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/chlorophyll-a.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/water-leaving-spectral-radiance.json",
       "type": "application/json"
     },
