@@ -1756,6 +1756,13 @@ the soil and plants when the ground is at its natural moisture content.</gml:des
       </gmx:CodeDefinition>
     </gmx:codeEntry>
     <gmx:codeEntry>
+      <gmx:CodeDefinition gml:id="OSC_Variable_Particulate Organic Carbon">
+        <gml:identifier codeSpace="OSC">OSC_Variable_Particulate Organic Carbon</gml:identifier>
+        <gml:description>Mass concentration of particulate organic carbon expressed as carbon in sea water [mg C m-3]</gml:description>
+        <gml:descriptionReference xlink:type="simple" xlink:href="https://catalogue.ceda.ac.uk/uuid/5006f2c553cd4f26a6af0af2ee6d7c94"/>
+      </gmx:CodeDefinition>
+    </gmx:codeEntry>
+    <gmx:codeEntry>
       <gmx:CodeDefinition gml:id="OSC_Variable_OCS Mole fraction">
         <gml:identifier codeSpace="OSC">OSC_Variable_OCS Mole fraction</gml:identifier>
         <gml:description>3D field of amount of OCS (Carbonyl sulfide, expressed in moles) divided by the total amount of all constituents in dry air (also expressed in moles)</gml:description>

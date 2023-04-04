@@ -43,7 +43,7 @@
     ],
     "numberOfProducts": 244,
     "numberOfProjects": 124,
-    "numberOfVariables": 336,
+    "numberOfVariables": 337,
     "numberOfThemes": 6
   },
   "themes": [
@@ -2945,7 +2945,7 @@
         ],
         "numberOfProducts": 0,
         "numberOfProjects": 0,
-        "numberOfVariables": 37
+        "numberOfVariables": 38
       },
       "variables": [
         {
@@ -3383,6 +3383,14 @@
         {
           "name": "Particulate Inorganic Carbon",
           "description": "Mass concentration of particulate inorganic carbon expressed as carbon in sea water [mg C m-3]",
+          "summary": {
+            "years": [],
+            "numberOfProducts": 0
+          }
+        },
+        {
+          "name": "Particulate Organic Carbon",
+          "description": "Mass concentration of particulate organic carbon expressed as carbon in sea water [mg C m-3]",
           "summary": {
             "years": [],
             "numberOfProducts": 0
