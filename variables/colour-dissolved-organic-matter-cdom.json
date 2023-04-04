@@ -16,11 +16,6 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-marine-phytoplankton-carbon-bicep.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cdom-aeolus-innovation-color.json",
       "type": "application/json"
     },

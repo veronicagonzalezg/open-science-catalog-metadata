@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-04T14:37:16.867012</gco:DateTime>
+    <gco:DateTime>2023-04-04T14:39:44.252402</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -123,12 +123,15 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>Monthly global Phytoplankton Carbon dataset</gco:CharacterString>
+            <gco:CharacterString>Monthly Global  Total Phytoplankton Carbon dataset (9 km, OC-CCI v5)</gco:CharacterString>
           </gmd:title>
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>A spectrally-resolved photoacclimation model was unified with a primary production model that simulated photosynthesis as a function of irradiance using a two-parameter photosynthesis versus irradiance (P-I) function to estimate the carbon content of marine phytoplankton based on ocean-colour remote sensing products (Sathyendranath et al. 2020 and references therein for details). The photoacclimation model contains a maximum chlorophyll-to-carbon ratio for three different phytoplankton size classes (pico-, nano- and microphytoplankton) that was inferred from field data, as in Sathyendranath et al. (2020). Chlorophyll-a products were obtained from the European Space Agency (ESA) Ocean Colour Climate Change Initiative (OC-CCI v5.0 dataset). Photosynthetic Active Radiation (PAR) products were obtained from the National Aeronautics and Space Administration (NASA) and were corrected for inter-sensor bias in products. Mixed Layer Depth (MLD) was obtained from the French Research Institute for Exploration of the Sea (Ifremer). In situ datasets P-I parameters were incorporated as described in Kulk et al. (2020). Data are provided as netCDF files containing carbon products for pico-, nano- and microphytoplankton (C_picophyto, C_nanophyto and C_microphyto, respectively, in mg C m-3) and the total phytoplankton community (C_phyto in mg C m-3) for the period of 1998 to 2020 at 9 km spatial resolution. Additional variables that were used for the calculation of the phytoplankton carbon products are also provided, including chlorophyll-a (chl_a in mg m-3), photosynthetically activate radiation (par, in µmol photons m-2 d-1), mixed layer depth (mld in m) and the mean spectral nondimensional irradiance (mean_spectral_i_star)</gco:CharacterString>
+        <gco:CharacterString>This dataset contains monthly global carbon products for pico-, nano- and microphytoplankton (C_picophyto, C_nanophyto and C_microphyto, respectively, in mg C m-3) and the total phytoplankton community (C_phyto in mg C m-3) for the period of 1998 to 2020 at 9 km spatial resolution.
+A spectrally-resolved photoacclimation model was unified with a primary production model that simulated photosynthesis as a function of irradiance using a two-parameter photosynthesis versus irradiance (P-I) function to estimate the carbon content of marine phytoplankton based on ocean-colour remote sensing products (Sathyendranath et al. 2020 and references therein for details). The photoacclimation model contains a maximum chlorophyll-to-carbon ratio for three different phytoplankton size classes (pico-, nano- and microphytoplankton) that was inferred from field data, as in Sathyendranath et al. (2020). Chlorophyll-a products were obtained from the European Space Agency (ESA) Ocean Colour Climate Change Initiative (OC-CCI v5.0 dataset). Photosynthetic Active Radiation (PAR) products were obtained from the National Aeronautics and Space Administration (NASA) and were corrected for inter-sensor bias in products. Mixed Layer Depth (MLD) was obtained from the French Research Institute for Exploration of the Sea (Ifremer). In situ datasets P-I parameters were incorporated as described in Kulk et al. (2020).
+The phytoplankton carbon products were generated as part of the ESA Biological Pump and Carbon Exchange Processes (BICEP) project. Support from the Simons Foundation grant ‘Computational Biogeochemical Modeling of Marine Ecosystems’ (CBIOMES, number 549947) and from the National Centre of Earth Observation (NCEO) is acknowledged.
+Data are provided as netCDF files containing carbon products for pico-, nano- and microphytoplankton (C_picophyto, C_nanophyto and C_microphyto, respectively, in mg C m-3) and the total phytoplankton community (C_phyto in mg C m-3) for the period of 1998 to 2020 at 9 km spatial resolution. Additional variables that were used for the calculation of the phytoplankton carbon products are also provided, including chlorophyll-a (chl_a in mg m-3), photosynthetically activate radiation (par, in µmol photons m-2 d-1), mixed layer depth (mld in m) and the mean spectral nondimensional irradiance (mean_spectral_i_star).</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>
@@ -143,7 +146,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>variable:Colour Dissolved Organic Matter (CDOM)</gco:CharacterString>
+            <gco:CharacterString>variable:Phytoplankton Carbon</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -210,16 +213,13 @@
               <gmd:extent>
                 <gml:TimePeriod gml:id="T001">
                   <gml:beginPosition>1998-01-01 00:00:00+00:00</gml:beginPosition>
-                  <gml:endPosition>2020-12-31 23:59:59+00:00</gml:endPosition>
+                  <gml:endPosition>2020-12-31 00:00:00+00:00</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>
           </gmd:temporalElement>
         </gmd:EX_Extent>
       </gmd:extent>
-      <gmd:supplementalInformation>
-        <gco:CharacterString>http://dx.doi.org/10.5285/6a6ccbb8ef2645308a60dc47e9b8b5fb</gco:CharacterString>
-      </gmd:supplementalInformation>
     </gmd:MD_DataIdentification>
   </gmd:identificationInfo>
   <gmd:contentInfo>
@@ -290,7 +290,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://bicep-project.org/</gmd:URL>
+                <gmd:URL>https://data.ceda.ac.uk/neodc/bicep/data/phytoplankton_carbon/v5.0/monthly/</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -309,7 +309,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL> http://dx.doi.org/10.5285/6a6ccbb8ef2645308a60dc47e9b8b5fb</gmd:URL>
+                <gmd:URL>https://dx.doi.org/10.5285/6a6ccbb8ef2645308a60dc47e9b8b5fb</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -362,7 +362,7 @@
     <gmi:MI_AcquisitionInformation>
       <gmi:platform>
         <gmi:MI_Platform>
-          <gmi:identifier>['Sentinel-3']</gmi:identifier>
+          <gmi:identifier>['ENVISAT', 'MERIS', 'MODIS', 'SeaWiFS', 'Sentinel-3', 'VIIRS']</gmi:identifier>
           <gmi:description/>
         </gmi:MI_Platform>
       </gmi:platform>
