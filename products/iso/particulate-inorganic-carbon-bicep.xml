@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-04T14:49:14.852432</gco:DateTime>
+    <gco:DateTime>2023-04-04T14:51:33.758027</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -123,15 +123,16 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>Particulate Inorganic Carbon</gco:CharacterString>
+            <gco:CharacterString>Monthly Global Particulate Inorganic Carbon dataset (9 km, OC-CCI v4.2)</gco:CharacterString>
           </gmd:title>
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>Particulate Inorganic Carbon Product, Global</gco:CharacterString>
+        <gco:CharacterString>Particulate Inorganic Carbon (PIC) data were generated using a random forest approach that incorporates the following key input variables: Remote sensing reflectances (Rrs) at 560 nm and 665 nm, chlorophyll-a concentration, colour index, and maximum water class values. The Rrs(560), Rrs(665), and chlorophyll-a concentration data were obtained directly from the Ocean Colour Climate Change Initiative (OC-CCI). The colour index values were estimated following the algorithm of Mitchell et al. (2017): Rrs(560)-Rrs(665). The maximum water class values were estimated using fourteen optical water classes obtained from the OC-CCI. The PIC data are provided as netCDF files containing global, monthly PIC concentrations (in mol m^-3) for the period of 1997 to 2021 at 9 km spatial resolution. For more details on the algorithm and its validation, please see the BICEP Algorithm Theoretical Baseline Document.
+The Particulate Inorganic Carbon data were produced by the Plymouth Marine Laboratory and supplied for archiving at the Centre for Environmental Data Analysis (CEDA). The research underpinning the work was supported by the European Space Agency (ESA) Biological Pump and Carbon Export Processes (BICEP) project and the product generation was supported by the National Centre for Earth Observation (NCEO).</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
-        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="planned">planned</gmd:MD_ProgressCode>
+        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="onGoing">onGoing</gmd:MD_ProgressCode>
       </gmd:status>
       <gmd:resourceMaintenance>
         <gmd:MD_MaintenanceInformation>
@@ -143,7 +144,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>variable:Dissolved inorganic carbon  (DIC)</gco:CharacterString>
+            <gco:CharacterString>variable:Particulate Inorganic Carbon</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -209,17 +210,14 @@
             <gmd:EX_TemporalExtent>
               <gmd:extent>
                 <gml:TimePeriod gml:id="T001">
-                  <gml:beginPosition>None</gml:beginPosition>
-                  <gml:endPosition>None</gml:endPosition>
+                  <gml:beginPosition>1997-09-01 00:00:00+00:00</gml:beginPosition>
+                  <gml:endPosition>2020-11-30 00:00:00+00:00</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>
           </gmd:temporalElement>
         </gmd:EX_Extent>
       </gmd:extent>
-      <gmd:supplementalInformation>
-        <gco:CharacterString>https://bicep-project.org/</gco:CharacterString>
-      </gmd:supplementalInformation>
     </gmd:MD_DataIdentification>
   </gmd:identificationInfo>
   <gmd:contentInfo>
@@ -290,7 +288,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://bicep-project.org/</gmd:URL>
+                <gmd:URL>https://rsg.pml.ac.uk/shared_files/gku/ESA_animation/PIC_1-month_9km/</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -343,7 +341,7 @@
     <gmi:MI_AcquisitionInformation>
       <gmi:platform>
         <gmi:MI_Platform>
-          <gmi:identifier>['Sentinel-3']</gmi:identifier>
+          <gmi:identifier>['ENVISAT', 'MERIS', 'MODIS', 'SeaWiFS', 'Sentinel-3', 'VIIRS']</gmi:identifier>
           <gmi:description/>
         </gmi:MI_Platform>
       </gmi:platform>

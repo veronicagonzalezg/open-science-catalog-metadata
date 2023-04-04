@@ -3439,8 +3439,33 @@
           "name": "Particulate Inorganic Carbon",
           "description": "Mass concentration of particulate inorganic carbon expressed as carbon in sea water [mg C m-3]",
           "summary": {
-            "years": [],
-            "numberOfProducts": 0
+            "years": [
+              1997,
+              1998,
+              1999,
+              2000,
+              2001,
+              2002,
+              2003,
+              2004,
+              2005,
+              2006,
+              2007,
+              2008,
+              2009,
+              2010,
+              2011,
+              2012,
+              2013,
+              2014,
+              2015,
+              2016,
+              2017,
+              2018,
+              2019,
+              2020
+            ],
+            "numberOfProducts": 1
           }
         },
         {
@@ -3501,7 +3526,7 @@
               2019,
               2020
             ],
-            "numberOfProducts": 3
+            "numberOfProducts": 2
           }
         },
         {
@@ -3942,8 +3967,8 @@
           2020,
           2021
         ],
-        "numberOfProducts": 40,
-        "numberOfVariables": 14
+        "numberOfProducts": 41,
+        "numberOfVariables": 15
       }
     },
     {
@@ -3977,8 +4002,8 @@
           2019,
           2020
         ],
-        "numberOfProducts": 14,
-        "numberOfVariables": 10
+        "numberOfProducts": 15,
+        "numberOfVariables": 11
       }
     },
     {
@@ -4010,8 +4035,8 @@
           2019,
           2020
         ],
-        "numberOfProducts": 9,
-        "numberOfVariables": 7
+        "numberOfProducts": 10,
+        "numberOfVariables": 8
       }
     },
     {
@@ -4043,8 +4068,8 @@
           2019,
           2020
         ],
-        "numberOfProducts": 9,
-        "numberOfVariables": 7
+        "numberOfProducts": 10,
+        "numberOfVariables": 8
       }
     },
     {
@@ -4076,8 +4101,8 @@
           2019,
           2020
         ],
-        "numberOfProducts": 9,
-        "numberOfVariables": 7
+        "numberOfProducts": 10,
+        "numberOfVariables": 8
       }
     },
     {

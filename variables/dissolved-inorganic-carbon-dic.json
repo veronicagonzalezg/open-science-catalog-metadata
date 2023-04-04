@@ -16,11 +16,6 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/particulate-inorganic-carbon-bicep.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-ocean-dic-oceansoda.json",
       "type": "application/json"
     },
