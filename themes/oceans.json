@@ -316,6 +316,11 @@
     },
     {
       "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/particulate-inorganic-carbon.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-temperature.json",
       "type": "application/json"
     },

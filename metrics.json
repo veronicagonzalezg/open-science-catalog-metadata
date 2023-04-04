@@ -43,7 +43,7 @@
     ],
     "numberOfProducts": 244,
     "numberOfProjects": 124,
-    "numberOfVariables": 335,
+    "numberOfVariables": 336,
     "numberOfThemes": 6
   },
   "themes": [
@@ -2945,7 +2945,7 @@
         ],
         "numberOfProducts": 0,
         "numberOfProjects": 0,
-        "numberOfVariables": 36
+        "numberOfVariables": 37
       },
       "variables": [
         {
@@ -3375,6 +3375,14 @@
         {
           "name": "Wave 1D energy frequency spectrum",
           "description": "1D variable colloquially referred to as \u201cwave spectrum\u201d. Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation",
+          "summary": {
+            "years": [],
+            "numberOfProducts": 0
+          }
+        },
+        {
+          "name": "Particulate Inorganic Carbon",
+          "description": "Mass concentration of particulate inorganic carbon expressed as carbon in sea water [mg C m-3]",
           "summary": {
             "years": [],
             "numberOfProducts": 0
