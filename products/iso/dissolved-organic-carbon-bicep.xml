@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-04T14:57:43.919542</gco:DateTime>
+    <gco:DateTime>2023-04-04T14:59:24.638006</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -123,15 +123,16 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>Dissolved Organic Carbon</gco:CharacterString>
+            <gco:CharacterString>Monthly Global Dissolved Organic Carbon dataset (9 km, OC-CCI v4.2)</gco:CharacterString>
           </gmd:title>
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>By using in situ data set from Hansell et al. 2021 (https://doi.org/10.25921/s4f4-ye35) a random forest regression model for near surface ocean Dissolved Organic Carbon (DOC) is trained. The model used ocean colour Earth observation reflectances, phytoplankton primary production (PP), sea surface temperature (SST), salinity and geographical information as predictors. The model has been used to produce monthly global marine DOC for years 2010-2019 using global monthly version of the predictors, namely Ocean Colour, PP, Salinity and SST.</gco:CharacterString>
+        <gco:CharacterString>A random forest regression model for near surface ocean Dissolved Organic Carbon was trained using in situ data from Hansell et al. 2021 (doi: 10.25921/s4f4-ye35). The DOC model uses Remote sensing reflectances from the Ocean Colour Climate Change Initiative (OC-CCI), primary production (Kulk et al. 2021; doi: 10.5285/69b2c9c6c4714517ba10dab3515e4ee6), sea surface temperature from the Group for High Resolution Sea Surface Temperature (GHRSST), salinity from the Sea Surface Salinity Climate Change Initiative and geographical information as predictors. The random forest model for global DOC produces estimates that are in good agreement with the available in situ data in open water (&gt;300 km from shore), where the relative uncertainty is on average smaller than 10%. The model has been used to produce monthly global marine DOC at 9 km resolution for the years 2010-2019. 
+Data were produced in an ESA funded project led by the Plymouth Marine Laboratory and supplied for archiving at the Centre for Environmental Data Analysis (CEDA). The research underpinning the work was supported by the European Space Agency (ESA) Biological Pump and Carbon Export Processes (BICEP) project.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
-        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>
+        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="onGoing">onGoing</gmd:MD_ProgressCode>
       </gmd:status>
       <gmd:resourceMaintenance>
         <gmd:MD_MaintenanceInformation>
@@ -143,7 +144,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>variable:Colour Dissolved Organic Matter (CDOM)</gco:CharacterString>
+            <gco:CharacterString>variable:Dissolved Organic Carbon</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -210,16 +211,13 @@
               <gmd:extent>
                 <gml:TimePeriod gml:id="T001">
                   <gml:beginPosition>2010-01-01 00:00:00+00:00</gml:beginPosition>
-                  <gml:endPosition>2018-12-31 23:59:59+00:00</gml:endPosition>
+                  <gml:endPosition>2018-12-31 00:00:00+00:00</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>
           </gmd:temporalElement>
         </gmd:EX_Extent>
       </gmd:extent>
-      <gmd:supplementalInformation>
-        <gco:CharacterString>https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0227166</gco:CharacterString>
-      </gmd:supplementalInformation>
     </gmd:MD_DataIdentification>
   </gmd:identificationInfo>
   <gmd:contentInfo>
@@ -290,7 +288,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://bicep-project.org/</gmd:URL>
+                <gmd:URL>https://rsg.pml.ac.uk/shared_files/gku/ESA_animation/DOC_1-month_9km/</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -303,25 +301,6 @@
               </gmd:description>
               <gmd:function>
                 <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeSpace="ISOTC211/19115" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
-              </gmd:function>
-            </gmd:CI_OnlineResource>
-          </gmd:onLine>
-          <gmd:onLine>
-            <gmd:CI_OnlineResource>
-              <gmd:linkage>
-                <gmd:URL>https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0227166</gmd:URL>
-              </gmd:linkage>
-              <gmd:protocol>
-                <gco:CharacterString>WWW:LINK</gco:CharacterString>
-              </gmd:protocol>
-              <gmd:name>
-                <gco:CharacterString>access</gco:CharacterString>
-              </gmd:name>
-              <gmd:description>
-                <gco:CharacterString>access</gco:CharacterString>
-              </gmd:description>
-              <gmd:function>
-                <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeSpace="ISOTC211/19115" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
               </gmd:function>
             </gmd:CI_OnlineResource>
           </gmd:onLine>
@@ -362,7 +341,7 @@
     <gmi:MI_AcquisitionInformation>
       <gmi:platform>
         <gmi:MI_Platform>
-          <gmi:identifier>['Sentinel-3']</gmi:identifier>
+          <gmi:identifier>['ENVISAT', 'MERIS', 'MODIS', 'SeaWiFS', 'Sentinel-3', 'VIIRS']</gmi:identifier>
           <gmi:description/>
         </gmi:MI_Platform>
       </gmi:platform>

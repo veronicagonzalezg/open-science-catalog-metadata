@@ -3024,18 +3024,13 @@
           "description": "Optically measurable component of the dissolved organic matter in water.",
           "summary": {
             "years": [
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
               2015,
               2016,
               2017,
               2018,
               2019
             ],
-            "numberOfProducts": 5
+            "numberOfProducts": 4
           }
         },
         {
@@ -3773,8 +3768,18 @@
           "name": "Dissolved Organic Carbon",
           "description": "Mass concentration of dissolved organic carbon expressed as carbon in sea water [mg C m-3]",
           "summary": {
-            "years": [],
-            "numberOfProducts": 0
+            "years": [
+              2010,
+              2011,
+              2012,
+              2013,
+              2014,
+              2015,
+              2016,
+              2017,
+              2018
+            ],
+            "numberOfProducts": 1
           }
         },
         {
@@ -3923,7 +3928,7 @@
           2021
         ],
         "numberOfProducts": 71,
-        "numberOfVariables": 32
+        "numberOfVariables": 33
       }
     },
     {
@@ -4026,8 +4031,8 @@
           2020,
           2021
         ],
-        "numberOfProducts": 44,
-        "numberOfVariables": 18
+        "numberOfProducts": 45,
+        "numberOfVariables": 19
       }
     },
     {
@@ -4061,8 +4066,8 @@
           2019,
           2020
         ],
-        "numberOfProducts": 18,
-        "numberOfVariables": 14
+        "numberOfProducts": 19,
+        "numberOfVariables": 15
       }
     },
     {
@@ -4094,8 +4099,8 @@
           2019,
           2020
         ],
-        "numberOfProducts": 13,
-        "numberOfVariables": 11
+        "numberOfProducts": 14,
+        "numberOfVariables": 12
       }
     },
     {
@@ -4127,8 +4132,8 @@
           2019,
           2020
         ],
-        "numberOfProducts": 13,
-        "numberOfVariables": 11
+        "numberOfProducts": 14,
+        "numberOfVariables": 12
       }
     },
     {
@@ -4160,8 +4165,8 @@
           2019,
           2020
         ],
-        "numberOfProducts": 13,
-        "numberOfVariables": 11
+        "numberOfProducts": 14,
+        "numberOfVariables": 12
       }
     },
     {

@@ -117,7 +117,7 @@
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/dissolved-organic-carbon-bicep.json",
       "type": "application/json",
-      "title": "Dissolved Organic Carbon"
+      "title": "Monthly Global Dissolved Organic Carbon dataset (9 km, OC-CCI v4.2)"
     },
     {
       "rel": "root",

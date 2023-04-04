@@ -31,11 +31,6 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/dissolved-organic-carbon-bicep.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/eo-based-cdom-baltic-sealabio.json",
       "type": "application/json"
     },
