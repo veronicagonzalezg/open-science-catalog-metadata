@@ -15,6 +15,11 @@
       "title": "Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-mixed-layer-depth-dataset-9-km-oc-cci-v5.json",
+      "type": "application/json"
+    },
+    {
       "rel": "self",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/mixed-layer-depth.json",
       "type": "application/json"
