@@ -3024,18 +3024,6 @@
           "description": "Optically measurable component of the dissolved organic matter in water.",
           "summary": {
             "years": [
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
               2010,
               2011,
               2012,
@@ -3045,10 +3033,9 @@
               2016,
               2017,
               2018,
-              2019,
-              2020
+              2019
             ],
-            "numberOfProducts": 6
+            "numberOfProducts": 5
           }
         },
         {
@@ -3746,8 +3733,32 @@
           "name": "Phytoplankton Primary Production",
           "description": "Gross primary production of carbon in sea water [mg C m-2 d-1]",
           "summary": {
-            "years": [],
-            "numberOfProducts": 0
+            "years": [
+              1998,
+              1999,
+              2000,
+              2001,
+              2002,
+              2003,
+              2004,
+              2005,
+              2006,
+              2007,
+              2008,
+              2009,
+              2010,
+              2011,
+              2012,
+              2013,
+              2014,
+              2015,
+              2016,
+              2017,
+              2018,
+              2019,
+              2020
+            ],
+            "numberOfProducts": 1
           }
         },
         {
@@ -3912,7 +3923,7 @@
           2021
         ],
         "numberOfProducts": 71,
-        "numberOfVariables": 31
+        "numberOfVariables": 32
       }
     },
     {
@@ -4015,8 +4026,8 @@
           2020,
           2021
         ],
-        "numberOfProducts": 43,
-        "numberOfVariables": 17
+        "numberOfProducts": 44,
+        "numberOfVariables": 18
       }
     },
     {
@@ -4050,8 +4061,8 @@
           2019,
           2020
         ],
-        "numberOfProducts": 17,
-        "numberOfVariables": 13
+        "numberOfProducts": 18,
+        "numberOfVariables": 14
       }
     },
     {
@@ -4083,8 +4094,8 @@
           2019,
           2020
         ],
-        "numberOfProducts": 12,
-        "numberOfVariables": 10
+        "numberOfProducts": 13,
+        "numberOfVariables": 11
       }
     },
     {
@@ -4116,8 +4127,8 @@
           2019,
           2020
         ],
-        "numberOfProducts": 12,
-        "numberOfVariables": 10
+        "numberOfProducts": 13,
+        "numberOfVariables": 11
       }
     },
     {
@@ -4149,8 +4160,8 @@
           2019,
           2020
         ],
-        "numberOfProducts": 12,
-        "numberOfVariables": 10
+        "numberOfProducts": 13,
+        "numberOfVariables": 11
       }
     },
     {

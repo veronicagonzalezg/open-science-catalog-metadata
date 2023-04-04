@@ -26,11 +26,6 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-marine-phytoplankton-primary-production-bicep.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/in-situ-sealabio.json",
       "type": "application/json"
     },
