@@ -2092,6 +2092,13 @@ the soil and plants when the ground is at its natural moisture content.</gml:des
       </gmx:CodeDefinition>
     </gmx:codeEntry>
     <gmx:codeEntry>
+      <gmx:CodeDefinition gml:id="OSC_Variable_Phytoplankton Carbon">
+        <gml:identifier codeSpace="OSC">OSC_Variable_Phytoplankton Carbon</gml:identifier>
+        <gml:description>Mass concentration of phytoplankton expressed as carbon in sea water [mg C m-3]</gml:description>
+        <gml:descriptionReference xlink:type="simple" xlink:href="https://catalogue.ceda.ac.uk/uuid/6a6ccbb8ef2645308a60dc47e9b8b5fb"/>
+      </gmx:CodeDefinition>
+    </gmx:codeEntry>
+    <gmx:codeEntry>
       <gmx:CodeDefinition gml:id="OSC_Variable_Soil moisture at surface">
         <gml:identifier codeSpace="OSC">OSC_Variable_Soil moisture at surface</gml:identifier>
         <gml:description>Fractional content of water in a volume of wet soil. Surface layer (upper few centimetres)</gml:description>

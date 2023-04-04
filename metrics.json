@@ -43,7 +43,7 @@
     ],
     "numberOfProducts": 244,
     "numberOfProjects": 124,
-    "numberOfVariables": 331,
+    "numberOfVariables": 332,
     "numberOfThemes": 6
   },
   "themes": [
@@ -2945,7 +2945,7 @@
         ],
         "numberOfProducts": 0,
         "numberOfProjects": 0,
-        "numberOfVariables": 32
+        "numberOfVariables": 33
       },
       "variables": [
         {
@@ -3423,6 +3423,14 @@
               2020
             ],
             "numberOfProducts": 3
+          }
+        },
+        {
+          "name": "Phytoplankton Carbon",
+          "description": "Mass concentration of phytoplankton expressed as carbon in sea water [mg C m-3]",
+          "summary": {
+            "years": [],
+            "numberOfProducts": 0
           }
         },
         {
