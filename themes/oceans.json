@@ -361,6 +361,11 @@
     },
     {
       "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/dissolved-organic-carbon.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/microphytoplankton-carbon.json",
       "type": "application/json"
     },

@@ -43,7 +43,7 @@
     ],
     "numberOfProducts": 244,
     "numberOfProjects": 124,
-    "numberOfVariables": 334,
+    "numberOfVariables": 335,
     "numberOfThemes": 6
   },
   "themes": [
@@ -2945,7 +2945,7 @@
         ],
         "numberOfProducts": 0,
         "numberOfProjects": 0,
-        "numberOfVariables": 35
+        "numberOfVariables": 36
       },
       "variables": [
         {
@@ -3521,6 +3521,14 @@
         {
           "name": "Ocean velocity",
           "description": "Ocean motion measured at various depth levels.",
+          "summary": {
+            "years": [],
+            "numberOfProducts": 0
+          }
+        },
+        {
+          "name": "Dissolved Organic Carbon",
+          "description": "Mass concentration of dissolved organic carbon expressed as carbon in sea water [mg C m-3]",
           "summary": {
             "years": [],
             "numberOfProducts": 0

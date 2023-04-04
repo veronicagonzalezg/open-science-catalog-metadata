@@ -2295,6 +2295,13 @@ the soil and plants when the ground is at its natural moisture content.</gml:des
       </gmx:CodeDefinition>
     </gmx:codeEntry>
     <gmx:codeEntry>
+      <gmx:CodeDefinition gml:id="OSC_Variable_Dissolved Organic Carbon">
+        <gml:identifier codeSpace="OSC">OSC_Variable_Dissolved Organic Carbon</gml:identifier>
+        <gml:description>Mass concentration of dissolved organic carbon expressed as carbon in sea water [mg C m-3]</gml:description>
+        <gml:descriptionReference xlink:type="simple" xlink:href="https://rsg.pml.ac.uk/shared_files/gku/ESA_animation/DOC_1-month_9km/"/>
+      </gmx:CodeDefinition>
+    </gmx:codeEntry>
+    <gmx:codeEntry>
       <gmx:CodeDefinition gml:id="OSC_Variable_Solar EUV flux spectrum">
         <gml:identifier codeSpace="OSC">OSC_Variable_Solar EUV flux spectrum</gml:identifier>
         <gml:description>Energy spectrum of the EUV flux integrated&#160;over the solar disk.</gml:description>
