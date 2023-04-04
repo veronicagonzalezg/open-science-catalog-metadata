@@ -2952,8 +2952,32 @@
           "name": "Chlorophyll-a",
           "description": "Mass  concentration of chlorophyll a in sea water [mg C m-3]",
           "summary": {
-            "years": [],
-            "numberOfProducts": 0
+            "years": [
+              1998,
+              1999,
+              2000,
+              2001,
+              2002,
+              2003,
+              2004,
+              2005,
+              2006,
+              2007,
+              2008,
+              2009,
+              2010,
+              2011,
+              2012,
+              2013,
+              2014,
+              2015,
+              2016,
+              2017,
+              2018,
+              2019,
+              2020
+            ],
+            "numberOfProducts": 1
           }
         },
         {
@@ -3000,7 +3024,6 @@
           "description": "Optically measurable component of the dissolved organic matter in water.",
           "summary": {
             "years": [
-              1997,
               1998,
               1999,
               2000,
@@ -3025,7 +3048,7 @@
               2019,
               2020
             ],
-            "numberOfProducts": 7
+            "numberOfProducts": 6
           }
         },
         {
@@ -3889,7 +3912,7 @@
           2021
         ],
         "numberOfProducts": 71,
-        "numberOfVariables": 30
+        "numberOfVariables": 31
       }
     },
     {
@@ -3992,8 +4015,8 @@
           2020,
           2021
         ],
-        "numberOfProducts": 42,
-        "numberOfVariables": 16
+        "numberOfProducts": 43,
+        "numberOfVariables": 17
       }
     },
     {
@@ -4027,8 +4050,8 @@
           2019,
           2020
         ],
-        "numberOfProducts": 16,
-        "numberOfVariables": 12
+        "numberOfProducts": 17,
+        "numberOfVariables": 13
       }
     },
     {
@@ -4060,8 +4083,8 @@
           2019,
           2020
         ],
-        "numberOfProducts": 11,
-        "numberOfVariables": 9
+        "numberOfProducts": 12,
+        "numberOfVariables": 10
       }
     },
     {
@@ -4093,8 +4116,8 @@
           2019,
           2020
         ],
-        "numberOfProducts": 11,
-        "numberOfVariables": 9
+        "numberOfProducts": 12,
+        "numberOfVariables": 10
       }
     },
     {
@@ -4126,8 +4149,8 @@
           2019,
           2020
         ],
-        "numberOfProducts": 11,
-        "numberOfVariables": 9
+        "numberOfProducts": 12,
+        "numberOfVariables": 10
       }
     },
     {

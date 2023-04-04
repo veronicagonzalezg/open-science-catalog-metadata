@@ -81,7 +81,7 @@
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-particulate-organic-carbon-v5-bicep.json",
       "type": "application/json",
-      "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v5)"
+      "title": "Monthly Global Chlorophyll-a dataset (9 km, OC-CCI v5)"
     },
     {
       "rel": "item",
