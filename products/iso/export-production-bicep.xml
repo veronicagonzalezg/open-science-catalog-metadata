@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-04T14:41:47.937600</gco:DateTime>
+    <gco:DateTime>2023-04-04T14:44:57.815143</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -123,12 +123,13 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>Export Production</gco:CharacterString>
+            <gco:CharacterString>Monthly Global Export Production based on Dunne et al 2005 dataset (9 km, OC-CCI v4.2)</gco:CharacterString>
           </gmd:title>
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>Export production can be defined as steady-state Net Community Production (NCP) with all temporal lags accounted for and with a well-defined depth horizon over which the community production is integrated over (Laws 1991). This is the net amount of carbon assimilated in the euphotic zone that will be exported to deeper waters. Export Production can by definition only vary on timescales significantly longer that any processes directly controlling production and respiration as to not violate the steady state assumption. We include Export production calculated using three different algorithms: Dunne et al, 2005, Henson et al, 2011 and Li et al, 2016.</gco:CharacterString>
+        <gco:CharacterString>This dataset contains monthly global data for Oceanic Export Production as part of the BICEP project. Data is provided between 1998-2019 at 9 km resolution. It has been derived from the Ocean Colour Climate Change Initiative v4.2 dataset.
+Export production can be defined as steady-state Net Community Production (NCP) with all temporal lags accounted for and with a well defined depth horizon over which the community production is integrated over. (Laws 1991). This is the net amount of carbon assimilated in the euphotic zone that will be exported to deeper waters. Export Production can by definition only vary on timescales significantly longer that any processes directly controlling production and respiration as to not violate the steady state assumption.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>
@@ -143,7 +144,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>variable:Colour Dissolved Organic Matter (CDOM)</gco:CharacterString>
+            <gco:CharacterString>variable:Export Production</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -210,16 +211,13 @@
               <gmd:extent>
                 <gml:TimePeriod gml:id="T001">
                   <gml:beginPosition>1998-01-01 00:00:00+00:00</gml:beginPosition>
-                  <gml:endPosition>2019-12-31 23:59:59+00:00</gml:endPosition>
+                  <gml:endPosition>2019-12-31 00:00:00+00:00</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>
           </gmd:temporalElement>
         </gmd:EX_Extent>
       </gmd:extent>
-      <gmd:supplementalInformation>
-        <gco:CharacterString>https://bicep-project.org/</gco:CharacterString>
-      </gmd:supplementalInformation>
     </gmd:MD_DataIdentification>
   </gmd:identificationInfo>
   <gmd:contentInfo>
@@ -290,7 +288,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://bicep-project.org/</gmd:URL>
+                <gmd:URL>https://data.ceda.ac.uk/neodc/bicep/data/oceanic_export_production/v1.0/monthly/</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -303,6 +301,25 @@
               </gmd:description>
               <gmd:function>
                 <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeSpace="ISOTC211/19115" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+              </gmd:function>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage>
+                <gmd:URL>https://dx.doi.org/10.5285/a6fc730d88fd4935b59d64903715d891</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:LINK</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:name>
+                <gco:CharacterString>access</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>access</gco:CharacterString>
+              </gmd:description>
+              <gmd:function>
+                <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeSpace="ISOTC211/19115" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
               </gmd:function>
             </gmd:CI_OnlineResource>
           </gmd:onLine>
@@ -343,7 +360,7 @@
     <gmi:MI_AcquisitionInformation>
       <gmi:platform>
         <gmi:MI_Platform>
-          <gmi:identifier>['Sentinel-3']</gmi:identifier>
+          <gmi:identifier>['ENVISAT', 'MERIS', 'MODIS', 'SeaWiFS', 'Sentinel-3', 'VIIRS']</gmi:identifier>
           <gmi:description/>
         </gmi:MI_Platform>
       </gmi:platform>

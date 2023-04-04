@@ -87,7 +87,7 @@
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/export-production-bicep.json",
       "type": "application/json",
-      "title": "Export Production"
+      "title": "Monthly Global Export Production based on Dunne et al 2005 dataset (9 km, OC-CCI v4.2)"
     },
     {
       "rel": "item",
