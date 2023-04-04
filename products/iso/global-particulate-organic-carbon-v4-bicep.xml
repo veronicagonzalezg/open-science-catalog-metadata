@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-04T14:51:51.114519</gco:DateTime>
+    <gco:DateTime>2023-04-04T14:55:12.976004</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -123,15 +123,17 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v4.2)</gco:CharacterString>
+            <gco:CharacterString>Monthly Global Particulate Organic Carbon dataset (9 km, OC-CCI v4.2)</gco:CharacterString>
           </gmd:title>
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>The monthly global Particulate Organic Carbon (POC) datasets contain POC concentrations gridded on both sinusoidal (SIN) and geographic (GEO) grid projections at 4 and 9 km spatial resolution for 1997-2020. The POC datasets have been produced using the Ocean Colour Climate Change Initiative Remote Sensing Reflectance (Rrs) products, Version 4.2 and 5. The datasets include the Rrs at 443 nm and 555 nm with pixel-by-pixel uncertainty estimates for each wavelength. For more details on the algorithm and its validation, please see papers by Stramski et al. (2008) and Evers-King et al. (2017). Please note that the validation of the POC algorithm is a continuing process. To increase the accuracy of POC algorithms, further in situ POC data needs to be collected with high spatial and temporal resolution.</gco:CharacterString>
+        <gco:CharacterString>The BICEP/NCEO: Monthly global Particulate Organic Carbon (POC) v4.2 datasets contain POC concentrations (mg m^-3) with per pixel uncertainties estimates gridded on both geographic and sinusoidal projections at 9 km spatial resolution for the period of 1997 to 2020. The POC products were generated as part of the European Space Agency (ESA) Biological Pump and Carbon Exchange Processes (BICEP) project with support from the National Centre of Earth Observation (NCEO).
+The POC concentrations were estimated using an empirical Remote Sensing Reflectance (Rrs) band ratio algorithm by Stramski et al. (2008): 203.2*Rrs(443)/Rrs(555)^-1.034. This algorithm has shown a relatively good performance in the recent global inter-comparison study conducted by Evers-King et al. (2017). Additional variables that were used for the calculation of the POC products are also provided in the datasets, including the Rrs at 443 nm and 555 nm obtained from the ESA Ocean Colour Climate Change Initiative version 4.2 dataset (OC-CCI v4.2)(Sathyendranath et al., 2020). In addition to the papers by Stramski et al. (2008) and Evers-king et al. (2017), for more details on the algorithm and its validation, please see the BICEP Algorithm Theoretical Basis Document (ATBD) and validation report (https://bicep-project.org/Home).
+This version of the dataset is an updated version of the previous 'NCEO: Monthly global Particulate Organic Carbon (POC) (produced from the Ocean Colour Climate Change Initiative, Version 4.2 dataset)'.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
-        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>
+        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="onGoing">onGoing</gmd:MD_ProgressCode>
       </gmd:status>
       <gmd:resourceMaintenance>
         <gmd:MD_MaintenanceInformation>
@@ -143,7 +145,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>variable:Colour Dissolved Organic Matter (CDOM)</gco:CharacterString>
+            <gco:CharacterString>variable:Particulate Organic Carbon</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -209,17 +211,14 @@
             <gmd:EX_TemporalExtent>
               <gmd:extent>
                 <gml:TimePeriod gml:id="T001">
-                  <gml:beginPosition>1997-01-01 00:00:00+00:00</gml:beginPosition>
-                  <gml:endPosition>2020-12-31 23:59:59+00:00</gml:endPosition>
+                  <gml:beginPosition>1997-09-01 00:00:00+00:00</gml:beginPosition>
+                  <gml:endPosition>2020-12-31 00:00:00+00:00</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>
           </gmd:temporalElement>
         </gmd:EX_Extent>
       </gmd:extent>
-      <gmd:supplementalInformation>
-        <gco:CharacterString>http://dx.doi.org/10.5285/d62f7f801cb54c749d20e736d4a1039f</gco:CharacterString>
-      </gmd:supplementalInformation>
     </gmd:MD_DataIdentification>
   </gmd:identificationInfo>
   <gmd:contentInfo>
@@ -290,7 +289,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://bicep-project.org/</gmd:URL>
+                <gmd:URL>https://rsg.pml.ac.uk/shared_files/gku/ESA_animation/POC_1-month_9km/</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -303,25 +302,6 @@
               </gmd:description>
               <gmd:function>
                 <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeSpace="ISOTC211/19115" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
-              </gmd:function>
-            </gmd:CI_OnlineResource>
-          </gmd:onLine>
-          <gmd:onLine>
-            <gmd:CI_OnlineResource>
-              <gmd:linkage>
-                <gmd:URL>https://catalogue.ceda.ac.uk/uuid/299b1bb28eaa440f9a36e9786adfe398</gmd:URL>
-              </gmd:linkage>
-              <gmd:protocol>
-                <gco:CharacterString>WWW:LINK</gco:CharacterString>
-              </gmd:protocol>
-              <gmd:name>
-                <gco:CharacterString>access</gco:CharacterString>
-              </gmd:name>
-              <gmd:description>
-                <gco:CharacterString>access</gco:CharacterString>
-              </gmd:description>
-              <gmd:function>
-                <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeSpace="ISOTC211/19115" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
               </gmd:function>
             </gmd:CI_OnlineResource>
           </gmd:onLine>
@@ -362,7 +342,7 @@
     <gmi:MI_AcquisitionInformation>
       <gmi:platform>
         <gmi:MI_Platform>
-          <gmi:identifier>['Sentinel-3']</gmi:identifier>
+          <gmi:identifier>['ENVISAT', 'MERIS', 'MODIS', 'SeaWiFS', 'Sentinel-3', 'VIIRS']</gmi:identifier>
           <gmi:description/>
         </gmi:MI_Platform>
       </gmi:platform>
