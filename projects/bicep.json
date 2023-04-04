@@ -67,6 +67,12 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-picophytoplankton-carbon-dataset-9-km-oc-cci-v5.json",
+      "type": "application/json",
+      "title": "Monthly Global Picophytoplankton Carbon dataset (9 km, OC-CCI v5)"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-particulate-organic-carbon-v5-bicep.json",
       "type": "application/json",
       "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v5)"
