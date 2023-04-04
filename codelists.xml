@@ -2225,6 +2225,13 @@ the soil and plants when the ground is at its natural moisture content.</gml:des
       </gmx:CodeDefinition>
     </gmx:codeEntry>
     <gmx:codeEntry>
+      <gmx:CodeDefinition gml:id="OSC_Variable_Mixed Layer Depth">
+        <gml:identifier codeSpace="OSC">OSC_Variable_Mixed Layer Depth</gml:identifier>
+        <gml:description>Mixed layer depth [m] </gml:description>
+        <gml:descriptionReference xlink:type="simple" xlink:href="https://catalogue.ceda.ac.uk/uuid/6a6ccbb8ef2645308a60dc47e9b8b5fb"/>
+      </gmx:CodeDefinition>
+    </gmx:codeEntry>
+    <gmx:codeEntry>
       <gmx:CodeDefinition gml:id="OSC_Variable_Ocean salinity">
         <gml:identifier codeSpace="OSC">OSC_Variable_Ocean salinity</gml:identifier>
         <gml:description>3D field of salinity of the ocean  Requested in upper and deep ocean - Physical unit: [ psu ], Practical Salinity Unit, close to 1</gml:description>

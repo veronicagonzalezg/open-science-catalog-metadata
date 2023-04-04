@@ -43,7 +43,7 @@
     ],
     "numberOfProducts": 244,
     "numberOfProjects": 124,
-    "numberOfVariables": 338,
+    "numberOfVariables": 339,
     "numberOfThemes": 6
   },
   "themes": [
@@ -2945,7 +2945,7 @@
         ],
         "numberOfProducts": 0,
         "numberOfProjects": 0,
-        "numberOfVariables": 39
+        "numberOfVariables": 40
       },
       "variables": [
         {
@@ -3532,6 +3532,14 @@
               2020
             ],
             "numberOfProducts": 1
+          }
+        },
+        {
+          "name": "Mixed Layer Depth",
+          "description": "Mixed layer depth [m] ",
+          "summary": {
+            "years": [],
+            "numberOfProducts": 0
           }
         },
         {
