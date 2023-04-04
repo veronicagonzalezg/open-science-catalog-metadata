@@ -16,6 +16,11 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-export-production-based-on-li-et-al-2016-dataset-9-km-oc-cci-v42.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-export-production-based-on-henson-et-al-2011-dataset-9-km-oc-cci-v42.json",
       "type": "application/json"
     },

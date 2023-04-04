@@ -73,6 +73,12 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-export-production-based-on-li-et-al-2016-dataset-9-km-oc-cci-v42.json",
+      "type": "application/json",
+      "title": "Monthly Global Export Production based on Li et al 2016 dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-particulate-organic-carbon-v5-bicep.json",
       "type": "application/json",
       "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v5)"
