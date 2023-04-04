@@ -43,7 +43,7 @@
     ],
     "numberOfProducts": 244,
     "numberOfProjects": 124,
-    "numberOfVariables": 339,
+    "numberOfVariables": 340,
     "numberOfThemes": 6
   },
   "themes": [
@@ -2945,7 +2945,7 @@
         ],
         "numberOfProducts": 0,
         "numberOfProjects": 0,
-        "numberOfVariables": 40
+        "numberOfVariables": 41
       },
       "variables": [
         {
@@ -3545,6 +3545,14 @@
         {
           "name": "Ocean salinity",
           "description": "3D field of salinity of the ocean  Requested in upper and deep ocean - Physical unit: [ psu ], Practical Salinity Unit, close to 1",
+          "summary": {
+            "years": [],
+            "numberOfProducts": 0
+          }
+        },
+        {
+          "name": "Phytoplankton Primary Production",
+          "description": "Gross primary production of carbon in sea water [mg C m-2 d-1]",
           "summary": {
             "years": [],
             "numberOfProducts": 0

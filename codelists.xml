@@ -2281,6 +2281,13 @@ the soil and plants when the ground is at its natural moisture content.</gml:des
       </gmx:CodeDefinition>
     </gmx:codeEntry>
     <gmx:codeEntry>
+      <gmx:CodeDefinition gml:id="OSC_Variable_Phytoplankton Primary Production">
+        <gml:identifier codeSpace="OSC">OSC_Variable_Phytoplankton Primary Production</gml:identifier>
+        <gml:description>Gross primary production of carbon in sea water [mg C m-2 d-1]</gml:description>
+        <gml:descriptionReference xlink:type="simple" xlink:href="https://catalogue.ceda.ac.uk/uuid/69b2c9c6c4714517ba10dab3515e4ee6"/>
+      </gmx:CodeDefinition>
+    </gmx:codeEntry>
+    <gmx:codeEntry>
       <gmx:CodeDefinition gml:id="OSC_Variable_Ocean velocity">
         <gml:identifier codeSpace="OSC">OSC_Variable_Ocean velocity</gml:identifier>
         <gml:description>Ocean motion measured at various depth levels.</gml:description>
