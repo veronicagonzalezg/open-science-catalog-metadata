@@ -43,7 +43,7 @@
     ],
     "numberOfProducts": 244,
     "numberOfProjects": 124,
-    "numberOfVariables": 332,
+    "numberOfVariables": 333,
     "numberOfThemes": 6
   },
   "themes": [
@@ -2945,7 +2945,7 @@
         ],
         "numberOfProducts": 0,
         "numberOfProjects": 0,
-        "numberOfVariables": 33
+        "numberOfVariables": 34
       },
       "variables": [
         {
@@ -3423,6 +3423,14 @@
               2020
             ],
             "numberOfProducts": 3
+          }
+        },
+        {
+          "name": "Picopythoplanktion Carbon",
+          "description": "Mass concentration of picophytoplankton expressed as carbon in sea water [mg C m-3]",
+          "summary": {
+            "years": [],
+            "numberOfProducts": 0
           }
         },
         {
