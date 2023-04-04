@@ -199,6 +199,13 @@
       </gmx:CodeDefinition>
     </gmx:codeEntry>
     <gmx:codeEntry>
+      <gmx:CodeDefinition gml:id="OSC_Variable_Export Production">
+        <gml:identifier codeSpace="OSC">OSC_Variable_Export Production</gml:identifier>
+        <gml:description>Oceanic Export Production</gml:description>
+        <gml:descriptionReference xlink:type="simple" xlink:href="https://data.ceda.ac.uk/neodc/bicep/data/oceanic_export_production/v1.0/monthly/"/>
+      </gmx:CodeDefinition>
+    </gmx:codeEntry>
+    <gmx:codeEntry>
       <gmx:CodeDefinition gml:id="OSC_Variable_C5H12 (2-Methylbutane)">
         <gml:identifier codeSpace="OSC">OSC_Variable_C5H12 (2-Methylbutane)</gml:identifier>
         <gml:description>3D field of dry air mole fraction of&#160;C5H12 (2-Methylbutane, expressed in moles) divided by the total amount of all constituents in dry air (also expressed in moles)</gml:description>

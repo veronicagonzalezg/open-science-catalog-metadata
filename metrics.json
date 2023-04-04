@@ -43,7 +43,7 @@
     ],
     "numberOfProducts": 244,
     "numberOfProjects": 124,
-    "numberOfVariables": 333,
+    "numberOfVariables": 334,
     "numberOfThemes": 6
   },
   "themes": [
@@ -2945,12 +2945,20 @@
         ],
         "numberOfProducts": 0,
         "numberOfProjects": 0,
-        "numberOfVariables": 34
+        "numberOfVariables": 35
       },
       "variables": [
         {
           "name": "Water-leaving spectral radiance",
           "description": "Upward spectral radiance from the ocean surface, i.e. amount of light leaving the ocean per unit area, per wavelength and per solid angle.",
+          "summary": {
+            "years": [],
+            "numberOfProducts": 0
+          }
+        },
+        {
+          "name": "Export Production",
+          "description": "Oceanic Export Production",
           "summary": {
             "years": [],
             "numberOfProducts": 0
