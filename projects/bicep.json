@@ -79,6 +79,12 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-export-production-based-on-henson-et-al-2011-dataset-9-km-oc-cci-v42.json",
+      "type": "application/json",
+      "title": "Monthly Global Export Production based on Henson et al 2011 dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-marine-phytoplankton-primary-production-bicep.json",
       "type": "application/json",
       "title": "Monthly global Marine Phytoplankton Primary Production dataset"
