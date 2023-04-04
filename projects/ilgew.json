@@ -61,7 +61,7 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
       "type": "application/json"
     }
   ],

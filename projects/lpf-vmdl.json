@@ -38,6 +38,12 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/database-of-labelled-sentinel-1-interferograms-v20.json",
+      "type": "application/json",
+      "title": "Database of labelled Sentinel-1 interferograms - v.2.0"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
       "type": "application/json"

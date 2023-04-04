@@ -43,21 +43,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tropospheric-delays-baltics-sar-hsu.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tide-gauge-heights-baltics-sar-hsu.json",
       "type": "application/json",
-      "title": "COR-TD:\u00a0Tropospheric Delays_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/s1-corrections-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "COR-SC:\u00a0Sentinel-1 Systematic\u00a0Effects Corrections_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/target-locations-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "PTA-RES:\u00a0Extracted Target Locations_Baltics_Multimission"
+      "title": "TG-HGT: Tide Gauge Heights_Baltics_Multimission"
     },
     {
       "rel": "item",
@@ -67,51 +55,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tide-gauge-heights-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "TG-HGT: Tide Gauge Heights_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sar-positioning-solution-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "SAR-POS:\u00a0SAR Positioning Solution_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geodynamic-corrections-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "COR-GC:\u00a0Geodynamic Corrections_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/electronic-delay-correction-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "COR-EC2:\u00a0ECR Electronic Delay Correction_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sar-observation-solution-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "SAR-OBS:\u00a0SAR Observation Solution_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gnss-positioning-solution-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "GNSS-POS:\u00a0GNSS positioning solution_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-surface-heights-corrected-baltics-sar-hsu.json",
       "type": "application/json",
       "title": "TG-SSH:\u00a0Corrected Sea Surface Height at Tide Gauge Stations_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geoid-heights-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "GEO-HGT:\u00a0Geoid Heights_Baltics_Multimission"
     },
     {
       "rel": "item",
@@ -121,9 +67,63 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geodynamic-corrections-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "COR-GC:\u00a0Geodynamic Corrections_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/target-locations-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "PTA-RES:\u00a0Extracted Target Locations_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/s1-corrections-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "COR-SC:\u00a0Sentinel-1 Systematic\u00a0Effects Corrections_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sar-raw-measurements-baltics-sar-hsu.json",
       "type": "application/json",
       "title": "PTA-OBS:\u00a0SAR Raw Measurements_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gnss-positioning-solution-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "GNSS-POS:\u00a0GNSS positioning solution_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sar-positioning-solution-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "SAR-POS:\u00a0SAR Positioning Solution_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/electronic-delay-correction-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "COR-EC2:\u00a0ECR Electronic Delay Correction_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tropospheric-delays-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "COR-TD:\u00a0Tropospheric Delays_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geoid-heights-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "GEO-HGT:\u00a0Geoid Heights_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sar-observation-solution-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "SAR-OBS:\u00a0SAR Observation Solution_Baltics_Multimission"
     },
     {
       "rel": "root",

@@ -62,7 +62,7 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/solid-earth.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
       "type": "application/json"
     }
   ],

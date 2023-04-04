@@ -16,12 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/limb-ozone-lpf-solve.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/stratospheric-ozone-column-limb-sunlit.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/stratospheric-ozone-column-limb-sunlit.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/limb-ozone-lpf-solve.json",
       "type": "application/json"
     },
     {

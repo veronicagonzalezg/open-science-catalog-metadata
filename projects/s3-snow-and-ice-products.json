@@ -38,18 +38,6 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/broadband-albedo-arctic-sice.json",
-      "type": "application/json",
-      "title": "Broadband albedo_Arctic_S3"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-grain-diameter-arctic-sice.json",
-      "type": "application/json",
-      "title": "Snow grain diameter_Arctic_S3"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/spectral-albedo-arctic-sice.json",
       "type": "application/json",
       "title": "Spectral albedo_Arctic_S3"
@@ -59,6 +47,18 @@
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/nrt-sice-rasters-greenland-arctic-sice.json",
       "type": "application/json",
       "title": "NRT SICE rasters for Greenland_Arctic_S3"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/broadband-albedo-arctic-sice.json",
+      "type": "application/json",
+      "title": "Broadband albedo_Arctic_S3"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-grain-diameter-arctic-sice.json",
+      "type": "application/json",
+      "title": "Snow grain diameter_Arctic_S3"
     },
     {
       "rel": "root",

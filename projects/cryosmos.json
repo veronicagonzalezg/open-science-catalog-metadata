@@ -42,15 +42,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-temperature-antarctica-cryosmos.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-melting-antarctica-cryosmos.json",
       "type": "application/json",
-      "title": "Internal ice-sheet temperature_Antarctica_SMOS"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-shelf-antarctica-cryosmos.json",
-      "type": "application/json",
-      "title": "Ice shelf product_Antarctica_SMOS"
+      "title": "Occurrence of Surface Melting_Antarctica_SMOS"
     },
     {
       "rel": "item",
@@ -60,9 +54,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-melting-antarctica-cryosmos.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-shelf-antarctica-cryosmos.json",
       "type": "application/json",
-      "title": "Occurrence of Surface Melting_Antarctica_SMOS"
+      "title": "Ice shelf product_Antarctica_SMOS"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-temperature-antarctica-cryosmos.json",
+      "type": "application/json",
+      "title": "Internal ice-sheet temperature_Antarctica_SMOS"
     },
     {
       "rel": "root",

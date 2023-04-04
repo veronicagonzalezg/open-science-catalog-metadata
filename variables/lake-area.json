@@ -16,7 +16,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/subglacial-lakes-4dantarctica.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hydrodynamic-model-alpine-lakes-s24land.json",
       "type": "application/json"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hydrodynamic-model-alpine-lakes-s24land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/subglacial-lakes-4dantarctica.json",
       "type": "application/json"
     },
     {

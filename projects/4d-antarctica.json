@@ -49,21 +49,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/subglacial-melt-4dantarctica.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gridded-subglacial-discharge-4dantarctica.json",
       "type": "application/json",
-      "title": "Subglacial Melt"
+      "title": "Modelled subglacial discharge and drainage pathways"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/subglacial-lakes-4dantarctica.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-temperature-smos-4dantarctica.json",
       "type": "application/json",
-      "title": "Modelled subglacial lake locations"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/supraglacial-lakes-west-4dantarctica.json",
-      "type": "application/json",
-      "title": "SupraglacialLake_WestAntarcticIceSheet2017_S2L8_V1.1"
+      "title": "IceTemperature_Antarctica_SMOS"
     },
     {
       "rel": "item",
@@ -73,9 +67,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gridded-subglacial-discharge-4dantarctica.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gravity-anomalies-goce-airborne-4dantarctica.json",
       "type": "application/json",
-      "title": "Modelled subglacial discharge and drainage pathways"
+      "title": "Gravity anomalies from GOCE and airborne data"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/supraglacial-lakes-west-4dantarctica.json",
+      "type": "application/json",
+      "title": "SupraglacialLake_WestAntarcticIceSheet2017_S2L8_V1.1"
     },
     {
       "rel": "item",
@@ -91,6 +91,30 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/melt-indicator-4dantarctica.json",
+      "type": "application/json",
+      "title": "MultiFrequenciesMeltIndicator_Antarctica_Multimission_2012-2022"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/subglacial-lakes-4dantarctica.json",
+      "type": "application/json",
+      "title": "Modelled subglacial lake locations"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geothermal-heat-flux-4dantarctica.json",
+      "type": "application/json",
+      "title": "Geothermal Heat flux estimate from aeromagnetic data"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/subglacial-melt-4dantarctica.json",
+      "type": "application/json",
+      "title": "Subglacial Melt"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/subglacial-lake-drainage-4dantarctica.json",
       "type": "application/json",
       "title": "Subglacial Lake Drainage and Filling_Antarctica_Multimission"
@@ -100,30 +124,6 @@
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/radar-brightness-s1-4dantarctica.json",
       "type": "application/json",
       "title": "Radar Brightness_Antarctica_Sentinel-1_v1"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-temperature-smos-4dantarctica.json",
-      "type": "application/json",
-      "title": "IceTemperature_Antarctica_SMOS"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/melt-indicator-4dantarctica.json",
-      "type": "application/json",
-      "title": "MultiFrequenciesMeltIndicator_Antarctica_Multimission_2012-2022"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gravity-anomalies-goce-airborne-4dantarctica.json",
-      "type": "application/json",
-      "title": "Gravity anomalies from GOCE and airborne data"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geothermal-heat-flux-4dantarctica.json",
-      "type": "application/json",
-      "title": "Geothermal Heat flux estimate from aeromagnetic data"
     },
     {
       "rel": "root",

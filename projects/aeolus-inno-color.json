@@ -41,15 +41,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/particulate-backscatter-aeolus-innovation-color.json",
-      "type": "application/json",
-      "title": "Particulate backscatter: bbp_Global_AEOLUS"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/diffuse-attenuation-aeolus-innovation-color.json",
       "type": "application/json",
       "title": "Diffuse attenuation: Kd_Global_AEOLUS"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/particulate-backscatter-aeolus-innovation-color.json",
+      "type": "application/json",
+      "title": "Particulate backscatter: bbp_Global_AEOLUS"
     },
     {
       "rel": "item",
@@ -74,7 +74,7 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
       "type": "application/json"
     }
   ],

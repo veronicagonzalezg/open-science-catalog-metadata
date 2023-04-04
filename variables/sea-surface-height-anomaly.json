@@ -16,57 +16,17 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tropospheric-delays-baltics-sar-hsu.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hr-tidal-atlas-arctic-ocean-cp4o.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/s1-corrections-baltics-sar-hsu.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/satellite-altimeter-polar-ocean-cp4o.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l3-cryosat2-sea-level-anomaly-eo4sibs.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/target-locations-baltics-sar-hsu.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/rdsar-satellite-sar-altimeter-open-ocean-cp4o.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ionospheric-delays-baltics-sar-hsu.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/satellite-sar-altimeter-open-ocean-cp4o.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tide-gauge-heights-baltics-sar-hsu.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sar-positioning-solution-baltics-sar-hsu.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/satellite-sarin-altimeter-coastal-cp4o.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ionospheric-delays-baltics-sar-hsu.json",
       "type": "application/json"
     },
     {
@@ -81,37 +41,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/wet-troposphere-correction-cryosat-cp4o.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/satellite-sar-altimeter-coastal-cp4o.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geodynamic-corrections-baltics-sar-hsu.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/electronic-delay-correction-baltics-sar-hsu.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sar-observation-solution-baltics-sar-hsu.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/satellite-sarin-altimeter-coastal-cp4o.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gnss-positioning-solution-baltics-sar-hsu.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l3-cryosat2-sea-level-anomaly-eo4sibs.json",
       "type": "application/json"
     },
     {
@@ -121,12 +51,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/earth-energy-imballance-baltic-seal.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ocean-heat-content-baltic-seal.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/rdsar-satellite-sar-altimeter-open-ocean-cp4o.json",
       "type": "application/json"
     },
     {
@@ -136,17 +61,92 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geoid-heights-baltics-sar-hsu.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/absolute-sea-level-heights-baltics-sar-hsu.json",
       "type": "application/json"
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/satellite-sar-altimeter-open-ocean-cp4o.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geodynamic-corrections-baltics-sar-hsu.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/target-locations-baltics-sar-hsu.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/wet-troposphere-correction-cryosat-cp4o.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/s1-corrections-baltics-sar-hsu.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/satellite-altimeter-polar-ocean-cp4o.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hr-tidal-atlas-arctic-ocean-cp4o.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/earth-energy-imballance-baltic-seal.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sar-raw-measurements-baltics-sar-hsu.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gnss-positioning-solution-baltics-sar-hsu.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sar-positioning-solution-baltics-sar-hsu.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/electronic-delay-correction-baltics-sar-hsu.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tropospheric-delays-baltics-sar-hsu.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geoid-heights-baltics-sar-hsu.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ocean-heat-content-baltic-seal.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sar-observation-solution-baltics-sar-hsu.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/satellite-sar-altimeter-coastal-cp4o.json",
       "type": "application/json"
     },
     {

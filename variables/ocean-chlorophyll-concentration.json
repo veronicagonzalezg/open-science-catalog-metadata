@@ -16,12 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l4-chla-eo4sibs.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l3-chla-daily-eo4sibs.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l3-chla-daily-eo4sibs.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l4-chla-eo4sibs.json",
       "type": "application/json"
     },
     {

@@ -43,15 +43,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tropospheric-ozone-column-tropomi-sunlit.json",
-      "type": "application/json",
-      "title": "Tropospheric ozone column(TrOC)_2018-2020_Global_S5p-TROPOMI_Limb"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tropospheric-ozone-column-omi-sunlit.json",
       "type": "application/json",
       "title": "Tropospheric ozone column (TrOC)_Global_OMI and limb satellites"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tropospheric-ozone-column-tropomi-sunlit.json",
+      "type": "application/json",
+      "title": "Tropospheric ozone column(TrOC)_2018-2020_Global_S5p-TROPOMI_Limb"
     },
     {
       "rel": "root",

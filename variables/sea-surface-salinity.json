@@ -16,7 +16,17 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/baltic-sea-surface-salinity-l4-baltic-salinity-dynamics.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l3-sss-9day-average-eo4sibs.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-surface-salinity-arctic-salinity.json",
       "type": "application/json"
     },
     {
@@ -31,11 +41,6 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l2-smos-sss-daily-ascending-eo4sibs.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l2-smos-sss-daily-descending-eo4sibs.json",
       "type": "application/json"
     },
@@ -46,17 +51,12 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l2-smos-sss-daily-ascending-eo4sibs.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-surface-salinity-godae-oceanview.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-surface-salinity-arctic-salinity.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/baltic-sea-surface-salinity-l4-baltic-salinity-dynamics.json",
       "type": "application/json"
     },
     {
