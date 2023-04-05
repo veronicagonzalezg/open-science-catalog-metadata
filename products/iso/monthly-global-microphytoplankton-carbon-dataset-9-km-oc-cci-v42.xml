@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <gmi:MI_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd http://www.isotc211.org/2005/gmi http://www.isotc211.org/2005/gmx/gmi.xsd">
   <gmd:fileIdentifier>
-    <gco:CharacterString>ice-sheet-topography-elevation-change-cryotop-evolution</gco:CharacterString>
+    <gco:CharacterString>monthly-global-microphytoplankton-carbon-dataset-9-km-oc-cci-v42</gco:CharacterString>
   </gmd:fileIdentifier>
   <gmd:language>
     <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeSpace="ISO 639-2" codeListValue="eng">eng</gmd:LanguageCode>
@@ -10,7 +10,7 @@
     <gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeSpace="ISOTC211/19115" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
   </gmd:characterSet>
   <gmd:parentIdentifier>
-    <gco:CharacterString>cryosat-cryotop-evolution</gco:CharacterString>
+    <gco:CharacterString>bicep</gco:CharacterString>
   </gmd:parentIdentifier>
   <gmd:hierarchyLevel>
     <gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeSpace="ISOTC211/19115" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-05T11:21:02.723953</gco:DateTime>
+    <gco:DateTime>2023-04-05T11:20:54.759783</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -123,12 +123,12 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>Ice Sheet_gridded topography_rates of surface elevation change_Greenland_Cryosat-2</gco:CharacterString>
+            <gco:CharacterString>Monthly Global Microphytoplankton Carbon dataset (9 km, OC-CCI v4.2)</gco:CharacterString>
           </gmd:title>
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>These files are gridded topography, rates of surface elevation change, and errors as 500m and 1km posting determined from surface elevation measured by swath processing of data acquired by the interferometric radar altimeter CryoSat-2. The gridded products cover the Greenland Ice Sheet between 2011 and 2016.</gco:CharacterString>
+        <gco:CharacterString>This dataset contains monthly global carbon products for pico-, nano- and microphytoplankton (C_picophyto, C_nanophyto and C_microphyto, respectively, in mg C m-3) and the total phytoplankton community (C_phyto in mg C m-3) for the period of 1998 to 2020 at 9 km spatial resolution. A spectrally-resolved photoacclimation model was unified with a primary production model that simulated photosynthesis as a function of irradiance using a two-parameter photosynthesis versus irradiance (P-I) function to estimate the carbon content of marine phytoplankton based on ocean-colour remote sensing products (Sathyendranath et al. 2020 and references therein for details). The photoacclimation model contains a maximum chlorophyll-to-carbon ratio for three different phytoplankton size classes (pico-, nano- and microphytoplankton) that was inferred from field data, as in Sathyendranath et al. (2020). Chlorophyll-a products were obtained from the European Space Agency (ESA) Ocean Colour Climate Change Initiative (OC-CCI v4.2 dataset). Photosynthetic Active Radiation (PAR) products were obtained from the National Aeronautics and Space Administration (NASA) and were corrected for inter-sensor bias in products. Mixed Layer Depth (MLD) was obtained from the French Research Institute for Exploration of the Sea (Ifremer). In situ datasets P-I parameters were incorporated as described in Kulk et al. (2020). The phytoplankton carbon products were generated as part of the ESA Biological Pump and Carbon Exchange Processes (BICEP) project. Support from the Simons Foundation grant ‘Computational Biogeochemical Modeling of Marine Ecosystems’ (CBIOMES, number 549947) and from the National Centre of Earth Observation (NCEO) is acknowledged. Data are provided as netCDF files containing carbon products for pico-, nano- and microphytoplankton (C_picophyto, C_nanophyto and C_microphyto, respectively, in mg C m-3) and the total phytoplankton community (C_phyto in mg C m-3) for the period of 1998 to 2020 at 9 km spatial resolution. Additional variables that were used for the calculation of the phytoplankton carbon products are also provided, including chlorophyll-a (chl_a in mg m-3), photosynthetically activate radiation (par, in µmol photons m-2 d-1), mixed layer depth (mld in m) and the mean spectral nondimensional irradiance (mean_spectral_i_star).</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="onGoing">onGoing</gmd:MD_ProgressCode>
@@ -143,7 +143,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>variable:Ice sheet topography</gco:CharacterString>
+            <gco:CharacterString>variable:Microphytoplankton Carbon</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -153,7 +153,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>theme:Cryosphere</gco:CharacterString>
+            <gco:CharacterString>theme:Oceans</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -163,7 +163,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Greenland</gco:CharacterString>
+            <gco:CharacterString>Global</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -192,16 +192,16 @@
                 <gco:Boolean>1</gco:Boolean>
               </gmd:extentTypeCode>
               <gmd:westBoundLongitude>
-                <gco:Decimal>-73.709433726</gco:Decimal>
+                <gco:Decimal>-180.0</gco:Decimal>
               </gmd:westBoundLongitude>
               <gmd:eastBoundLongitude>
-                <gco:Decimal>-12.713339976</gco:Decimal>
+                <gco:Decimal>180.0</gco:Decimal>
               </gmd:eastBoundLongitude>
               <gmd:southBoundLatitude>
-                <gco:Decimal>60.2878324851</gco:Decimal>
+                <gco:Decimal>-90.0</gco:Decimal>
               </gmd:southBoundLatitude>
               <gmd:northBoundLatitude>
-                <gco:Decimal>83.5902211563</gco:Decimal>
+                <gco:Decimal>90.0</gco:Decimal>
               </gmd:northBoundLatitude>
             </gmd:EX_GeographicBoundingBox>
           </gmd:geographicElement>
@@ -209,8 +209,8 @@
             <gmd:EX_TemporalExtent>
               <gmd:extent>
                 <gml:TimePeriod gml:id="T001">
-                  <gml:beginPosition>2011-01-01 00:00:00+00:00</gml:beginPosition>
-                  <gml:endPosition>2016-12-31 23:59:59+00:00</gml:endPosition>
+                  <gml:beginPosition>1997-09-01 00:00:00+00:00</gml:beginPosition>
+                  <gml:endPosition>2020-11-30 23:59:59+00:00</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>
@@ -287,7 +287,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://cryotop-evolution.org/</gmd:URL>
+                <gmd:URL>https://rsg.pml.ac.uk/shared_files/gku/ESA_animation/PC_1-month_9km/</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -306,26 +306,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://ramadda.data.bas.ac.uk/repository/entry/show?entryid=0c3a6698-1078-4465-a2c0-ca17ca0a0c39</gmd:URL>
-              </gmd:linkage>
-              <gmd:protocol>
-                <gco:CharacterString>WWW:LINK</gco:CharacterString>
-              </gmd:protocol>
-              <gmd:name>
-                <gco:CharacterString>access</gco:CharacterString>
-              </gmd:name>
-              <gmd:description>
-                <gco:CharacterString>access</gco:CharacterString>
-              </gmd:description>
-              <gmd:function>
-                <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeSpace="ISOTC211/19115" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
-              </gmd:function>
-            </gmd:CI_OnlineResource>
-          </gmd:onLine>
-          <gmd:onLine>
-            <gmd:CI_OnlineResource>
-              <gmd:linkage>
-                <gmd:URL>https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-topography-elevation-change-cryotop-evolution.json</gmd:URL>
+                <gmd:URL>https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-microphytoplankton-carbon-dataset-9-km-oc-cci-v42.json</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -359,7 +340,7 @@
     <gmi:MI_AcquisitionInformation>
       <gmi:platform>
         <gmi:MI_Platform>
-          <gmi:identifier>['CryoSat-2']</gmi:identifier>
+          <gmi:identifier>['ENVISAT', 'MERIS', 'MODIS', 'SeaWiFS', 'Sentinel-3', 'VIIRS']</gmi:identifier>
           <gmi:description/>
         </gmi:MI_Platform>
       </gmi:platform>
