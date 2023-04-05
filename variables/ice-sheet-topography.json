@@ -16,57 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/swath-elelvation-greenland-ice-sheet-cryotop-evolution.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-melting-antarctica-cryosmos.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-point-arctic-canada-north-cryotop-evolution.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-point-svalbard-cryotop-evolution.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-point-arctic-canada-south-cryotop-evolution.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-grid-iceland-cryotop-evolution.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-point-russian-arctic-cryotop-evolution.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-antarctica-l3-spice.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-surface-melt-4dgreenland.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/elevation-and-elevation-change-antarctic-cryotop-evolution.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-point-antarctica-cryotop-evolution.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-grid-antarctica-cryotop-evolution.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-point-iceland-cryotop-evolution.json",
       "type": "application/json"
     },
     {
@@ -76,7 +31,32 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-shelf-antarctica-cryosmos.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-grid-greenland-cryotop-evolution.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/swath-elelvation-greenland-ice-sheet-cryotop-evolution.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-grid-svalbard-cryotop-evolution.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-antarctica-l3-spice.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-grid-arctic-canada-north-cryotop-evolution.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-surface-melt-4dgreenland.json",
       "type": "application/json"
     },
     {
@@ -86,7 +66,17 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hydrological-surface-features-4dgreenland.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/dem-antarctica-2013-lpf-mitap.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-point-antarctica-cryotop-evolution.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-topography-elevation-change-cryotop-evolution.json",
       "type": "application/json"
     },
     {
@@ -101,42 +91,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-temperature-antarctica-cryosmos.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-point-svalbard-cryotop-evolution.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/dem-antarctica-2013-lpf-mitap.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-point-iceland-cryotop-evolution.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-grid-svalbard-cryotop-evolution.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-elevation-change-lpf-mitap.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-grid-greenland-cryotop-evolution.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-point-southern-andes-cryotop-evolution.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-topography-elevation-change-cryotop-evolution.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hydrological-surface-features-4dgreenland.json",
       "type": "application/json"
     },
     {
@@ -146,12 +106,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/swath-elelvation-antarctic-ice-sheet-cryotop-evolution.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-grid-iceland-cryotop-evolution.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-melting-antarctica-cryosmos.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/dem-antarctica-2017-lpf-mitap.json",
       "type": "application/json"
     },
     {
@@ -161,12 +121,52 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-grid-arctic-canada-north-cryotop-evolution.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-shelf-antarctica-cryosmos.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/dem-antarctica-2017-lpf-mitap.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-temperature-antarctica-cryosmos.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/elevation-and-elevation-change-antarctic-cryotop-evolution.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/swath-elelvation-antarctic-ice-sheet-cryotop-evolution.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-elevation-change-lpf-mitap.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-point-russian-arctic-cryotop-evolution.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-point-southern-andes-cryotop-evolution.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-grid-antarctica-cryotop-evolution.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-point-arctic-canada-north-cryotop-evolution.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-point-arctic-canada-south-cryotop-evolution.json",
       "type": "application/json"
     },
     {

@@ -16,12 +16,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hdo-total-column-tropomi-extended-wift.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/total-column-h2o-hdo-cloudy-lpf-wift.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hdo-total-column-tropomi-clear-sky-wift.json",
       "type": "application/json"
     },
     {
@@ -31,12 +26,17 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/total-column-h2o-hdo-cloudy-lpf-wift.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/water-vapour-isotopologues-lpf-weather.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hdo-total-column-tropomi-clear-sky-wift.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hdo-total-column-tropomi-extended-wift.json",
       "type": "application/json"
     },
     {

@@ -16,17 +16,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/stokes-drift-atlantic-world-ocean-circulation.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gridded-surface-current-world-ocean-circulation.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/daily-2d-ocean-currents-world-ocean-circulation.json",
       "type": "application/json"
     },
     {
@@ -36,17 +26,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/total-surface-current-tropical-atlantic-world-ocean-circulation.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/eddy-census-eo4sibs.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/oceanic-current-fronts-world-ocean-circulation.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/stokes-drift-atlantic-world-ocean-circulation.json",
       "type": "application/json"
     },
     {
@@ -62,6 +42,26 @@
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/daily-3d-ocean-currents-world-ocean-circulation.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/oceanic-current-fronts-world-ocean-circulation.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/total-surface-current-tropical-atlantic-world-ocean-circulation.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/daily-2d-ocean-currents-world-ocean-circulation.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/eddy-census-eo4sibs.json",
       "type": "application/json"
     },
     {

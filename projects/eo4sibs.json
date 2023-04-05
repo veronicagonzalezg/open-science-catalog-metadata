@@ -44,9 +44,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l3-s3-sea-level-anomaly-eo4sibs.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l3-sss-9day-average-eo4sibs.json",
       "type": "application/json",
-      "title": "Level-3 Sentinel-3A [mid 2016, 2018] along-track 5Hz product, sea level anomaly, ~1km resolution"
+      "title": "Level 3 SSS, 0.25\u00b0*0.25\u00b0, 9-day averaged produced daily"
     },
     {
       "rel": "item",
@@ -56,27 +56,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l3-turbidity-daily-monthly-eo4sibs.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l3-chla-daily-eo4sibs.json",
       "type": "application/json",
-      "title": "Level 3 Turbidity, 300m, daily and monthly"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l2-smos-sss-daily-descending-eo4sibs.json",
-      "type": "application/json",
-      "title": "Level 2 SMOS , Descending orbit, 0.25\u00b0*0.25\u00b0, daily averaged produced daily"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l3-cryosat2-sea-level-anomaly-eo4sibs.json",
-      "type": "application/json",
-      "title": "Level-3 Cryosat-2 [2011, 2019] along-track 5Hz product, sea level anomaly, ~1km resolution."
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l3-sss-9day-average-eo4sibs.json",
-      "type": "application/json",
-      "title": "Level 3 SSS, 0.25\u00b0*0.25\u00b0, 9-day averaged produced daily"
+      "title": "Level 3 Chl-a, 300m daily and monthly"
     },
     {
       "rel": "item",
@@ -86,15 +68,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/eddy-census-eo4sibs.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l3-turbidity-daily-monthly-eo4sibs.json",
       "type": "application/json",
-      "title": "Eddy census"
+      "title": "Level 3 Turbidity, 300m, daily and monthly"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l4-sea-level-anomaly-eo4sibs.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l3-s3-sea-level-anomaly-eo4sibs.json",
       "type": "application/json",
-      "title": "Level 4, sea level anomaly, multi-mission gridded merged products for a period of 1 year, 0.0625\u00b0*0.0625\u00b0, daily"
+      "title": "Level-3 Sentinel-3A [mid 2016, 2018] along-track 5Hz product, sea level anomaly, ~1km resolution"
     },
     {
       "rel": "item",
@@ -104,15 +86,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l3-chla-daily-eo4sibs.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l3-cryosat2-sea-level-anomaly-eo4sibs.json",
       "type": "application/json",
-      "title": "Level 3 Chl-a, 300m daily and monthly"
+      "title": "Level-3 Cryosat-2 [2011, 2019] along-track 5Hz product, sea level anomaly, ~1km resolution."
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l2-smos-sss-daily-ascending-eo4sibs.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l4-sea-level-anomaly-eo4sibs.json",
       "type": "application/json",
-      "title": "Level 2 SMOS , Ascending orbit, 0.25\u00b0*0.25\u00b0, daily averaged produced daily"
+      "title": "Level 4, sea level anomaly, multi-mission gridded merged products for a period of 1 year, 0.0625\u00b0*0.0625\u00b0, daily"
     },
     {
       "rel": "item",
@@ -122,9 +104,27 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l2-smos-sss-daily-descending-eo4sibs.json",
+      "type": "application/json",
+      "title": "Level 2 SMOS , Descending orbit, 0.25\u00b0*0.25\u00b0, daily averaged produced daily"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l3-spm-daily-eo4sibs.json",
       "type": "application/json",
       "title": "Level 3 Suspended Particulate Matter, 300m, daily and monthly"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l2-smos-sss-daily-ascending-eo4sibs.json",
+      "type": "application/json",
+      "title": "Level 2 SMOS , Ascending orbit, 0.25\u00b0*0.25\u00b0, daily averaged produced daily"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/eddy-census-eo4sibs.json",
+      "type": "application/json",
+      "title": "Eddy census"
     },
     {
       "rel": "root",

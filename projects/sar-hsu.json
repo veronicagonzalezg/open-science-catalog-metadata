@@ -43,39 +43,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/target-locations-baltics-sar-hsu.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tide-gauge-heights-baltics-sar-hsu.json",
       "type": "application/json",
-      "title": "PTA-RES:\u00a0Extracted Target Locations_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/electronic-delay-correction-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "COR-EC2:\u00a0ECR Electronic Delay Correction_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sar-positioning-solution-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "SAR-POS:\u00a0SAR Positioning Solution_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geoid-heights-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "GEO-HGT:\u00a0Geoid Heights_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/absolute-sea-level-heights-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "SL-ABS:\u00a0Absolute Sea Level Heights_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/s1-corrections-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "COR-SC:\u00a0Sentinel-1 Systematic\u00a0Effects Corrections_Baltics_Multimission"
+      "title": "TG-HGT: Tide Gauge Heights_Baltics_Multimission"
     },
     {
       "rel": "item",
@@ -91,15 +61,33 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/absolute-sea-level-heights-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "SL-ABS:\u00a0Absolute Sea Level Heights_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geodynamic-corrections-baltics-sar-hsu.json",
       "type": "application/json",
       "title": "COR-GC:\u00a0Geodynamic Corrections_Baltics_Multimission"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tropospheric-delays-baltics-sar-hsu.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/target-locations-baltics-sar-hsu.json",
       "type": "application/json",
-      "title": "COR-TD:\u00a0Tropospheric Delays_Baltics_Multimission"
+      "title": "PTA-RES:\u00a0Extracted Target Locations_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/s1-corrections-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "COR-SC:\u00a0Sentinel-1 Systematic\u00a0Effects Corrections_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sar-raw-measurements-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "PTA-OBS:\u00a0SAR Raw Measurements_Baltics_Multimission"
     },
     {
       "rel": "item",
@@ -109,15 +97,27 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tide-gauge-heights-baltics-sar-hsu.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sar-positioning-solution-baltics-sar-hsu.json",
       "type": "application/json",
-      "title": "TG-HGT: Tide Gauge Heights_Baltics_Multimission"
+      "title": "SAR-POS:\u00a0SAR Positioning Solution_Baltics_Multimission"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sar-raw-measurements-baltics-sar-hsu.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/electronic-delay-correction-baltics-sar-hsu.json",
       "type": "application/json",
-      "title": "PTA-OBS:\u00a0SAR Raw Measurements_Baltics_Multimission"
+      "title": "COR-EC2:\u00a0ECR Electronic Delay Correction_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tropospheric-delays-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "COR-TD:\u00a0Tropospheric Delays_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geoid-heights-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "GEO-HGT:\u00a0Geoid Heights_Baltics_Multimission"
     },
     {
       "rel": "item",

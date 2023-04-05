@@ -16,12 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-ice-phys-ocean-lpf-arcticsummit.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-ice-thickness-lpf-arcticsummit.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-ice-retracker-snow-depth-cryosat-lpf-cassis.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-ice-phys-ocean-lpf-arcticsummit.json",
       "type": "application/json"
     },
     {
@@ -31,7 +31,17 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-ice-retracker-snow-depth-cryosat-lpf-cassis.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-ice-retracker-clima-snow-depth-lpf-cassis.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-ice-clima-snow-depth-lpf-cassis.json",
       "type": "application/json"
     },
     {
@@ -42,16 +52,6 @@
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-ice-snow-depth-lpf-cassis.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-ice-thickness-lpf-arcticsummit.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-ice-clima-snow-depth-lpf-cassis.json",
       "type": "application/json"
     },
     {

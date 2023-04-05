@@ -16,12 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-total-phytoplankton-carbon-dataset-9-km-oc-cci-v42.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-marine-phytoplankton-carbon-bicep.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-marine-phytoplankton-carbon-bicep.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-total-phytoplankton-carbon-dataset-9-km-oc-cci-v42.json",
       "type": "application/json"
     },
     {

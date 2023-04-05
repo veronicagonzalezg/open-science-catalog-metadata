@@ -42,87 +42,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-particulate-organic-carbon-v5-bicep.json",
-      "type": "application/json",
-      "title": "Monthly Global Chlorophyll-a dataset (9 km, OC-CCI v5)"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-total-phytoplankton-carbon-dataset-9-km-oc-cci-v42.json",
-      "type": "application/json",
-      "title": "Monthly Global  Total Phytoplankton Carbon dataset (9 km, OC-CCI v4.2)"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-particulate-organic-carbon-v4-bicep.json",
-      "type": "application/json",
-      "title": "Monthly Global Particulate Organic Carbon dataset (9 km, OC-CCI v4.2)"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/particulate-inorganic-carbon-bicep.json",
-      "type": "application/json",
-      "title": "Monthly Global Particulate Inorganic Carbon dataset (9 km, OC-CCI v4.2)"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-picophytoplankton-carbon-dataset-9-km-oc-cci-v5.json",
-      "type": "application/json",
-      "title": "Monthly Global Picophytoplankton Carbon dataset (9 km, OC-CCI v5)"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-nanophytoplankton-carbon-dataset-9-km-oc-cci-v42.json",
-      "type": "application/json",
-      "title": "Monthly Global Nanophytoplankton Carbon dataset (9 km, OC-CCI v4.2)"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-microphytoplankton-carbon-dataset-9-km-oc-cci-v5.json",
-      "type": "application/json",
-      "title": "Monthly Global Microphytoplankton Carbon dataset (9 km, OC-CCI v5)"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-picophytoplankton-carbon-dataset-9-km-oc-cci-v42.json",
-      "type": "application/json",
-      "title": "Monthly Global Picophytoplankton Carbon dataset (9 km, OC-CCI v4.2)"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/dissolved-organic-carbon-bicep.json",
-      "type": "application/json",
-      "title": "Monthly Global Dissolved Organic Carbon dataset (9 km, OC-CCI v4.2)"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-nanophytoplankton-carbon-dataset-9-km-oc-cci-v5.json",
-      "type": "application/json",
-      "title": "Monthly Global Nanophytoplankton Carbon dataset (9 km, OC-CCI v5)"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-marine-phytoplankton-carbon-bicep.json",
       "type": "application/json",
       "title": "Monthly Global  Total Phytoplankton Carbon dataset (9 km, OC-CCI v5)"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/export-production-bicep.json",
-      "type": "application/json",
-      "title": "Monthly Global Export Production based on Dunne et al 2005 dataset (9 km, OC-CCI v4.2)"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-marine-phytoplankton-primary-production-bicep.json",
-      "type": "application/json",
-      "title": "Monthly Global Phytoplankton Primary Production dataset (9 km, OC-CCI v4.2)"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-mixed-layer-depth-dataset-9-km-oc-cci-v5.json",
-      "type": "application/json",
-      "title": "Monthly Global Mixed Layer Depth dataset (9 km, OC-CCI v5)"
     },
     {
       "rel": "item",
@@ -132,15 +54,99 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-export-production-based-on-henson-et-al-2011-dataset-9-km-oc-cci-v42.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/particulate-inorganic-carbon-bicep.json",
       "type": "application/json",
-      "title": "Monthly Global Export Production based on Henson et al 2011 dataset (9 km, OC-CCI v4.2)"
+      "title": "Monthly Global Particulate Inorganic Carbon dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-microphytoplankton-carbon-dataset-9-km-oc-cci-v5.json",
+      "type": "application/json",
+      "title": "Monthly Global Microphytoplankton Carbon dataset (9 km, OC-CCI v5)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-nanophytoplankton-carbon-dataset-9-km-oc-cci-v5.json",
+      "type": "application/json",
+      "title": "Monthly Global Nanophytoplankton Carbon dataset (9 km, OC-CCI v5)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-picophytoplankton-carbon-dataset-9-km-oc-cci-v5.json",
+      "type": "application/json",
+      "title": "Monthly Global Picophytoplankton Carbon dataset (9 km, OC-CCI v5)"
     },
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-export-production-based-on-li-et-al-2016-dataset-9-km-oc-cci-v42.json",
       "type": "application/json",
       "title": "Monthly Global Export Production based on Li et al 2016 dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-chlorophyll-a-dataset-9-km-oc-cci-v42.json",
+      "type": "application/json",
+      "title": "Monthly Global Chlorophyll-a dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-particulate-organic-carbon-v5-bicep.json",
+      "type": "application/json",
+      "title": "Monthly Global Chlorophyll-a dataset (9 km, OC-CCI v5)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-nanophytoplankton-carbon-dataset-9-km-oc-cci-v42.json",
+      "type": "application/json",
+      "title": "Monthly Global Nanophytoplankton Carbon dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-mixed-layer-depth-dataset-9-km-oc-cci-v5.json",
+      "type": "application/json",
+      "title": "Monthly Global Mixed Layer Depth dataset (9 km, OC-CCI v5)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-export-production-based-on-henson-et-al-2011-dataset-9-km-oc-cci-v42.json",
+      "type": "application/json",
+      "title": "Monthly Global Export Production based on Henson et al 2011 dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-marine-phytoplankton-primary-production-bicep.json",
+      "type": "application/json",
+      "title": "Monthly Global Phytoplankton Primary Production dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/export-production-bicep.json",
+      "type": "application/json",
+      "title": "Monthly Global Export Production based on Dunne et al 2005 dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-total-phytoplankton-carbon-dataset-9-km-oc-cci-v42.json",
+      "type": "application/json",
+      "title": "Monthly Global  Total Phytoplankton Carbon dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-picophytoplankton-carbon-dataset-9-km-oc-cci-v42.json",
+      "type": "application/json",
+      "title": "Monthly Global Picophytoplankton Carbon dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-particulate-organic-carbon-v4-bicep.json",
+      "type": "application/json",
+      "title": "Monthly Global Particulate Organic Carbon dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/dissolved-organic-carbon-bicep.json",
+      "type": "application/json",
+      "title": "Monthly Global Dissolved Organic Carbon dataset (9 km, OC-CCI v4.2)"
     },
     {
       "rel": "root",

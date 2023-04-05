@@ -38,15 +38,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/albedo-circas.json",
-      "type": "application/json",
-      "title": "Albedo_Regional_S3A/SLSTR"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/radiation-budget-circas.json",
       "type": "application/json",
       "title": "Radiation budget_Regional_S3"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/albedo-circas.json",
+      "type": "application/json",
+      "title": "Albedo_Regional_S3A/SLSTR"
     },
     {
       "rel": "item",

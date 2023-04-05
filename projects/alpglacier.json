@@ -49,6 +49,12 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/glacier-surface-flow-velocity-alpglacier.json",
+      "type": "application/json",
+      "title": "Glacier surface flow velocity_SwissAlps_S1/2"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-cover-alpglacier.json",
       "type": "application/json",
       "title": "Snow cover on glaciers_SwissAlps_S1/2"
@@ -58,12 +64,6 @@
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/slope-instabilities-glacier-forefields-alpglacier.json",
       "type": "application/json",
       "title": "Slope instabilities in glacier forefields_SwissAlps_S1/2"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/glacier-surface-flow-velocity-alpglacier.json",
-      "type": "application/json",
-      "title": "Glacier surface flow velocity_SwissAlps_S1/2"
     },
     {
       "rel": "root",
