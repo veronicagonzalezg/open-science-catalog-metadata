@@ -41,7 +41,7 @@
       2021,
       2022
     ],
-    "numberOfProducts": 251,
+    "numberOfProducts": 252,
     "numberOfProjects": 124,
     "numberOfVariables": 340,
     "numberOfThemes": 6
@@ -3250,6 +3250,7 @@
           "description": "Mass concentration of nanophytoplankton expressed as carbon in sea water [mg C m-3] ",
           "summary": {
             "years": [
+              1997,
               1998,
               1999,
               2000,
@@ -3274,7 +3275,7 @@
               2019,
               2020
             ],
-            "numberOfProducts": 1
+            "numberOfProducts": 2
           }
         },
         {
@@ -3929,7 +3930,7 @@
           2020,
           2021
         ],
-        "numberOfProducts": 72,
+        "numberOfProducts": 73,
         "numberOfVariables": 33
       }
     },
@@ -4033,7 +4034,7 @@
           2020,
           2021
         ],
-        "numberOfProducts": 46,
+        "numberOfProducts": 47,
         "numberOfVariables": 19
       }
     },
@@ -4068,7 +4069,7 @@
           2019,
           2020
         ],
-        "numberOfProducts": 20,
+        "numberOfProducts": 21,
         "numberOfVariables": 15
       }
     },
@@ -4101,7 +4102,7 @@
           2019,
           2020
         ],
-        "numberOfProducts": 15,
+        "numberOfProducts": 16,
         "numberOfVariables": 12
       }
     },
@@ -4134,7 +4135,7 @@
           2019,
           2020
         ],
-        "numberOfProducts": 15,
+        "numberOfProducts": 16,
         "numberOfVariables": 12
       }
     },
@@ -4167,7 +4168,7 @@
           2019,
           2020
         ],
-        "numberOfProducts": 15,
+        "numberOfProducts": 16,
         "numberOfVariables": 12
       }
     },
