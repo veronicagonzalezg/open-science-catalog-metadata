@@ -209,7 +209,7 @@
       <gmx:CodeDefinition gml:id="OSC_Variable_Export Production">
         <gml:identifier codeSpace="OSC">OSC_Variable_Export Production</gml:identifier>
         <gml:description>Oceanic Export Production</gml:description>
-        <gml:descriptionReference xlink:type="simple" xlink:href="https://data.ceda.ac.uk/neodc/bicep/data/oceanic_export_production/v1.0/monthly/"/>
+        <gml:descriptionReference xlink:type="simple" xlink:href=""/>
       </gmx:CodeDefinition>
     </gmx:codeEntry>
     <gmx:codeEntry>
@@ -741,7 +741,7 @@
       <gmx:CodeDefinition gml:id="OSC_Variable_Nanophytoplankton Carbon">
         <gml:identifier codeSpace="OSC">OSC_Variable_Nanophytoplankton Carbon</gml:identifier>
         <gml:description>Mass concentration of nanophytoplankton expressed as carbon in sea water [mg C m-3] </gml:description>
-        <gml:descriptionReference xlink:type="simple" xlink:href="https://catalogue.ceda.ac.uk/uuid/6a6ccbb8ef2645308a60dc47e9b8b5fb"/>
+        <gml:descriptionReference xlink:type="simple" xlink:href=""/>
       </gmx:CodeDefinition>
     </gmx:codeEntry>
     <gmx:codeEntry>
@@ -1752,7 +1752,7 @@ the soil and plants when the ground is at its natural moisture content.</gml:des
       <gmx:CodeDefinition gml:id="OSC_Variable_Particulate Inorganic Carbon">
         <gml:identifier codeSpace="OSC">OSC_Variable_Particulate Inorganic Carbon</gml:identifier>
         <gml:description>Mass concentration of particulate inorganic carbon expressed as carbon in sea water [mg C m-3]</gml:description>
-        <gml:descriptionReference xlink:type="simple" xlink:href="https://rsg.pml.ac.uk/shared_files/gku/ESA_animation/PIC_1-month_9km/"/>
+        <gml:descriptionReference xlink:type="simple" xlink:href=""/>
       </gmx:CodeDefinition>
     </gmx:codeEntry>
     <gmx:codeEntry>
@@ -1766,7 +1766,7 @@ the soil and plants when the ground is at its natural moisture content.</gml:des
       <gmx:CodeDefinition gml:id="OSC_Variable_Particulate Organic Carbon">
         <gml:identifier codeSpace="OSC">OSC_Variable_Particulate Organic Carbon</gml:identifier>
         <gml:description>Mass concentration of particulate organic carbon expressed as carbon in sea water [mg C m-3]</gml:description>
-        <gml:descriptionReference xlink:type="simple" xlink:href="https://catalogue.ceda.ac.uk/uuid/5006f2c553cd4f26a6af0af2ee6d7c94"/>
+        <gml:descriptionReference xlink:type="simple" xlink:href=""/>
       </gmx:CodeDefinition>
     </gmx:codeEntry>
     <gmx:codeEntry>
@@ -2123,14 +2123,14 @@ the soil and plants when the ground is at its natural moisture content.</gml:des
       <gmx:CodeDefinition gml:id="OSC_Variable_Picopythoplanktion Carbon">
         <gml:identifier codeSpace="OSC">OSC_Variable_Picopythoplanktion Carbon</gml:identifier>
         <gml:description>Mass concentration of picophytoplankton expressed as carbon in sea water [mg C m-3]</gml:description>
-        <gml:descriptionReference xlink:type="simple" xlink:href="https://catalogue.ceda.ac.uk/uuid/6a6ccbb8ef2645308a60dc47e9b8b5fb"/>
+        <gml:descriptionReference xlink:type="simple" xlink:href=""/>
       </gmx:CodeDefinition>
     </gmx:codeEntry>
     <gmx:codeEntry>
       <gmx:CodeDefinition gml:id="OSC_Variable_Phytoplankton Carbon">
         <gml:identifier codeSpace="OSC">OSC_Variable_Phytoplankton Carbon</gml:identifier>
         <gml:description>Mass concentration of phytoplankton expressed as carbon in sea water [mg C m-3]</gml:description>
-        <gml:descriptionReference xlink:type="simple" xlink:href="https://catalogue.ceda.ac.uk/uuid/6a6ccbb8ef2645308a60dc47e9b8b5fb"/>
+        <gml:descriptionReference xlink:type="simple" xlink:href=""/>
       </gmx:CodeDefinition>
     </gmx:codeEntry>
     <gmx:codeEntry>
@@ -2228,7 +2228,7 @@ the soil and plants when the ground is at its natural moisture content.</gml:des
       <gmx:CodeDefinition gml:id="OSC_Variable_Mixed Layer Depth">
         <gml:identifier codeSpace="OSC">OSC_Variable_Mixed Layer Depth</gml:identifier>
         <gml:description>Mixed layer depth [m] </gml:description>
-        <gml:descriptionReference xlink:type="simple" xlink:href="https://catalogue.ceda.ac.uk/uuid/6a6ccbb8ef2645308a60dc47e9b8b5fb"/>
+        <gml:descriptionReference xlink:type="simple" xlink:href=""/>
       </gmx:CodeDefinition>
     </gmx:codeEntry>
     <gmx:codeEntry>
@@ -2284,7 +2284,7 @@ the soil and plants when the ground is at its natural moisture content.</gml:des
       <gmx:CodeDefinition gml:id="OSC_Variable_Phytoplankton Primary Production">
         <gml:identifier codeSpace="OSC">OSC_Variable_Phytoplankton Primary Production</gml:identifier>
         <gml:description>Gross primary production of carbon in sea water [mg C m-2 d-1]</gml:description>
-        <gml:descriptionReference xlink:type="simple" xlink:href="https://catalogue.ceda.ac.uk/uuid/69b2c9c6c4714517ba10dab3515e4ee6"/>
+        <gml:descriptionReference xlink:type="simple" xlink:href=""/>
       </gmx:CodeDefinition>
     </gmx:codeEntry>
     <gmx:codeEntry>
@@ -2333,7 +2333,7 @@ the soil and plants when the ground is at its natural moisture content.</gml:des
       <gmx:CodeDefinition gml:id="OSC_Variable_Dissolved Organic Carbon">
         <gml:identifier codeSpace="OSC">OSC_Variable_Dissolved Organic Carbon</gml:identifier>
         <gml:description>Mass concentration of dissolved organic carbon expressed as carbon in sea water [mg C m-3]</gml:description>
-        <gml:descriptionReference xlink:type="simple" xlink:href="https://rsg.pml.ac.uk/shared_files/gku/ESA_animation/DOC_1-month_9km/"/>
+        <gml:descriptionReference xlink:type="simple" xlink:href="https://www.britannica.com/science/seawater/Dissolved-organic-substances"/>
       </gmx:CodeDefinition>
     </gmx:codeEntry>
     <gmx:codeEntry>
@@ -2424,7 +2424,7 @@ the soil and plants when the ground is at its natural moisture content.</gml:des
       <gmx:CodeDefinition gml:id="OSC_Variable_Microphytoplankton Carbon">
         <gml:identifier codeSpace="OSC">OSC_Variable_Microphytoplankton Carbon</gml:identifier>
         <gml:description>Mass concentration of microphytoplankton expressed as carbon in sea water [mg C m-3] </gml:description>
-        <gml:descriptionReference xlink:type="simple" xlink:href="https://catalogue.ceda.ac.uk/uuid/6a6ccbb8ef2645308a60dc47e9b8b5fb"/>
+        <gml:descriptionReference xlink:type="simple" xlink:href=""/>
       </gmx:CodeDefinition>
     </gmx:codeEntry>
     <gmx:codeEntry>

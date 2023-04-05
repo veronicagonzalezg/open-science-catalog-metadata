@@ -71,14 +71,14 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
       "type": "application/json"
     }
   ],
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ],
-  "osc:theme": "Land",
+  "osc:theme": "Cryosphere",
   "osc:type": "Variable",
   "extent": {
     "spatial": {

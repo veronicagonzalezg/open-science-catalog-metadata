@@ -26,7 +26,17 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-chlorophyll-a-dataset-9-km-oc-cci-v42.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/particulate-backscatter-aeolus-innovation-color.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-particulate-organic-carbon-v5-bicep.json",
       "type": "application/json"
     },
     {
