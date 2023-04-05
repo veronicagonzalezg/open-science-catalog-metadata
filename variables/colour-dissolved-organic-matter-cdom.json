@@ -26,12 +26,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/in-situ-sealabio.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/eo-based-cdom-baltic-sealabio.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/eo-based-cdom-baltic-sealabio.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/in-situ-sealabio.json",
       "type": "application/json"
     },
     {

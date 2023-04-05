@@ -53,15 +53,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/earth-energy-imballance-baltic-seal.json",
-      "type": "application/json",
-      "title": "Earth Energy Imballance (EEI)_GRACE/GRACE-FO"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ocean-heat-content-baltic-seal.json",
       "type": "application/json",
       "title": "Global Ocean Heat Content (GOHC)_GRACE/GRACE-FO"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/earth-energy-imballance-baltic-seal.json",
+      "type": "application/json",
+      "title": "Earth Energy Imballance (EEI)_GRACE/GRACE-FO"
     },
     {
       "rel": "root",

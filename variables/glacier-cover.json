@@ -21,22 +21,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-melt-s1-4dantarctica.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/supraglacial-lakes-west-4dantarctica.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-melt-ascat-4dantarctica.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/melt-indicator-4dantarctica.json",
       "type": "application/json"
     },
     {
@@ -47,6 +32,21 @@
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/radar-brightness-s1-4dantarctica.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/supraglacial-lakes-west-4dantarctica.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/melt-indicator-4dantarctica.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-melt-s1-4dantarctica.json",
       "type": "application/json"
     },
     {

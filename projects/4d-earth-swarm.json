@@ -43,27 +43,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/webgeodyn-py-4d-earth-swarm.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ground-observatory-data-4d-earth-swarm.json",
       "type": "application/json",
-      "title": "Webgeodyn Python package"
+      "title": "Ground Observatory data"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ground-virtual-observatory-cryosat2-4d-earth-swarm.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ground-virtual-observatory-swarm-4d-earth-swarm.json",
       "type": "application/json",
-      "title": "Ground Virtual Observatory Data CRYOSAT-2"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geodynamo-simulation-4d-earth-swarm.json",
-      "type": "application/json",
-      "title": "Geodynamo simulation data_Earth core"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ground-virtual-observatory-oersted-4d-earth-swarm.json",
-      "type": "application/json",
-      "title": "Ground Virtual Observatory Data OERSTED"
+      "title": "Ground Virtual Observatory Data SWARM"
     },
     {
       "rel": "item",
@@ -73,9 +61,27 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ground-virtual-observatory-oersted-4d-earth-swarm.json",
+      "type": "application/json",
+      "title": "Ground Virtual Observatory Data OERSTED"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/webgeodyn-py-4d-earth-swarm.json",
+      "type": "application/json",
+      "title": "Webgeodyn Python package"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/chaos-field-model-core-4d-earth-swarm.json",
       "type": "application/json",
       "title": "CHAOS field model_Core"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/satellite-data-chaos-field-model-4d-earth-swarm.json",
+      "type": "application/json",
+      "title": "Vector and scalar satellite data files as used in the CHAOS field model"
     },
     {
       "rel": "item",
@@ -91,21 +97,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/satellite-data-chaos-field-model-4d-earth-swarm.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ground-virtual-observatory-cryosat2-4d-earth-swarm.json",
       "type": "application/json",
-      "title": "Vector and scalar satellite data files as used in the CHAOS field model"
+      "title": "Ground Virtual Observatory Data CRYOSAT-2"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ground-observatory-data-4d-earth-swarm.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geodynamo-simulation-4d-earth-swarm.json",
       "type": "application/json",
-      "title": "Ground Observatory data"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ground-virtual-observatory-swarm-4d-earth-swarm.json",
-      "type": "application/json",
-      "title": "Ground Virtual Observatory Data SWARM"
+      "title": "Geodynamo simulation data_Earth core"
     },
     {
       "rel": "root",
