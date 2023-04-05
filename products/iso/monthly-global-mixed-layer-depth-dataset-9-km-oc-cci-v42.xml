@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <gmi:MI_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd http://www.isotc211.org/2005/gmi http://www.isotc211.org/2005/gmx/gmi.xsd">
   <gmd:fileIdentifier>
-    <gco:CharacterString>ice-sheet-temperature-antarctica-cryosmos</gco:CharacterString>
+    <gco:CharacterString>monthly-global-mixed-layer-depth-dataset-9-km-oc-cci-v42</gco:CharacterString>
   </gmd:fileIdentifier>
   <gmd:language>
     <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeSpace="ISO 639-2" codeListValue="eng">eng</gmd:LanguageCode>
@@ -10,7 +10,7 @@
     <gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeSpace="ISOTC211/19115" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
   </gmd:characterSet>
   <gmd:parentIdentifier>
-    <gco:CharacterString>cryosmos</gco:CharacterString>
+    <gco:CharacterString>bicep</gco:CharacterString>
   </gmd:parentIdentifier>
   <gmd:hierarchyLevel>
     <gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeSpace="ISOTC211/19115" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-05T11:29:16.474835</gco:DateTime>
+    <gco:DateTime>2023-04-05T11:28:59.591173</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -123,12 +123,15 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>Internal ice-sheet temperature_Antarctica_SMOS</gco:CharacterString>
+            <gco:CharacterString>Monthly Global Mixed Layer Depth dataset (9 km, OC-CCI v4.2)</gco:CharacterString>
           </gmd:title>
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>The product provides an estimate of the Ice Thickness in an area of East Antarctica where the BEDMAP2 data has an uncertainty of 1000 m. The product consists of a NETCDF file containing data in SMOS L3 format. The spatial coverage is provided as an index map in SMOS L3 coordinates. Both ice thickness estimate as well as ice thickness estimate merged onto the surrounding BEDMAP2 ice thickness data, are proved as maps. For user convenience the latitude and longitude coordinate values are also provided. The filename is “SMOS_IceThickness_YYYY_vvv.nc”, where YYYY is the year and vvv is the version number. File size is approximately 7 Mbyte. Only year 2015 version 300 is currently provided. Product details are available at: http://www.ifac.cnr.it/cryosmos/products/CryoSMOS_D8_EDUM_V2.0.pdf. The data are freely disseminated, however the use of this data set must be cited as: Macelloni G., M. Brogioni, G. Picard and M. Leduc-Leballeur. 2019. SMOS Internal ice-sheet temperature, Version 2. [Indicate subset used]. “Cryosmos. STSE SMOS+Cryosphere”. ESA contract No.4000112262/14/I-NB.</gco:CharacterString>
+        <gco:CharacterString>This dataset contains monthly global carbon products for pico-, nano- and microphytoplankton (C_picophyto, C_nanophyto and C_microphyto, respectively, in mg C m-3) and the total phytoplankton community (C_phyto in mg C m-3) for the period of 1997 to 2020 at 9 km spatial resolution.
+A spectrally-resolved photoacclimation model was unified with a primary production model that simulated photosynthesis as a function of irradiance using a two-parameter photosynthesis versus irradiance (P-I) function to estimate the carbon content of marine phytoplankton based on ocean-colour remote sensing products (Sathyendranath et al. 2020 and references therein for details). The photoacclimation model contains a maximum chlorophyll-to-carbon ratio for three different phytoplankton size classes (pico-, nano- and microphytoplankton) that was inferred from field data, as in Sathyendranath et al. (2020). Chlorophyll-a products were obtained from the European Space Agency (ESA) Ocean Colour Climate Change Initiative (OC-CCI v4.2 dataset). Photosynthetic Active Radiation (PAR) products were obtained from the National Aeronautics and Space Administration (NASA) and were corrected for inter-sensor bias in products. Mixed Layer Depth (MLD) was obtained from the French Research Institute for Exploration of the Sea (Ifremer). In situ datasets P-I parameters were incorporated as described in Kulk et al. (2020).
+The phytoplankton carbon products were generated as part of the ESA Biological Pump and Carbon Exchange Processes (BICEP) project. Support from the Simons Foundation grant ‘Computational Biogeochemical Modeling of Marine Ecosystems’ (CBIOMES, number 549947) and from the National Centre of Earth Observation (NCEO) is acknowledged.
+Data are provided as netCDF files containing carbon products for pico-, nano- and microphytoplankton (C_picophyto, C_nanophyto and C_microphyto, respectively, in mg C m-3) and the total phytoplankton community (C_phyto in mg C m-3) for the period of 1998 to 2020 at 9 km spatial resolution. Additional variables that were used for the calculation of the phytoplankton carbon products are also provided, including chlorophyll-a (chl_a in mg m-3), photosynthetically activate radiation (par, in µmol photons m-2 d-1), mixed layer depth (mld in m) and the mean spectral nondimensional irradiance (mean_spectral_i_star).</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="onGoing">onGoing</gmd:MD_ProgressCode>
@@ -143,7 +146,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>variable:Ice sheet topography</gco:CharacterString>
+            <gco:CharacterString>variable:Mixed Layer Depth</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -153,7 +156,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>theme:Cryosphere</gco:CharacterString>
+            <gco:CharacterString>theme:Oceans</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -163,7 +166,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Antarctica</gco:CharacterString>
+            <gco:CharacterString>Global</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -198,10 +201,10 @@
                 <gco:Decimal>180.0</gco:Decimal>
               </gmd:eastBoundLongitude>
               <gmd:southBoundLatitude>
-                <gco:Decimal>-83.0</gco:Decimal>
+                <gco:Decimal>-90.0</gco:Decimal>
               </gmd:southBoundLatitude>
               <gmd:northBoundLatitude>
-                <gco:Decimal>-60.0</gco:Decimal>
+                <gco:Decimal>90.0</gco:Decimal>
               </gmd:northBoundLatitude>
             </gmd:EX_GeographicBoundingBox>
           </gmd:geographicElement>
@@ -209,8 +212,8 @@
             <gmd:EX_TemporalExtent>
               <gmd:extent>
                 <gml:TimePeriod gml:id="T001">
-                  <gml:beginPosition>2013-01-01 00:00:00+00:00</gml:beginPosition>
-                  <gml:endPosition>2014-12-31 23:59:59+00:00</gml:endPosition>
+                  <gml:beginPosition>1997-09-01 00:00:00+00:00</gml:beginPosition>
+                  <gml:endPosition>2020-11-30 23:59:59+00:00</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>
@@ -287,7 +290,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://www.catds.fr/Products/Available-products-from-CEC-SM/CryoSMOS-project</gmd:URL>
+                <gmd:URL>https://rsg.pml.ac.uk/shared_files/gku/ESA_animation/PC_1-month_9km/</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -306,26 +309,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>http://www.ifac.cnr.it/cryosmos/products/SM_TEST_MIR_ITUDP4_20130101T000000_20141231T000000_200_001_0.nc</gmd:URL>
-              </gmd:linkage>
-              <gmd:protocol>
-                <gco:CharacterString>WWW:LINK</gco:CharacterString>
-              </gmd:protocol>
-              <gmd:name>
-                <gco:CharacterString>access</gco:CharacterString>
-              </gmd:name>
-              <gmd:description>
-                <gco:CharacterString>access</gco:CharacterString>
-              </gmd:description>
-              <gmd:function>
-                <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeSpace="ISOTC211/19115" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
-              </gmd:function>
-            </gmd:CI_OnlineResource>
-          </gmd:onLine>
-          <gmd:onLine>
-            <gmd:CI_OnlineResource>
-              <gmd:linkage>
-                <gmd:URL>https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-temperature-antarctica-cryosmos.json</gmd:URL>
+                <gmd:URL>https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-mixed-layer-depth-dataset-9-km-oc-cci-v42.json</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -359,7 +343,7 @@
     <gmi:MI_AcquisitionInformation>
       <gmi:platform>
         <gmi:MI_Platform>
-          <gmi:identifier>['SMOS']</gmi:identifier>
+          <gmi:identifier>['ENVISAT', 'MERIS', 'MODIS', 'SeaWiFS', 'Sentinel-3', 'VIIRS']</gmi:identifier>
           <gmi:description/>
         </gmi:MI_Platform>
       </gmi:platform>

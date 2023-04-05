@@ -41,7 +41,7 @@
       2021,
       2022
     ],
-    "numberOfProducts": 255,
+    "numberOfProducts": 256,
     "numberOfProjects": 124,
     "numberOfVariables": 340,
     "numberOfThemes": 6
@@ -3693,6 +3693,7 @@
           "description": "Mixed layer depth [m] ",
           "summary": {
             "years": [
+              1997,
               1998,
               1999,
               2000,
@@ -3717,7 +3718,7 @@
               2019,
               2020
             ],
-            "numberOfProducts": 1
+            "numberOfProducts": 2
           }
         },
         {
@@ -3933,7 +3934,7 @@
           2020,
           2021
         ],
-        "numberOfProducts": 76,
+        "numberOfProducts": 77,
         "numberOfVariables": 33
       }
     },
@@ -4037,7 +4038,7 @@
           2020,
           2021
         ],
-        "numberOfProducts": 50,
+        "numberOfProducts": 51,
         "numberOfVariables": 19
       }
     },
@@ -4072,7 +4073,7 @@
           2019,
           2020
         ],
-        "numberOfProducts": 24,
+        "numberOfProducts": 25,
         "numberOfVariables": 15
       }
     },
@@ -4105,7 +4106,7 @@
           2019,
           2020
         ],
-        "numberOfProducts": 19,
+        "numberOfProducts": 20,
         "numberOfVariables": 12
       }
     },
@@ -4138,7 +4139,7 @@
           2019,
           2020
         ],
-        "numberOfProducts": 19,
+        "numberOfProducts": 20,
         "numberOfVariables": 12
       }
     },
@@ -4171,7 +4172,7 @@
           2019,
           2020
         ],
-        "numberOfProducts": 19,
+        "numberOfProducts": 20,
         "numberOfVariables": 12
       }
     },
