@@ -59,7 +59,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-05T13:35:55.948204</gco:DateTime>
+    <gco:DateTime>2023-04-07T11:30:11.694665</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -134,7 +134,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>Investigate the possibility to exploit PRISMA (PRecursore IperSpettrale della Missione Applicativa, an Italian Space Agency (ASI) hyperspectral mission) fine resolution measurements together with daily S5P/TROPOMI and AERONET measurements for motoring environmental dynamics associated with COVID-19 epidemic appearance and evolution in regional scale.</gco:CharacterString>
+        <gco:CharacterString>Recent climate remote study showed essential effect of COVID-19 on trace gases emissions, in particular, of NO2 and CO2. In Europe, Italy was one of the first countries to be infected by the COVID-19 virus, starting in the beginning of February 2020, and numbers soaring up to over 100,000 infections and 20,000 deaths by mid-April. Severe limitations of people movements following the lockdown determined a significant reduction of pollutants concentration mainly due to vehicular traffic (PM10, PM2.5, BC, benzene, CO, and NOx), which is visual, for example, in S5P images of NO2 distributions. The lockdown also led to an appreciable drop in SO2. Despite the significant decrease in NO2, the O3 exhibited a significant increase, probably, due to the minor NO concentration. At the same time the effect on aerosol emission and loading has not been reported yet widely in the scientific literature, although news and social media stories report spectacular cleaner air due to various lock-downs (e.g. “Himalayas being visible from India for the first time in 30 years”). Furthermore, a possible influence of long-term exposure to small particulate matter on COVID-19 mortality has been reported. In general, aerosol distribution is strongly spatially and temporally inhomogeneous. Therefore, to investigate COVID-19 effect on aerosol the remote sensing measurements with frequent revisiting time and fine spatial resolution may be necessary. In this project we investigate the possibility to exploit PRISMA (PRecursore IperSpettrale della Missione Applicativa, an Italian Space Agency (ASI) hyperspectral mission) fine resolution measurements together with daily S5P/TROPOMI and AERONET measurements for motoring environmental dynamics associated with COVID-19 epidemic appearance and evolution in regional scale.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>
@@ -286,7 +286,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://eo4society.esa.int/projects/prisma/</gmd:URL>
+                <gmd:URL/>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>

@@ -48,15 +48,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/in-situ-sealabio.json",
-      "type": "application/json",
-      "title": "In-situ measurements_Baltics"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/eo-based-cdom-baltic-sealabio.json",
       "type": "application/json",
       "title": "EO based Color Disolved Organic Matter_Baltics_S3"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/in-situ-sealabio.json",
+      "type": "application/json",
+      "title": "In-situ measurements_Baltics"
     },
     {
       "rel": "root",
@@ -75,7 +75,7 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
       "type": "application/json"
     }
   ],

@@ -59,7 +59,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-05T13:36:02.042157</gco:DateTime>
+    <gco:DateTime>2023-04-07T11:30:02.840254</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -134,7 +134,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>Develop a scientific glyoxal (CHOCHO) tropospheric column product; Collect independent data sets in order to validate the satellite observations; Pave the way towards an operationalization of the developed S5p glyoxal product; Demonstrate the added-value of the S5p glyoxal product for the user community.</gco:CharacterString>
+        <gco:CharacterString>The GLYRETRO (GLYoxal Retrievals from TROPOMI) activity is one of the seven themes from the ESA S5p innovation (S5p+I) project, which aims at further exploiting the capability of the S5p/TROPOMI instrument with the development of a number of new scientific products. The GLYRETRO project, proposed by both the Royal Belgian Institute for Space Aeronomy and the Institute of Environmental Physics at the University of Bremen, has been successfully kicked-off on July, 1st 2019 and will last two years. The objectives are manifold and can be listed as: To develop a scientific glyoxal (CHOCHO) tropospheric column product; To collect independent data sets in order to validate the satellite observations; To pave the way towards an operationalization of the developed S5p glyoxal product; To demonstrate the added-value of the S5p glyoxal product for the user community.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>

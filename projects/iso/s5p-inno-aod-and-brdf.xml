@@ -59,7 +59,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-05T13:35:47.870085</gco:DateTime>
+    <gco:DateTime>2023-04-07T11:29:57.793992</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -134,7 +134,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>Aerosol and surface reflectance characterisation using capabilities of Sentinel-5p (TROPOMI) measurements.</gco:CharacterString>
+        <gco:CharacterString>The capability of Sentinel-5p for aerosol monitoring is currently not used to its full potential. However, satellite observations in the spectral range from approximately 340 to 400 nm are known to have unique sensitivity to elevation and absorption of tropospheric aerosols. Traditionally, this sensitivity is used in many ozone monitoring instruments such as TOMS, GOME-1, SCIAMACHY, OMI and GOME-2 for deriving UV Aerosol Index (UVAI) that provides very valuable qualitative information about aerosol distribution. However, UVAI does not have explicit geophysical quantitative meaning and, therefore, it is not fully appropriate for utilization in validation of aerosol transport models and other climate applications. The reflectivity of the Earth’s surface is an important input parameter for many satellite retrievals of atmospheric composition. Examples are the retrieval of trace gases such as ozone, NO2, BrO, CH2O, H2O, CO2, CO, and CH4, and of cloud information and aerosol optical depth (AOD). Recent developments in atmospheric remote sensing have focused strongly on deriving and implementing angular-dependent surface BRDF information (as opposed to using traditional, non-directional Lambertian surface reflectivity information), and on obtaining this information on a much higher spatial resolution than before. ESA S5P+I AOD/BRDF project is focused on aerosol and surface reflectance characterisation using capabilities of Sentinel-5p (TROPOMI) measurements. One objective of the project is to achieve quantitative characterization of aerosol properties from Sentinel-5p. Specifically, the objective is to develop the algorithm capable to provide Aerosol Optical Depth (AOD), i.e. aerosol load in the atmosphere as well as to provide information about absorption and type of the aerosol. Another objective of the RFP/ITT is the development of a product of spectral surface BRDF information from (and for) the TROPOMI instrument.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>

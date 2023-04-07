@@ -16,7 +16,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cloud-op-livas.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/clima-cloud-profile-livas.json",
       "type": "application/json"
     },
     {
@@ -26,12 +26,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cloud-od-averaged-livas.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cloud-od-livas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/clima-cloud-profile-livas.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cloud-op-livas.json",
       "type": "application/json"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cloud-od-livas.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cloud-od-averaged-livas.json",
       "type": "application/json"
     },
     {

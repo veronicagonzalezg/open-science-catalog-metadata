@@ -59,7 +59,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-05T13:36:03.079145</gco:DateTime>
+    <gco:DateTime>2023-04-07T11:30:07.254083</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -134,7 +134,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>Development of satellite Solar induced chlorophyll fluorescence (SIF) products</gco:CharacterString>
+        <gco:CharacterString>The ESA –TROPOSIF project is one of the seven themes from the Sentinel-5p+ Innovation (S5p+I) activity funded by ESA, which aims at developing novel scientific products / retrieval methods from the data acquired by the TROPOMI (TROPOspheric Monitoring Instrument) instrument aboard the Copernicus Sentinel-5 Precursor mission launched in October 2017. Although the Sentinel-5P mission was designed to monitor the Earth’s atmosphere, TROPOMI’s spectral and radiometric performance enable to also monitor terrestrial Solar Induced Fluorescence (SIF) with an unprecedented spatial and temporal resolution. Project objectives: The overarching goal of the ESA-TROPOSIF project is twofold: First, a global SIF product from TROPOMI will be derived, which implies new developments in SIF retrieval and the comparison to existing state-of-the-art global SIF data sets from TROPOMI and OCO-2. Second, the resulting SIF data set will be exploited in order to demonstrate the positive impact that the TROPOMI SIF product can have on a range of vegetation and carbon cycle-related research topics. Among others, this will be done through the assimilation of the resulting SIF data set into the state of the art ORCHIDEE terrestrial biosphere model. The investigation of the potential of the developed TROPOMI SIF retrieval for the upcoming Sentinel-4 and Sentinel-5 missions and the promotion of the developed SIF product among the potential climate/land surface modelling community will also be carried out within the project.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>
