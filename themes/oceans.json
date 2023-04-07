@@ -26,6 +26,11 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/polar-low-detection-from-s1-data.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/s5p-inno-s5p-i-oc.json",
       "type": "application/json"
     },
