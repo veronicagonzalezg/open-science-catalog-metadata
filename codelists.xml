@@ -333,6 +333,13 @@ the soil and plants when the ground is at its natural moisture content.</gml:des
       </gmx:CodeDefinition>
     </gmx:codeEntry>
     <gmx:codeEntry>
+      <gmx:CodeDefinition gml:id="OSC_Variable_Polar Lows">
+        <gml:identifier codeSpace="OSC">OSC_Variable_Polar Lows</gml:identifier>
+        <gml:description>Polar Lows are small, but fairly intense maritime cyclones that form poleward of the polar front (Rasmussen and Turner, 2003). The horizontal scale of the polar low is approximately 150 to 600 kilometers, and sustained wind at 10 meter height is near or above gale force (&gt;13,8 m/s). On average, maximum observed wind is at 22 m/s. Polar lows are a wintertime phenomenon that occurs mainly from October until April.</gml:description>
+        <gml:descriptionReference xlink:type="simple" xlink:href="https://resources.eumetrain.org/satmanu/CMs/PL/print.htm"/>
+      </gmx:CodeDefinition>
+    </gmx:codeEntry>
+    <gmx:codeEntry>
       <gmx:CodeDefinition gml:id="OSC_Variable_Air pressure (near surface)">
         <gml:identifier codeSpace="OSC">OSC_Variable_Air pressure (near surface)</gml:identifier>
         <gml:description>Air pressure at a known height above the surface with the height specified in the metadata</gml:description>
