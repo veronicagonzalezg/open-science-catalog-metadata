@@ -16,12 +16,27 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/mean-spectral-dac-for-320-nm-423nm-in-the-atlantic-ocean.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/mean-spectral-dac-from-318-to952nm-of-underwater-light-profiles-rv-polarstern-cruise-ps113.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l3-turbidity-daily-monthly-eo4sibs.json",
       "type": "application/json"
     },
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/diffuse-attenuation-aeolus-innovation-color.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/mean-spectral-dac-from-320-to917nm-from-radiometric-underwater-light-transmission-profiles.json",
       "type": "application/json"
     },
     {

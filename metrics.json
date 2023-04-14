@@ -41,7 +41,7 @@
       2021,
       2022
     ],
-    "numberOfProducts": 264,
+    "numberOfProducts": 272,
     "numberOfProjects": 126,
     "numberOfVariables": 345,
     "numberOfThemes": 6
@@ -940,9 +940,10 @@
           "summary": {
             "years": [
               2016,
-              2017
+              2017,
+              2018
             ],
-            "numberOfProducts": 2
+            "numberOfProducts": 5
           }
         },
         {
@@ -1005,7 +1006,7 @@
               2019,
               2020
             ],
-            "numberOfProducts": 6
+            "numberOfProducts": 11
           }
         },
         {
@@ -3883,27 +3884,6 @@
   ],
   "missions": [
     {
-      "name": "CryoSat-2",
-      "summary": {
-        "years": [
-          2010,
-          2011,
-          2012,
-          2013,
-          2014,
-          2015,
-          2016,
-          2017,
-          2018,
-          2019,
-          2020,
-          2021
-        ],
-        "numberOfProducts": 34,
-        "numberOfVariables": 12
-      }
-    },
-    {
       "name": "Sentinel-5p",
       "summary": {
         "years": [
@@ -3928,8 +3908,29 @@
           2021,
           2022
         ],
-        "numberOfProducts": 7,
-        "numberOfVariables": 4
+        "numberOfProducts": 15,
+        "numberOfVariables": 6
+      }
+    },
+    {
+      "name": "CryoSat-2",
+      "summary": {
+        "years": [
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021
+        ],
+        "numberOfProducts": 34,
+        "numberOfVariables": 12
       }
     },
     {

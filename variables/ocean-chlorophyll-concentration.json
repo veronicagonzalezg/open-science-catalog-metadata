@@ -16,12 +16,32 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/high-resolution-phytoplankton-group-chl-a-data-from-high-spectrally-resolved-radiometric-underwater-light-transmission-profiles-by-an-undulating-platform-towed-behind-the-ship-during-polarstern-cruise-ps113.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-particulate-organic-carbon-v5-bicep.json",
       "type": "application/json"
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/phytoplankton-pigment-concentration-and-phytoplankton-groups-polarstern-cruise-ps113.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/phytoplankton-pigment-concentrations-polarstern-cruise-ps121.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/secchi-disk-depth-lpf-physioglob.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/phytoplankton-group-chl-ll-using-the-mean-dac-over-the-first-optical-depth-kdmean-of-the-measured-radiometric-profile.json",
       "type": "application/json"
     },
     {
@@ -42,6 +62,11 @@
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/particulate-backscatter-aeolus-innovation-color.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/high-resolution-phytoplankton-group-chl-a-data-from-high-spectrally-resolved-radiometric-underwater-light-transmission-profiles-obtained-at-discrete-light-stations-during-polarstern-cruise-ps113.json",
       "type": "application/json"
     },
     {

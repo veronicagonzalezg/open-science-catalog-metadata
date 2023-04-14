@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-14T14:30:18.656831</gco:DateTime>
+    <gco:DateTime>2023-04-14T14:32:09.295746</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -128,7 +128,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>This dataset provides daily ungridded (L2B) SIF and surface reflectance estimates derived from TROPOMI observations covering the period May 2018-March 2021. SIF data are estimated from two fitting windows: from the 743-758 nm window (baseline product) and from the extended 735-758 nm window (secondary product). The L2B TROPOSIF products are provided in netCDF-4 files.</gco:CharacterString>
+        <gco:CharacterString>This dataset provides daily ungridded (L2B) SIF and surface reflectance estimates derived from TROPOMI observations covering the period May 2018-March 2021. The TROPOSIF products consists in: SIF estimates at 740 nm derived from a data driven approach based on a linear forward model fitting TOA radiances in the far-red spectral region; SIF data set derived from the 743–758 nm window (baseline  SIF product); SIF data set from the extended 735–758 nm window (secondary SIF product); The SIF data from the 735–758 nm window have an enhanced signal-to-noise ratio but a higher sensitivity to atmospheric conditions than the SIF estimates from the 743–758 nm window; Spectral surface reflectance in 7 bands covering the 665–785 nm range.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>
@@ -153,7 +153,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>theme:Land</gco:CharacterString>
+            <gco:CharacterString>theme:Atmosphere</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -209,7 +209,7 @@
             <gmd:EX_TemporalExtent>
               <gmd:extent>
                 <gml:TimePeriod gml:id="T001">
-                  <gml:beginPosition>2018-01-01 00:00:00+00:00</gml:beginPosition>
+                  <gml:beginPosition>2018-05-01 00:00:00+00:00</gml:beginPosition>
                   <gml:endPosition>2021-12-31 23:59:59+00:00</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
@@ -217,9 +217,6 @@
           </gmd:temporalElement>
         </gmd:EX_Extent>
       </gmd:extent>
-      <gmd:supplementalInformation>
-        <gco:CharacterString>https://s5p-troposif.noveltis.fr/wp-content/uploads/2021/05/NOV-FE-0956-MU-019_v2.0.pdf</gco:CharacterString>
-      </gmd:supplementalInformation>
     </gmd:MD_DataIdentification>
   </gmd:identificationInfo>
   <gmd:contentInfo>
@@ -290,7 +287,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://s5p-troposif.noveltis.fr/</gmd:URL>
+                <gmd:URL>http://ftp.sron.nl/open-access-data-2/TROPOMI/tropomi/sif/v2.1/l2b/</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -309,7 +306,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>http://ftp.sron.nl/open-access-data-2/TROPOMI/tropomi/sif/v2.1/l2b/</gmd:URL>
+                <gmd:URL>https://s5p-troposif.noveltis.fr/wp-content/uploads/2021/05/NOV-FE-0956-MU-019_v2.0.pdf</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
