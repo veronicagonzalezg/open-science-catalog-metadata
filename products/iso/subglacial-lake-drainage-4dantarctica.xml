@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-14T13:04:38.524327</gco:DateTime>
+    <gco:DateTime>2023-04-14T14:30:14.248662</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -123,12 +123,12 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>Subglacial Lake Drainage and Filling_Antarctica_Multimission</gco:CharacterString>
+            <gco:CharacterString>Subglacial Lake Drainage and Filling Antarctica Multimission</gco:CharacterString>
           </gmd:title>
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>Repeat Subglacial Lake Drainage and Filling Beneath Thwaites Glacier</gco:CharacterString>
+        <gco:CharacterString>Repeat Subglacial Lake Drainage and Filling Beneath Thwaites Glacier. Active subglacial lakes have been identified throughout Antarctica, offering a window into subglacial environments and their impact on ice sheet mass balance. Here we use high-resolution altimetry measurements from 2010 to 2019 to show that a lake system under the Thwaites Glacier undertook a large episode of activity in 2017, only four years after the system underwent a substantial drainage event. Our observations suggest significant modifications of the drainage system between the two events, with 2017 experiencing greater upstream discharge, faster lake-to-lake connectivity, and the transfer of water within a closed system. Measured rates of lake recharge during the inter-drainage period are 137% larger than modeled estimates, suggesting processes that drive subglacial meltwater production, such as geothermal heat flux or basal friction, are currently underestimated.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>
@@ -217,9 +217,6 @@
           </gmd:temporalElement>
         </gmd:EX_Extent>
       </gmd:extent>
-      <gmd:supplementalInformation>
-        <gco:CharacterString>https://4d-antarctica.org/wp-content/uploads/2021/01/Malczyk_etal_2020_data_v2.docx</gco:CharacterString>
-      </gmd:supplementalInformation>
     </gmd:MD_DataIdentification>
   </gmd:identificationInfo>
   <gmd:contentInfo>
@@ -290,7 +287,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>http://www.4d-antarctica.org/</gmd:URL>
+                <gmd:URL>https://4d-antarctica.org/wp-content/uploads/2021/01/Malczyk_etal_2020_data_v2.tar</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -309,7 +306,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://4d-antarctica.org/wp-content/uploads/2021/01/Malczyk_etal_2020_data_v2.tar</gmd:URL>
+                <gmd:URL>https://doi.org/10.1029/2020GL089658</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>

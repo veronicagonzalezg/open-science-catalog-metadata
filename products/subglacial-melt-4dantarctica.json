@@ -74,11 +74,6 @@
       "type": "application/json"
     },
     {
-      "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/4d-antarctica.json",
-      "type": "application/json"
-    },
-    {
       "rel": "self",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/subglacial-melt-4dantarctica.json",
       "type": "application/json"

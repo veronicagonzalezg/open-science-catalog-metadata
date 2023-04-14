@@ -164,6 +164,13 @@
       </gmx:CodeDefinition>
     </gmx:codeEntry>
     <gmx:codeEntry>
+      <gmx:CodeDefinition gml:id="OSC_Variable_Omega_ca: Calcite saturation state">
+        <gml:identifier codeSpace="OSC">OSC_Variable_Omega_ca: Calcite saturation state</gml:identifier>
+        <gml:description>A measure of the thermodynamic tendency for the mineral calcium carbonate to form or to dissolve.</gml:description>
+        <gml:descriptionReference xlink:type="simple" xlink:href="http://www.necan.org/lexicon/5"/>
+      </gmx:CodeDefinition>
+    </gmx:codeEntry>
+    <gmx:codeEntry>
       <gmx:CodeDefinition gml:id="OSC_Variable_Upward spectral radiance at TOA">
         <gml:identifier codeSpace="OSC">OSC_Variable_Upward spectral radiance at TOA</gml:identifier>
         <gml:description>Upward radiant power measured at the top of the atmosphere per area unit, per solid angle, and per wavelength interval. Spectral range 0.2-200 &#181;m. Resolving power ?/??= 1000. Accuracy quoted as SNR (Signal-to-Noise-Ratio), actually SNR^-1 so that smaller figure means better performance, as usual.</gml:description>
@@ -1914,6 +1921,13 @@ the soil and plants when the ground is at its natural moisture content.</gml:des
         <gml:identifier codeSpace="OSC">OSC_Variable_C10H16 (alfapinene) Mole Fraction</gml:identifier>
         <gml:description>3D field of amount&#160; of&#160;C10H16 (alfapinene,expressed in moles) divided by the total amount of all constituents in dry air (also expressed in moles). &#160;</gml:description>
         <gml:descriptionReference xlink:type="simple" xlink:href="https://space.oscar.wmo.int/variables/view/c10h16_alfapinene_mole_fraction"/>
+      </gmx:CodeDefinition>
+    </gmx:codeEntry>
+    <gmx:codeEntry>
+      <gmx:CodeDefinition gml:id="OSC_Variable_Omega_ar: Aragonite saturation state">
+        <gml:identifier codeSpace="OSC">OSC_Variable_Omega_ar: Aragonite saturation state</gml:identifier>
+        <gml:description>A measure of the thermodynamic tendency for the mineral calcium carbonate to form or to dissolve. The symbol &#937; (omega) is often used as shorthand for calcium carbonate saturation state. By convention, &#937; is usually expressed with respect to aragonite, one of the two most abundant forms of calcium carbonate in the ocean. An aragonite saturation state (&#937;ar) greater than 1.0 indicates supersaturation, while values less than 1.0 indicate undersaturation with instability favoring dissolution. Recent research shows that calcifying organisms require &#937;ar well in excess of 1.0 to optimally produce shells or skeletons. Levels below 1.0 are considered corrosive, and skeletons and shells may be subject to dissolution.</gml:description>
+        <gml:descriptionReference xlink:type="simple" xlink:href="http://www.necan.org/lexicon/5"/>
       </gmx:CodeDefinition>
     </gmx:codeEntry>
     <gmx:codeEntry>

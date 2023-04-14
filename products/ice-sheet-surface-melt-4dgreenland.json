@@ -76,11 +76,6 @@
       "type": "application/json"
     },
     {
-      "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/4d-greenland.json",
-      "type": "application/json"
-    },
-    {
       "rel": "self",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-surface-melt-4dgreenland.json",
       "type": "application/json"

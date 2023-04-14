@@ -18,7 +18,7 @@
         <gco:CharacterString>Diego Fernandez</gco:CharacterString>
       </gmd:individualName>
       <gmd:organisationName>
-        <gco:CharacterString>UNIVERSITY OF EXETER (GB), EIDGEN√ñSSISCHE TECHNISCHE HOCHSCHULE ZURICH (ETH ZURICH) (CH), IFREMER (FR), NERC, PLYMOUTH MARINE LABORATORY (GB)</gco:CharacterString>
+        <gco:CharacterString>UNIVERSITY OF EXETER (GB), EIDGENÖSSISCHE TECHNISCHE HOCHSCHULE ZURICH (ETH ZURICH) (CH), IFREMER (FR), NERC, PLYMOUTH MARINE LABORATORY (GB)</gco:CharacterString>
       </gmd:organisationName>
       <gmd:contactInfo>
         <gmd:CI_Contact>
@@ -59,7 +59,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-14T13:04:11.148065</gco:DateTime>
+    <gco:DateTime>2023-04-14T14:29:49.880916</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -134,7 +134,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>Earth Observation for marine carbonate chemistry: development of algorithms linking satellite variables with marine carbonate system parameters, characterising and analysing how upwelling (of low pH waters) and compound events impact the carbonate system, and characterising the flow and impact on marine ecosystems of low pH waters from large river systems.</gco:CharacterString>
+        <gco:CharacterString>The Satellite Oceanographic Datasets for Acidification (OceanSODA) project will further develop the use of satellite Earth Observation for studying and monitoring marine carbonate chemistry. Besides further developments of algorithms linking satellite variables with marine carbonate system parameters and the associated validation, a distinct focus will be on selected scientific studies and downstream impact assessment. This will include characterising and analysing how upwelling (of low pH waters) and compound events impact the carbonate system, and characterising the flow and impact on marine ecosystems of low pH waters from large river systems. The project will also work closely with the World Wide Fund for Nature (WWF), the U.S. National Oceanic and Atmospheric Administration (NOAA) and The Ocean Foundation, to support their work on coral reef conservation, the designation of marine protected areas and investigation of wild fisheries health and sustainable management.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>

@@ -41,9 +41,9 @@
       2021,
       2022
     ],
-    "numberOfProducts": 259,
+    "numberOfProducts": 264,
     "numberOfProjects": 126,
-    "numberOfVariables": 343,
+    "numberOfVariables": 345,
     "numberOfThemes": 6
   },
   "themes": [
@@ -100,6 +100,9 @@
           "description": "Map of ice sheet height over land .",
           "summary": {
             "years": [
+              2007,
+              2008,
+              2009,
               2010,
               2011,
               2012,
@@ -113,7 +116,7 @@
               2020,
               2021
             ],
-            "numberOfProducts": 31
+            "numberOfProducts": 32
           }
         },
         {
@@ -320,7 +323,7 @@
         ],
         "numberOfProducts": 0,
         "numberOfProjects": 0,
-        "numberOfVariables": 42
+        "numberOfVariables": 44
       },
       "variables": [
         {
@@ -362,6 +365,14 @@
               2020
             ],
             "numberOfProducts": 2
+          }
+        },
+        {
+          "name": "Omega_ca: Calcite saturation state",
+          "description": "A measure of the thermodynamic tendency for the mineral calcium carbonate to form or to dissolve.",
+          "summary": {
+            "years": [],
+            "numberOfProducts": 0
           }
         },
         {
@@ -641,7 +652,7 @@
               2019,
               2020
             ],
-            "numberOfProducts": 2
+            "numberOfProducts": 3
           }
         },
         {
@@ -842,7 +853,7 @@
               2019,
               2020
             ],
-            "numberOfProducts": 1
+            "numberOfProducts": 2
           }
         },
         {
@@ -1029,6 +1040,14 @@
           }
         },
         {
+          "name": "Omega_ar: Aragonite saturation state",
+          "description": "A measure of the thermodynamic tendency for the mineral calcium carbonate to form or to dissolve. The symbol \u03a9 (omega) is often used as shorthand for calcium carbonate saturation state. By convention, \u03a9 is usually expressed with respect to aragonite, one of the two most abundant forms of calcium carbonate in the ocean. An aragonite saturation state (\u03a9ar) greater than 1.0 indicates supersaturation, while values less than 1.0 indicate undersaturation with instability favoring dissolution. Recent research shows that calcifying organisms require \u03a9ar well in excess of 1.0 to optimally produce shells or skeletons. Levels below 1.0 are considered corrosive, and skeletons and shells may be subject to dissolution.",
+          "summary": {
+            "years": [],
+            "numberOfProducts": 0
+          }
+        },
+        {
           "name": "Dominant wave direction",
           "description": "One feature of the ocean wave spectrum. It is the direction of the most energetic wave in the spectrum - Physical unit: [ degrees ] - Accuracy unit: [ degrees ].",
           "summary": {
@@ -1189,11 +1208,25 @@
       "website": "https://eo4society.esa.int/tag/solid-earth/",
       "summary": {
         "years": [
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
           2009,
           2010,
           2011,
           2012,
           2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
           2020,
           2021,
           2022
@@ -1230,9 +1263,27 @@
           "description": "Geothermal energy is heat derived from Earth's interior. Resources include hot springs and wells, hot dry rock, and even molten rock. These may be converted into heat and electricity.",
           "summary": {
             "years": [
-              2012
+              2001,
+              2002,
+              2003,
+              2004,
+              2005,
+              2006,
+              2007,
+              2008,
+              2009,
+              2010,
+              2011,
+              2012,
+              2013,
+              2014,
+              2015,
+              2016,
+              2017,
+              2018,
+              2019
             ],
-            "numberOfProducts": 3
+            "numberOfProducts": 4
           }
         },
         {
@@ -3807,7 +3858,7 @@
               2020,
               2021
             ],
-            "numberOfProducts": 3
+            "numberOfProducts": 4
           }
         },
         {
@@ -4004,8 +4055,8 @@
           2021,
           2022
         ],
-        "numberOfProducts": 36,
-        "numberOfVariables": 16
+        "numberOfProducts": 38,
+        "numberOfVariables": 17
       }
     },
     {
@@ -4073,8 +4124,8 @@
           2020,
           2021
         ],
-        "numberOfProducts": 77,
-        "numberOfVariables": 32
+        "numberOfProducts": 79,
+        "numberOfVariables": 33
       }
     },
     {
@@ -4158,6 +4209,15 @@
       "name": "Sentinel-1",
       "summary": {
         "years": [
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009,
           2010,
           2011,
           2012,
@@ -4172,8 +4232,8 @@
           2021,
           2022
         ],
-        "numberOfProducts": 31,
-        "numberOfVariables": 10
+        "numberOfProducts": 33,
+        "numberOfVariables": 12
       }
     },
     {
@@ -4417,10 +4477,11 @@
           2017,
           2018,
           2019,
-          2020
+          2020,
+          2021
         ],
-        "numberOfProducts": 2,
-        "numberOfVariables": 2
+        "numberOfProducts": 3,
+        "numberOfVariables": 3
       }
     },
     {

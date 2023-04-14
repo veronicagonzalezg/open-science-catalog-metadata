@@ -59,7 +59,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-14T13:04:17.896064</gco:DateTime>
+    <gco:DateTime>2023-04-14T14:29:55.471042</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -134,7 +134,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>Advancing the understanding of the Antarctic Ice Sheet‚ supra and sub-glacial hydrology, its evolution, and its role within the broader ice sheet and ocean systems.</gco:CharacterString>
+        <gco:CharacterString>Despite the key role that hydrology plays on the ice sheet environment, there is still no global hydrological budget for Antarctica. There is currently a lack of global data on supra- and sub-glacial hydrology, and no systems are in place for continuous monitoring of it or its impact on ice dynamics. The overall aim of 4DAntarctica is to advance our understanding of the Antarctic Ice Sheet’s supra and sub-glacial hydrology, its evolution, and its role within the broader ice sheet and ocean systems. We designed our programme of work to address the following specific objectives: Creating and consolidating an unprecedented dataset composed of ice-sheet wide hydrology and lithospheric products, Earth Observation datasets, and state of the art ice-sheet and hydrology models. Improving our understanding of the physical interaction between electromagnetic radiation, the ice sheet, and liquid water. Developing techniques and algorithms to detect surface and basal melting from satellite observations in conjunction with numerical modelling. Applying these new techniques at local sites and across the continental ice sheet to monitor water dynamics and derive new hydrology datasets. Performing a scientific assessment of Antarctic Ice Sheet hydrology and of its role in the current changes the continent is experiencing. Proposing a future roadmap for enhanced observation of Antarctica’s hydrological cycle. To do so, the project will use a large range of Earth Observation missions (e.g. Sentinel-1, Sentinel-2, SMOS, CryoSat-2, GOCE, TanDEM-X, AMSR2, Landsat, Icesat-2) coupled with ice-sheet and hydrological models. By the end of this project, the programme of work presented here will lead to a dramatically improved quantification of meltwater in Antarctica, an improved understanding of fluxes across the continent and to the ocean, and an improved understanding of the impact of the hydrological cycle on ice sheet’s mass balance, its basal environment, and its vulnerability to climate change.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="onGoing">onGoing</gmd:MD_ProgressCode>
@@ -159,7 +159,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>4DANTARCTICA</gco:CharacterString>
+            <gco:CharacterString>4D-ANTARCTICA</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>

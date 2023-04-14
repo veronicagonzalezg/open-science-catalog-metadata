@@ -16,6 +16,11 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/subglacial-melt-maps.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geothermal-heat-flow-greenland-3d-earth.json",
       "type": "application/json"
     },

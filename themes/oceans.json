@@ -206,6 +206,11 @@
     },
     {
       "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/omega-ca-calcite-saturation-state.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/bathymetry.json",
       "type": "application/json"
     },
@@ -362,6 +367,11 @@
     {
       "rel": "child",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/export-production.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/omega-ar-aragonite-saturation-state.json",
       "type": "application/json"
     },
     {

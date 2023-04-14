@@ -41,6 +41,11 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-melt-detection-from-active-microwave-ascat-melt.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-point-russian-arctic-cryotop-evolution.json",
       "type": "application/json"
     },
