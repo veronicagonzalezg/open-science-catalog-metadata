@@ -186,7 +186,7 @@
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/irrigation-amount.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/irrigation-water-use.json",
       "type": "application/json"
     },
     {

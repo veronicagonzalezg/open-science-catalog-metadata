@@ -43,19 +43,19 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sm-based-inversion-approach-murray-darling-irrigation.json",
+      "href": null,
       "type": "application/json",
       "title": "SM-based inversion approach MURRAY-DARLING Irrigation"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sm-based-inversion-approach-po-irrigation.json",
+      "href": null,
       "type": "application/json",
       "title": "SM-based inversion approach PO Irrigation"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sm-based-inversion-approach-ebro-irrigation.json",
+      "href": null,
       "type": "application/json",
       "title": "SM-based inversion approach EBRO Irrigation"
     },
