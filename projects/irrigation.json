@@ -43,21 +43,21 @@
     },
     {
       "rel": "item",
-      "href": null,
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sm-based-inversion-approach-murray-darling-irrigation.json",
       "type": "application/json",
-      "title": "SM-based inversion approach MURRAY-DARLING Irrigation"
+      "title": "Regional irrigation water use at high-resolution - MURRAY-DARLING basin"
     },
     {
       "rel": "item",
-      "href": null,
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sm-based-inversion-approach-po-irrigation.json",
       "type": "application/json",
-      "title": "SM-based inversion approach PO Irrigation"
+      "title": "Regional irrigation water use at high-resolution - PO valley"
     },
     {
       "rel": "item",
-      "href": null,
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sm-based-inversion-approach-ebro-irrigation.json",
       "type": "application/json",
-      "title": "SM-based inversion approach EBRO Irrigation"
+      "title": "Regional irrigation water use at high-resolution - EBRO basin"
     },
     {
       "rel": "root",

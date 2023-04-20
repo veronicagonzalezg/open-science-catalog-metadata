@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-20T08:47:21.872351</gco:DateTime>
+    <gco:DateTime>2023-04-20T09:45:04.780421</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -123,7 +123,7 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>SM-based inversion approach MURRAY-DARLING Irrigation</gco:CharacterString>
+            <gco:CharacterString>Regional irrigation water use at high-resolution - MURRAY-DARLING basin</gco:CharacterString>
           </gmd:title>
         </gmd:CI_Citation>
       </gmd:citation>
@@ -143,7 +143,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>variable:Irrigation amount</gco:CharacterString>
+            <gco:CharacterString>variable:Irrigation water use</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
