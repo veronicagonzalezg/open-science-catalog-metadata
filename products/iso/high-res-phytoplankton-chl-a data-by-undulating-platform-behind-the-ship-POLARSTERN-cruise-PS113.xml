@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <gmi:MI_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd http://www.isotc211.org/2005/gmi http://www.isotc211.org/2005/gmx/gmi.xsd">
   <gmd:fileIdentifier>
-    <gco:CharacterString>high-resolution-phytoplankton-group-chl-a-data-from-high-spectrally-resolved-radiometric-underwater-light-transmission-profiles-by-an-undulating-platform-towed-behind-the-ship-during-polarstern-cruise-PS113</gco:CharacterString>
+    <gco:CharacterString>high-res-phytoplankton-chl-a data-by-undulating-platform-behind-the-ship-POLARSTERN-cruise-PS113</gco:CharacterString>
   </gmd:fileIdentifier>
   <gmd:language>
     <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeSpace="ISO 639-2" codeListValue="eng">eng</gmd:LanguageCode>
@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-21T12:32:32.821116</gco:DateTime>
+    <gco:DateTime>2023-04-21T12:34:02.507501</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -123,7 +123,7 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>High resolution phytoplankton group Chlorophyll a data from high spectrally resolved radiometric underwater light transmission profiles obtained by an undulating platform towed behind the ship during POLARSTERN cruise PS113 in the Atlantic Ocean</gco:CharacterString>
+            <gco:CharacterString>High resolution phytoplankton Chl-a data obtained by undulating platform towed behind the ship (POLARSTERN cruise PS113)</gco:CharacterString>
           </gmd:title>
         </gmd:CI_Citation>
       </gmd:citation>
@@ -328,7 +328,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://eoepca.github.io/open-science-catalog-metadata/products/high-resolution-phytoplankton-group-chl-a-data-from-high-spectrally-resolved-radiometric-underwater-light-transmission-profiles-by-an-undulating-platform-towed-behind-the-ship-during-polarstern-cruise-ps113.json</gmd:URL>
+                <gmd:URL>https://eoepca.github.io/open-science-catalog-metadata/products/high-res-phytoplankton-chl-a-data-by-undulating-platform-behind-the-ship-polarstern-cruise-ps113.json</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>

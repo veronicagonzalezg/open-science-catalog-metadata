@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-21T12:32:35.135809</gco:DateTime>
+    <gco:DateTime>2023-04-21T12:33:58.332990</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -123,7 +123,7 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>Mean spectral diffuse attenuation coefficients from 318 to 952 nm of underwater light profiles measured at discrete stations with radiometry during RV Polarstern cruise PS113 in the Atlantic Ocean</gco:CharacterString>
+            <gco:CharacterString>Mean spectral DAC from 318-952nm of light profiles measured at discrete stations (RV Polarstern cruise PS113)</gco:CharacterString>
           </gmd:title>
         </gmd:CI_Citation>
       </gmd:citation>

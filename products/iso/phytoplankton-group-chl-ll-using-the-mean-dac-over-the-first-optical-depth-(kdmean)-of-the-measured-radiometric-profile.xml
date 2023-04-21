@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-21T12:32:37.554206</gco:DateTime>
+    <gco:DateTime>2023-04-21T12:34:01.208683</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -123,7 +123,7 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>Phytoplankton group Chlorophyll a data derived using the mean diffuse attenuation over the first optical depth (kdmean) of the measured radiometric profile obtained during POLARSTERN cruise PS113 in the Atlantic Ocean</gco:CharacterString>
+            <gco:CharacterString>Phytoplankton group Chl-a using mean DAC over kdmean of the radiometric profile (Polarstern cruise PS113)</gco:CharacterString>
           </gmd:title>
         </gmd:CI_Citation>
       </gmd:citation>

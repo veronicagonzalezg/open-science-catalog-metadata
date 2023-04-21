@@ -16,11 +16,6 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/high-resolution-phytoplankton-group-chl-a-data-from-high-spectrally-resolved-radiometric-underwater-light-transmission-profiles-by-an-undulating-platform-towed-behind-the-ship-during-polarstern-cruise-ps113.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-particulate-organic-carbon-v5-bicep.json",
       "type": "application/json"
     },
@@ -46,6 +41,11 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/high-res-phytoplankton-chl-a-data-by-undulating-platform-behind-the-ship-polarstern-cruise-ps113.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/l4-chla-eo4sibs.json",
       "type": "application/json"
     },
@@ -61,12 +61,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/particulate-backscatter-aeolus-innovation-color.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/high-res-phytoplankton-chl-a-data-at-discrete-light-stations-polarstern-cruise-ps113.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/high-resolution-phytoplankton-group-chl-a-data-from-high-spectrally-resolved-radiometric-underwater-light-transmission-profiles-obtained-at-discrete-light-stations-during-polarstern-cruise-ps113.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/particulate-backscatter-aeolus-innovation-color.json",
       "type": "application/json"
     },
     {

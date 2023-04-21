@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-21T12:32:58.873459</gco:DateTime>
+    <gco:DateTime>2023-04-21T12:34:26.284755</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -123,7 +123,7 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>Mean spectral diffuse attenuation coefficients from 320 to 917 nm from high spectrally resolved radiometric underwater light transmission profiles obtained by an undulating platform towed behind the ship</gco:CharacterString>
+            <gco:CharacterString>Mean spectral DAC from 320-917nm from light transmission profiles by an undulating platform towed behind the ship</gco:CharacterString>
           </gmd:title>
         </gmd:CI_Citation>
       </gmd:citation>

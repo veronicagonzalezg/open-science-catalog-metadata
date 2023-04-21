@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-21T12:32:33.613173</gco:DateTime>
+    <gco:DateTime>2023-04-21T12:33:56.521826</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -123,7 +123,7 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>Mean spectral diffuse attenuation coefficients averaged for 320 nm to 338.5 nm (UVAB), 356.5 nm to 390 nm (UVA) and 390 nm to 423 nm (blue) in the Atlantic Ocean from Sentinel-5P instrument TROPOMI</gco:CharacterString>
+            <gco:CharacterString>Mean spectral DAC avg for 320-338.5nm (UVAB) 356.5 - 390 nm (UVA) &amp; 390 - 423 nm in the Atlantic Ocean from S5P (TROPOMI)</gco:CharacterString>
           </gmd:title>
         </gmd:CI_Citation>
       </gmd:citation>
