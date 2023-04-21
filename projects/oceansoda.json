@@ -42,43 +42,13 @@
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/oceansoda-ethz.json",
       "type": "application/json",
-      "title": "OceanSODA-ETHZ: A global gridded dataset of the surface ocean carbonate system for seasonal to decadal studies of ocean acidification (v2021)"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-ocean-pco2-oceansoda.json",
-      "type": "application/json",
-      "title": "Surface-ocean_pCO2_Global_v2021"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/suface-ocean-ph-oceansoda.json",
-      "type": "application/json",
-      "title": "Surface-ocean_pH_Global_v2021"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-ocean-omega-aragonite-saturation-oceansoda.json",
-      "type": "application/json",
-      "title": "Surface-ocean_Omega_Aragonite Saturation State_Global_v2021"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-ocean-dic-oceansoda.json",
-      "type": "application/json",
-      "title": "Surface-ocean_Dissolved Inorganic Carbon_Global_v2021"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-ocean-total-alcalinity-oceansoda.json",
-      "type": "application/json",
-      "title": "Surface-ocean_Total Alcalinity_Global_v2021"
+      "title": "OceanSODA-ETHZ: A global gridded dataset of the surface ocean carbonate system (v2021)"
     },
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/oceanic-total-alkalinity-and-dissolved-inorganic-carbon-oceansoda.json",
       "type": "application/json",
-      "title": "Results and analysis of oceanic total alkalinity and dissolved inorganic carbon estimated from space borne, interpolated in situ, climatological and Earth system model data."
+      "title": "Results and analysis of oceanic TA and DIC interpolated in situ (CORA)"
     },
     {
       "rel": "root",
