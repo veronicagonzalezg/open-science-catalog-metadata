@@ -49,6 +49,30 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gridded-subglacial-discharge-4dantarctica.json",
+      "type": "application/json",
+      "title": "Modelled subglacial discharge and drainage pathways"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-temperature-smos-4dantarctica.json",
+      "type": "application/json",
+      "title": "IceTemperature_Antarctica_SMOS"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/subglacial-lakes-4dantarctica.json",
+      "type": "application/json",
+      "title": "Modelled subglacial lake locations"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-melt-ascat-4dantarctica.json",
+      "type": "application/json",
+      "title": "Surface Melt Classification_Antarctica_ASCAT_v1"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geothermal-heat-flux-4dantarctica.json",
       "type": "application/json",
       "title": "Geothermal heat flux estimate from aeromagnetic data"
@@ -61,9 +85,39 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/radar-brightness-s1-4dantarctica.json",
+      "type": "application/json",
+      "title": "Radar Brightness_Antarctica_Sentinel-1_v1"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/supraglacial-lakes-west-4dantarctica.json",
       "type": "application/json",
       "title": "Supraglacial lakes and channels in West Antarctica and Antarctic Peninsula during January 2017 (v.1.1)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/melt-indicator-4dantarctica.json",
+      "type": "application/json",
+      "title": "MultiFrequenciesMeltIndicator_Antarctica_Multimission_2012-2022"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/subglacial-melt-4dantarctica.json",
+      "type": "application/json",
+      "title": "Subglacial Melt"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-melt-s1-4dantarctica.json",
+      "type": "application/json",
+      "title": "Surface Melt Classification_Antarctic-Peninsula_Sentinel-1_v1"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/subglacial-catchements-4dantarctica.json",
+      "type": "application/json",
+      "title": "Modelled subglacial catchement boundaries"
     },
     {
       "rel": "item",

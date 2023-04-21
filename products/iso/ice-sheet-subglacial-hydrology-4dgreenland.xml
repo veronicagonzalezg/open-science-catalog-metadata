@@ -9,6 +9,9 @@
   <gmd:characterSet>
     <gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeSpace="ISOTC211/19115" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
   </gmd:characterSet>
+  <gmd:parentIdentifier>
+    <gco:CharacterString>4d-greenland</gco:CharacterString>
+  </gmd:parentIdentifier>
   <gmd:hierarchyLevel>
     <gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeSpace="ISOTC211/19115" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
   </gmd:hierarchyLevel>
@@ -50,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-20T09:44:59.193079</gco:DateTime>
+    <gco:DateTime>2023-04-21T09:27:40.174280</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -128,7 +131,7 @@
         <gco:CharacterString>The movement of glaciers and ice sheets is determined by several factors, with subglacial hydrology playing a major role. Liquid water can enhance ice-sheet flow velocities by basal lubrication and add heat to the ice by cryo-hydrologic warming. The faster motion of the ice sheet induced by basal lubrication will increase frictional heating, leading to a likewise increase in melting, initiating a positive feedback mechanism. Thus, the subglacial hydrology is of great interest. However, basal melt under the Greenland Ice Sheet is inherently difficult to quantify and has been measured directly in only a very few locations (e.g., at ice-core drill sites). Most of our knowledge of basal melt stems from inferred values based on, for example, ice-penetrating radar with reported values spanning orders of magnitude. Progress has been made in distinguishing between wet and frozen conditions at the bed, yet significant disagreement still exists between models and observations, and between different models.  This is problematic because the basal mass budget of Greenland thus remains largely unconstrained. In the 4DGreenland subglacial activity, we will explore the use of Earth Observation datasets for deriving information on the subglacial hydrology to gain insights into its temporal and spatial variations and characteristics. Assessing the ice-sheet scale geothermal heat sources is an essential product hereof.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
-        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>
+        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="planned">planned</gmd:MD_ProgressCode>
       </gmd:status>
       <gmd:resourceMaintenance>
         <gmd:MD_MaintenanceInformation>
@@ -284,7 +287,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://4dgreenland.eo4cryo.dk/</gmd:URL>
+                <gmd:URL/>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>

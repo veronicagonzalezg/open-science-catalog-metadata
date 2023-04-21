@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2023-04-20T09:45:00.125018</gco:DateTime>
+    <gco:DateTime>2023-04-21T09:27:41.028038</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -287,7 +287,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>http://cryoportal.enveo.at/data_track/4DGreenland_GIS-ASCAT-melt_maps.1.0_20230130.zip</gmd:URL>
+                <gmd:URL>http://cryoportal.enveo.at/dataset/663/</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>

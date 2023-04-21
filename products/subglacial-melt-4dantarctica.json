@@ -8,16 +8,14 @@
     "title": "Subglacial Melt",
     "description": "Subglacial Melt Calculation for differing geothermal heat flux products",
     "osc:missions": [],
-    "osc:project": "4DANTARCTICA",
+    "osc:project": "4D-ANTARCTICA",
     "osc:themes": [
       "Cryosphere"
     ],
     "osc:variable": "Geothermal energy",
-    "osc:status": "ONGOING",
+    "osc:status": "PLANNED",
     "osc:region": "Antarctica",
     "osc:type": "Product",
-    "version": "1",
-    "updated": "2022-10-17T17:18:12Z",
     "datetime": null
   },
   "geometry": {
@@ -56,12 +54,13 @@
   "links": [
     {
       "rel": "via",
-      "href": "http://www.4d-antarctica.org/"
+      "href": "",
+      "title": "Access"
     },
     {
       "rel": "via",
       "href": "",
-      "title": "Access"
+      "title": "Documentation"
     },
     {
       "rel": "root",
@@ -71,6 +70,11 @@
     {
       "rel": "collection",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/geothermal-energy.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/4d-antarctica.json",
       "type": "application/json"
     },
     {

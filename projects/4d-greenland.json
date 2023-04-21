@@ -45,6 +45,12 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-subglacial-hydrology-4dgreenland.json",
+      "type": "application/json",
+      "title": "Ice Sheet subglacial hydrology_Greenland_S1/2"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/subglacial-melt-maps.json",
       "type": "application/json",
       "title": "Subglacial Melt Maps"
@@ -54,6 +60,18 @@
       "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-melt-detection-from-active-microwave-ascat-melt.json",
       "type": "application/json",
       "title": "Surface Melt Detection from Active Microwave - ASCAT Melt Product"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-surface-melt-4dgreenland.json",
+      "type": "application/json",
+      "title": "Ice Sheet Surface Melt_Greenland_S-1/2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hydrological-surface-features-4dgreenland.json",
+      "type": "application/json",
+      "title": "Extent and volume of hydrological surface features_Greenland_S1/2"
     },
     {
       "rel": "item",
